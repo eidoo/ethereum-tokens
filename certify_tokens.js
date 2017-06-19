@@ -63,7 +63,7 @@ addresses.forEach(token => {
   tokens[1][token] = tokenData
 })
 
-fs.writeFileSync(path.join(__dirname, 'certified_tokens.json'), JSON.stringify(tokens))
+fs.writeFileSync(path.join(__dirname, 'certified_tokens.json'), JSON.stringify(tokens, null, 2))
 
 function base64Img(token) {
   try {
