@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/digitalidentitysa/ethereum-tokens#readme",
   "dependencies": {
+    "glob": "^7.1.2",
+    "lodash.merge": "^4.6.0",
     "yargs": "^8.0.2"
   }
 }

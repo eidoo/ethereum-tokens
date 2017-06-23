@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5": {
+      "address": "0x48c80f1f4d53d5951e5d5438b54cba84f29f32a5",
+      "totalSupply": "11000000000000000000000000 ",
+      "decimals": 18,
+      "symbol": "REP",
+      "name": "REP - Augur"
+    }
+  }
+}
