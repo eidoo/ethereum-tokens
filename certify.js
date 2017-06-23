@@ -4,6 +4,9 @@ const fs = require('fs')
 const path = require('path')
 const glob = require('glob')
 const merge = require('lodash.merge')
+const set = require('lodash.set')
+const Web3 = require('web3')
+const toChecksumAddress = Web3.prototype.toChecksumAddress
 
 const argv = require('yargs')
   .alias('h', 'help')
@@ -22,37 +25,51 @@ const promisify = fn => (...args) => new Promise((resolve, reject) => {
   }
 })
 
-const base64Img = (address) => promisify(fs.readFile)(path.join(__dirname, 'img', `${address}.svg`))
+const readFile = promisify(fs.readFile)
+
+const base64Img = (address) =>
+  readFile(path.join(__dirname, 'img', `${address}.svg`))
+  .catch(() => readFile(path.join(__dirname, 'img', `${toChecksumAddress(address)}.svg`)))
   .then(svg => `data:image/svg+xml;base64,${svg.toString('base64')}`)
 
 const mask = path.resolve(__dirname, 'tokens', '*.json')
-const tokens = {}
+const verifiedTokens = {}
+
+const mapTokens = (tokens, cb) => {
+  const res = []
+  Object.keys(tokens).forEach(netid =>
+    Object.keys(tokens[netid]).forEach(address => res.push(cb(tokens[netid][address], netid)))
+  )
+  return res
+}
 
 promisify(glob)(mask, null)
 .then(files => Promise.all(files.map(filename =>
-  promisify(fs.readFile)(filename)
-  .then(data => merge(tokens, JSON.parse(data)))
-)))
-.then(() => {
-  const loadImages = []
-  Object.keys(tokens).forEach(netid => {
-    Object.keys(tokens[netid]).forEach(address => {
-      loadImages.push(
-        base64Img(address)
+  readFile(filename)
+  .then(data => JSON.parse(data))
+  .then(tokens =>
+    Promise.all(mapTokens(tokens, (token, netid) => {
+      const tokenData = {
+        address: token.address,
+        totalSupply: token.totalSupply,
+        decimals: token.decimals,
+        symbol: token.symbol,
+        name: token.name,
+        verified: '0x01',   // TODO create signature
+      }
+      set(verifiedTokens, `${netid}.${token.address}`, tokenData)
+      return base64Img(token.address)
         .then(imgdata => {
           if (imgdata) {
-            console.log('Loaded logo for', address)
-            tokens[netid][address].img = imgdata
+            console.log('Loaded logo for', token.address)
+            tokenData.img = imgdata
           }
         })
-        .catch(() => console.error(`Missing logo for ${address}`))
-      )
-    })
-  })
-  return Promise.all(loadImages)
-})
-.then(() => promisify(fs.writeFile)(argv.target, JSON.stringify(tokens, null, 2)))
+        .catch(() => console.error(`Missing logo for ${token.address}`))
+    }))
+  )
+)))
+.then(() => promisify(fs.writeFile)(argv.target, JSON.stringify(verifiedTokens, null, 2)))
 .catch(err => {
   console.error(err)
 })
-
