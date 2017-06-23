@@ -1,0 +1,22 @@
+{
+  "name": "ethereum-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "certify_tokens.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalidentitysa/ethereum-tokens.git"
+  },
+  "author": "Digital Identity SA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitalidentitysa/ethereum-tokens/issues"
+  },
+  "homepage": "https://github.com/digitalidentitysa/ethereum-tokens#readme",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
+}
