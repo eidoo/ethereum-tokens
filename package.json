@@ -4,7 +4,9 @@
   "description": "",
   "main": "certify_tokens.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublish": "npm run compile",
+    "compile": "[ ! -d dist ] && mkdir dist; ./certify.js -t dist/certified_tokens.json",
+    "build": ":"
   },
   "repository": {
     "type": "git",
