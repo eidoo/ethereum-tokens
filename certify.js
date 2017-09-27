@@ -49,6 +49,10 @@ promisify(glob)(mask, null)
   .then(data => JSON.parse(data))
   .then(tokens =>
     Promise.all(mapTokens(tokens, (token, netid) => {
+      if (!token.address || !token.name || !token.symbol || token.decimals == undefined || !token.totalSupply) {
+        console.error(`Skipping ${token.address} on file ${path.basename(filename)} for missing details`)
+        return
+      }
       const tokenData = {
         address: token.address,
         totalSupply: token.totalSupply,
