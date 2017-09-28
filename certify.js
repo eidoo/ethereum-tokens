@@ -32,9 +32,6 @@ const base64Img = (address) =>
   .catch(() => readFile(path.join(__dirname, 'img', `${toChecksumAddress(address)}.svg`)))
   .then(svg => `data:image/svg+xml;base64,${svg.toString('base64')}`)
 
-const mask = path.resolve(__dirname, 'tokens', '*.json')
-const verifiedTokens = {}
-
 const mapTokens = (tokens, cb) => {
   const res = []
   Object.keys(tokens).forEach(netid =>
@@ -43,12 +40,13 @@ const mapTokens = (tokens, cb) => {
   return res
 }
 
-promisify(glob)(mask, null)
-.then(files => Promise.all(files.map(filename =>
-  readFile(filename)
-  .then(data => JSON.parse(data))
-  .then(tokens =>
-    Promise.all(mapTokens(tokens, (token, netid) => {
+async function buildVerifiedTokensMap (mask) {
+  const verifiedTokens = {}
+  const files = await promisify(glob)(mask, null)
+  await Promise.all(files.map(async filename => {
+    const data = await readFile(filename)
+    const tokens = JSON.parse(data)
+    return Promise.all(mapTokens(tokens, async (token, netid) => {
       if (!token.address || !token.name || !token.symbol || token.decimals == undefined || !token.totalSupply) {
         console.error(`Skipping ${token.address} on file ${path.basename(filename)} for missing details`)
         return
@@ -62,18 +60,22 @@ promisify(glob)(mask, null)
         verified: '0x01',   // TODO create signature
       }
       set(verifiedTokens, `${netid}.${token.address}`, tokenData)
-      return base64Img(token.address)
-        .then(imgdata => {
-          if (imgdata) {
-            console.log('Loaded logo for', token.address)
-            tokenData.img = imgdata
-          }
-        })
-        .catch(() => console.error(`Missing logo for ${token.address}`))
+      try {
+        const imgdata = await base64Img(token.address)
+        if (imgdata) {
+          console.log('Loaded logo for', token.address)
+          tokenData.img = imgdata
+        }
+      } catch (err) {
+        console.error(`Missing logo for ${token.address}`)
+      }
     }))
-  )
-)))
-.then(() => promisify(fs.writeFile)(argv.target, JSON.stringify(verifiedTokens, null, 2)))
+  }))
+  return verifiedTokens
+}
+
+buildVerifiedTokensMap(path.resolve(__dirname, 'tokens', '*.json'))
+.then((verifiedTokens) => promisify(fs.writeFile)(argv.target, JSON.stringify(verifiedTokens, null, 2)))
 .catch(err => {
   console.error(err)
 })
