@@ -5,6 +5,7 @@ const path = require('path')
 const glob = require('glob')
 const merge = require('lodash.merge')
 const set = require('lodash.set')
+const stringify = require('json-stable-stringify');
 const Web3 = require('web3')
 const toChecksumAddress = Web3.prototype.toChecksumAddress
 
@@ -75,7 +76,7 @@ async function buildVerifiedTokensMap (mask) {
 }
 
 buildVerifiedTokensMap(path.resolve(__dirname, 'tokens', '*.json'))
-.then((verifiedTokens) => promisify(fs.writeFile)(argv.target, JSON.stringify(verifiedTokens, null, 2)))
+.then((verifiedTokens) => promisify(fs.writeFile)(argv.target, stringify(verifiedTokens, { space: 2 })))
 .catch(err => {
   console.error(err)
 })

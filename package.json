@@ -20,6 +20,7 @@
   "homepage": "https://github.com/digitalidentitysa/ethereum-tokens#readme",
   "dependencies": {
     "glob": "^7.1.2",
+    "json-stable-stringify": "^1.0.1",
     "lodash.merge": "^4.6.0",
     "lodash.set": "^4.3.2",
     "web3": "^0.19.0",
