@@ -1,0 +1,18 @@
+{
+  "1": {
+    "0x914c715a35ab30d90061970b410a4605a8a02166": {
+      "address": "0x914c715a35ab30d90061970b410a4605a8a02166",
+      "totalSupply": "0",
+      "decimals": 0,
+      "symbol": "XXX",
+      "name": "Fake"
+    },
+    "0x6448652259F72cC647E825CB6DA344A431802F97": {
+      "address": "0x6448652259F72cC647E825CB6DA344A431802F97",
+      "totalSupply": "0",
+      "decimals": 0,
+      "symbol": "XXX",
+      "name": "Fake"
+    }
+  }
+}
