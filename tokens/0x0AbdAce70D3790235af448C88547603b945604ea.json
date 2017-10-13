@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x0AbdAce70D3790235af448C88547603b945604ea": {
+      "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+      "totalSupply": "1000000000",
+      "decimals": 18,
+      "symbol": "DNT",
+      "name": "district0x Network Token"
+    }
+  }
+}
