@@ -45,6 +45,14 @@
       "totalSupply": "7.93239783607422567766216e+25",
       "verified": "0x01"
     },
+    "0x4470bb87d77b963a013db939be332f927f2b992e": {
+      "address": "0x4470bb87d77b963a013db939be332f927f2b992e",
+      "decimals": 4,
+      "name": "AdEx",
+      "symbol": "ADX",
+      "totalSupply": "0",
+      "verified": "0x01"
+    },
     "0x48c80f1f4d53d5951e5d5438b54cba84f29f32a5": {
       "address": "0x48c80f1f4d53d5951e5d5438b54cba84f29f32a5",
       "decimals": 18,
