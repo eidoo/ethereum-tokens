@@ -115,6 +115,14 @@
       "totalSupply": "71011281080000",
       "verified": "0x01"
     },
+    "0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66": {
+      "address": "0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66",
+      "decimals": 18,
+      "name": "CTX",
+      "symbol": "CarTaxi",
+      "totalSupply": "1",
+      "verified": "0x01"
+    },
     "0x667088b212ce3d06a1b553a7221e1fd19000d9af": {
       "address": "0x667088b212ce3d06a1b553a7221e1fd19000d9af",
       "decimals": 18,
