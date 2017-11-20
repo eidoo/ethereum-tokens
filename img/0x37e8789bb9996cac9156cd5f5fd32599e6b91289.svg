@@ -1,12 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>aidcoin_-_logo_ico</title>
+    <title>28x28</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="aidcoin_-_logo_ico" fill-rule="nonzero" fill="#1ABC9C">
-            <polygon id="ΛID" points="14.5 15 8.00788644 0 7.01419558 0 0.5 15 3.70189274 15 7.52208202 6.04910714 11.2981073 15"></polygon>
+    <defs>
+        <linearGradient x1="76.691361%" y1="23.308639%" x2="12.9643654%" y2="87.0356346%" id="linearGradient-1">
+            <stop stop-color="#1ABC9C" offset="0%"></stop>
+            <stop stop-color="#2C3E50" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="28x28">
+            <circle id="Oval-3" fill="url(#linearGradient-1)" cx="14" cy="14" r="14"></circle>
+            <g id="Group" transform="translate(5.000000, 4.000000)" fill="#FFFFFF">
+                <polygon id="Λ" points="17.2133333 17.4666667 9.59592008 0.0444444444 8.42998948 0.0444444444 0.786666667 17.4666667 4.54355415 17.4666667 9.02590957 7.07037037 13.4564458 17.4666667"></polygon>
+            </g>
         </g>
     </g>
 </svg>
