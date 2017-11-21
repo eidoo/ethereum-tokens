@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03": {
+      "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+      "totalSupply": "359978352393281147686590000",
+      "decimals": 18,
+      "symbol": "LEND",
+      "name": "EthLend Token"
+    }
+  }
+}
