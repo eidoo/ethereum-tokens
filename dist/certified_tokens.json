@@ -80,6 +80,14 @@
       "totalSupply": "11370445569934608",
       "verified": "0x01"
     },
+    "0x52903256dd18D85c2Dc4a6C999907c9793eA61E3": {
+      "address": "0x52903256dd18D85c2Dc4a6C999907c9793eA61E3",
+      "decimals": 0,
+      "name": "INS Promo Token",
+      "symbol": "INSP",
+      "totalSupply": "0",
+      "verified": "0x01"
+    },
     "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d": {
       "address": "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d",
       "decimals": 18,
