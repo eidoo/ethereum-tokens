@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x94ffb55ce68231c5966ea8dab16a8f066846513f": {
+      "address": "0x94ffb55ce68231c5966ea8dab16a8f066846513f",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "VIO",
+      "name": "Vio"
+    }
+  }
+}
