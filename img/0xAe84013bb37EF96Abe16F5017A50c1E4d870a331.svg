@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2000 2000" style="enable-background:new 0 0 2000 2000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#264498;}
+	.st1{fill:#4273B8;}
+	.st2{fill:#42506B;}
+	.st3{fill:#262261;}
+	.st4{fill:#FFFFFF;}
+	.st5{opacity:0.2;}
+</style>
+<g id="blue">
+	<g id="cover-obj">
+		<g id="XMLID_6_">
+			<g>
+				<g id="XMLID_26_">
+					<polygon class="st0" points="1000,0 221.9,1000 638.5,1000 					"/>
+				</g>
+				<g id="XMLID_25_">
+					<polygon class="st0" points="1000,2000 1778.1,1000 1361.5,1000 					"/>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_7_">
+			<polygon id="XMLID_126_" class="st1" points="1778.1,1000 1000,0 1361.5,1000 			"/>
+			<polygon id="XMLID_114_" class="st1" points="638.5,1000 221.9,1000 1000,2000 			"/>
+		</g>
+		<polygon id="XMLID_19_" class="st2" points="1000,0 638.5,1000 1000,2000 1361.5,1000 		"/>
+	</g>
+	<polygon id="center-obj" class="st3" points="1000,0 638.5,1000 1000,2000 1361.5,1000 	"/>
+	<polygon id="F" class="st4" points="855.1,791 1285.9,791 1236.3,653.6 763.7,653.6 711.4,798.4 711.4,937 661.3,937 638.5,1000 
+		663.8,1070 713.4,1070 713.4,1207.2 852.4,1591.6 852.4,1070 1172,1070 1172,1000 1172,937 855.1,937 	"/>
+	<g id="XMLID_1_" class="st5">
+		<polygon id="XMLID_67_" class="st4" points="1270.2,347.3 561.7,563.3 221.9,1000 233.6,1015 1491.4,631.5 		"/>
+		<polygon id="XMLID_74_" class="st4" points="1778.1,1000 1561.3,721.4 303.5,1104.9 524.7,1389.1 1771,1009.1 		"/>
+	</g>
+</g>
+</svg>
