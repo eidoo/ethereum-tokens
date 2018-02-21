@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x3E01B9ea9db8f17AB1825d848b2f2e04f57CaF09": {
+      "address": "0x3E01B9ea9db8f17AB1825d848b2f2e04f57CaF09",
+      "totalSupply": "5000000000",
+      "decimals": 18,
+      "symbol": "MKF",
+      "name": "Mankind First"
+    }
+  }
+}
