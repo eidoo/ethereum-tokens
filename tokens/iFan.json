@@ -3,7 +3,7 @@
     "0xAe84013bb37EF96Abe16F5017A50c1E4d870a331": {
       "address": "0xAe84013bb37EF96Abe16F5017A50c1E4d870a331",
       "totalSupply": "1000000000",
-      "decimals": 18,
+      "decimals": 8,
       "symbol": "IFAN",
       "name": "iFan"
     }
