@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x23352036e911a22cfc692b5e2e196692658aded9": {
+      "address": "0x23352036e911a22cfc692b5e2e196692658aded9",
+      "totalSupply": "1500000000000000000000000000",
+      "decimals": 18,
+      "symbol": "FDZ",
+      "name": "Friendz"
+    }
+  }
+}
