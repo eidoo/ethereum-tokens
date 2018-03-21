@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x4d829f8c92a6691c56300d020c9e0db984cfe2ba": {
+      "address": "0x4d829f8c92a6691c56300d020c9e0db984cfe2ba",
+      "totalSupply": "787608303000000000000000000",
+      "decimals": 18,
+      "symbol": "XCC",
+      "name": "CoinCrowd"
+    }
+  }
+}
