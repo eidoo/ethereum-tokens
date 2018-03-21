@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db": {
+      "address": "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+      "totalSupply": "246203093000000000000000000",
+      "decimals": 18,
+      "symbol": "APPC",
+      "name": "AppCoin"
+    }
+  }
+}
