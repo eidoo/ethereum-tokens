@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xdb8646F5b487B5Dd979FAC618350e85018F557d4": {
+      "address": "0xdb8646F5b487B5Dd979FAC618350e85018F557d4",
+      "totalSupply": "10000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BTK",
+      "name": "BitCoin Token"
+    }
+  }
+}
