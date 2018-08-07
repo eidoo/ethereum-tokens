@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28": {
+      "address": "0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28",
+      "totalSupply": "60000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "DAPS",
+      "name": "DAPSTOKEN"
+    }
+  }
+}
