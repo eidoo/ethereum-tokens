@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xc528c28fec0a90c083328bc45f587ee215760a0f": {
+      "address": "0xc528c28fec0a90c083328bc45f587ee215760a0f",
+      "totalSupply": "1500000000000000000000000000",
+      "decimals": 18,
+      "symbol": "EDR",
+      "name": "Endor Protocol Token"
+    }
+  }
+}
