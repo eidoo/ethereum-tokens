@@ -3,7 +3,9 @@
     "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac": {
       "address": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac",
       "totalSupply": "10000000",
-      "decimals": 0
+      "decimals": 0,
+      "symbol": "BCAP",
+      "name": "Blockchain Capital"
     }
   }
 }
