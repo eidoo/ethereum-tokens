@@ -2,8 +2,10 @@
   "1": {
     "0xc66ea802717bfb9833400264dd12c2bceaa34a6d": {
       "address": "0xc66ea802717bfb9833400264dd12c2bceaa34a6d",
-      "totalSupply": "1e+24",
-      "decimals": 0
+      "totalSupply": "1000000000000000000000000",
+      "decimals": 18,
+      "symbol": "MKR",
+      "name": "MKR"
     }
   }
 }
