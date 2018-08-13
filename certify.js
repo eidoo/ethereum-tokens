@@ -52,6 +52,7 @@ async function buildVerifiedTokensMap (mask) {
         console.error(`Skipping ${token.address} on file ${path.basename(filename)} for missing details`)
         return
       }
+      token.address = token.address.toLowerCase()
       const tokenData = {
         address: token.address,
         totalSupply: token.totalSupply,
