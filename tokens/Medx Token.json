@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7": {
+      "address": "0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7",
+      "totalSupply": "1000000000000000000",
+      "decimals": 8,
+      "symbol": "MEDX",
+      "name": "Medx Token"
+    }
+  }
+}
