@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab": {
+      "address": "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
+      "totalSupply": "21000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "IOST",
+      "name": "IOSToken"
+    }
+  }
+}
