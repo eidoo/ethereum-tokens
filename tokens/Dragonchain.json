@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e": {
+      "address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+      "totalSupply": "433494437000000000000000000",
+      "decimals": 18,
+      "symbol": "DRGN",
+      "name": "Dragonchain"
+    }
+  }
+}
