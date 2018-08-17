@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x4672bad527107471cb5067a887f4656d585a8a31": {
+      "address": "0x4672bad527107471cb5067a887f4656d585a8a31",
+      "totalSupply": "30000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "DROP",
+      "name": "Dropil"
+    }
+  }
+}
