@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c": {
+      "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+      "totalSupply": "76834228061910255920763781",
+      "decimals": 18,
+      "symbol": "BNT",
+      "name": "Bancor Network Token"
+    }
+  }
+}
