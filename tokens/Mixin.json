@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xa974c709cfb4566686553a20790685a47aceaa33": {
+      "address": "0xa974c709cfb4566686553a20790685a47aceaa33",
+      "totalSupply": "1000000000000000000000000",
+      "decimals": 18,
+      "symbol": "XIN",
+      "name": "Mixin"
+    }
+  }
+}
