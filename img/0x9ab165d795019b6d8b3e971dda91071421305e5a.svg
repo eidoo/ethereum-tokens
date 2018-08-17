@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:#555555;}
+	.st5{fill:none;stroke:#555555;stroke-width:5;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#555555;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#555555;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<polygon class="st0" points="186.6,120.2 102.6,120.8 103.3,182.8 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12.875" y1="151.8438" x2="98.25" y2="151.8438">
+	<stop  offset="0" style="stop-color:#1F92DF;stop-opacity:0.3"/>
+	<stop  offset="4.213305e-02" style="stop-color:#2796E0;stop-opacity:0.2906"/>
+	<stop  offset="0.1086" style="stop-color:#3EA1E3;stop-opacity:0.2759"/>
+	<stop  offset="0.191" style="stop-color:#63B3E9;stop-opacity:0.2575"/>
+	<stop  offset="0.2863" style="stop-color:#96CCF0;stop-opacity:0.2364"/>
+	<stop  offset="0.3909" style="stop-color:#D7ECF9;stop-opacity:0.2131"/>
+	<stop  offset="0.45" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+	<stop  offset="0.4804" style="stop-color:#DEF7F9;stop-opacity:0.2277"/>
+	<stop  offset="0.5188" style="stop-color:#BDF0F2;stop-opacity:0.2626"/>
+	<stop  offset="0.5615" style="stop-color:#A0E9EC;stop-opacity:0.3014"/>
+	<stop  offset="0.6088" style="stop-color:#88E3E8;stop-opacity:0.3444"/>
+	<stop  offset="0.6626" style="stop-color:#76DFE4;stop-opacity:0.3933"/>
+	<stop  offset="0.7269" style="stop-color:#69DCE2;stop-opacity:0.4517"/>
+	<stop  offset="0.8118" style="stop-color:#62DAE0;stop-opacity:0.5289"/>
+	<stop  offset="1" style="stop-color:#60DAE0;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#5AD7DF;stop-opacity:0.709"/>
+	<stop  offset="1" style="stop-color:#42CBD9;stop-opacity:0.7498"/>
+	<stop  offset="1" style="stop-color:#31C2D5;stop-opacity:0.7933"/>
+	<stop  offset="1" style="stop-color:#27BDD3;stop-opacity:0.8408"/>
+	<stop  offset="1" style="stop-color:#24BBD2;stop-opacity:0.9"/>
+</linearGradient>
+<polygon class="st1" points="12.9,121.5 98.3,182.8 97.6,120.8 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="101.625" y1="69.7656" x2="187.5" y2="69.7656">
+	<stop  offset="0" style="stop-color:#49C5A8;stop-opacity:0.25"/>
+	<stop  offset="1" style="stop-color:#60DAE0;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#5ACED7;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#4AB0C1;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#3D98AF;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#3487A3;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#2F7D9B;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#2D7A99;stop-opacity:0.7"/>
+</linearGradient>
+<polygon class="st2" points="187.5,119.2 101.6,19.8 102.6,119.8 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="12.7083" y1="70.1458" x2="97.5833" y2="70.1458">
+	<stop  offset="0" style="stop-color:#42B3D8;stop-opacity:0.7"/>
+	<stop  offset="0.45" style="stop-color:#B9FFFF;stop-opacity:0.7"/>
+	<stop  offset="0.4794" style="stop-color:#ABFAFA;stop-opacity:0.7"/>
+	<stop  offset="0.5935" style="stop-color:#7AEAE9;stop-opacity:0.7"/>
+	<stop  offset="0.65" style="stop-color:#67E4E2;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#60DAE0;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#4BD1D8;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#3ACAD1;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#30C5CD;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#2DC4CC;stop-opacity:0.7"/>
+</linearGradient>
+<polygon class="st3" points="12.7,120.5 96.5,19.8 97.6,119.8 "/>
+<g>
+	<path class="st4" d="M99.1,16.7l88.6,102.6l-86.9,65.2l-88.5-63.6L99.1,16.7 M99,9L5,122l95.8,68.8l94.2-70.7L99,9L99,9z"/>
+</g>
+<line class="st5" x1="99.1" y1="16" x2="100.8" y2="185.8"/>
+<line class="st6" x1="10.8" y1="121" x2="188.7" y2="119.7"/>
+<path class="st6" d="M44,145.5c0,0,48,6.8,36.2-25L67.3,84.3c0,0-1.8-9.8,7.7-7.5c9.5,2.3,56.5,40.3,54.9,43.2"/>
+<path class="st7" d="M165.8,137.3c0,0,9.5-19.1,1-30.8c-5.7-7.9-20.8-13-20.8-13L133,89l-10.8-4.3c0,0-15-7.7-19.5-11.5
+	C98.2,69.3,82.5,55.7,83,34.3"/>
+</svg>

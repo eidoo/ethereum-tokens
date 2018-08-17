@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x9ab165d795019b6d8b3e971dda91071421305e5a": {
+      "address": "0x9ab165d795019b6d8b3e971dda91071421305e5a",
+      "totalSupply": "10000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "AOA",
+      "name": "Aurora"
+    }
+  }
+}
