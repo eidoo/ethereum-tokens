@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a": {
+      "address": "0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a",
+      "totalSupply": "500000000000000",
+      "decimals": 6,
+      "symbol": "SPN",
+      "name": "Sapien Network"
+    }
+  }
+}
