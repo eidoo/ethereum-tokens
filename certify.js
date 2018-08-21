@@ -42,38 +42,45 @@ const mapTokens = (tokens, cb) => {
 }
 
 async function buildVerifiedTokensMap (mask) {
-  const verifiedTokens = {}
-  const files = await promisify(glob)(mask, null)
-  await Promise.all(files.map(async filename => {
-    const data = await readFile(filename)
-    const tokens = JSON.parse(data)
-    return Promise.all(mapTokens(tokens, async (token, netid) => {
-      if (!token.address || !token.name || !token.symbol || token.decimals == undefined || !token.totalSupply) {
-        console.error(`Skipping ${token.address} on file ${path.basename(filename)} for missing details`)
-        return
-      }
-      token.address = token.address.toLowerCase()
-      const tokenData = {
-        address: token.address,
-        totalSupply: token.totalSupply,
-        decimals: token.decimals,
-        symbol: token.symbol,
-        name: token.name,
-        verified: '0x01',   // TODO create signature
-      }
-      set(verifiedTokens, `${netid}.${token.address}`, tokenData)
+    const verifiedTokens = {}
+    const files = await promisify(glob)(mask, null)
+    for (let filename of files) {
+    // await Promise.all(files.map(async filename => {
       try {
-        const imgdata = await base64Img(token.address)
-        if (imgdata) {
-          console.log('Loaded logo for', token.address)
-          tokenData.img = imgdata
-        }
+        const data = await readFile(filename)
+        const tokens = JSON.parse(data)
+        await Promise.all(mapTokens(tokens, async (token, netid) => {
+          if (!token.address || !token.name || !token.symbol || token.decimals == undefined || !token.totalSupply) {
+            console.error(`Skipping ${token.address} on file ${path.basename(filename)} for missing details`)
+            return
+          }
+          token.address = token.address.toLowerCase()
+          const tokenData = {
+            address: token.address,
+            totalSupply: token.totalSupply,
+            decimals: token.decimals,
+            symbol: token.symbol,
+            name: token.name,
+            verified: '0x01',   // TODO create signature
+          }
+          set(verifiedTokens, `${netid}.${token.address}`, tokenData)
+          try {
+            const imgdata = await base64Img(token.address)
+            if (imgdata) {
+              console.log('Loaded logo for', token.address)
+              tokenData.img = imgdata
+            }
+          } catch (err) {
+            console.error(`Missing logo for ${token.address}`)
+          }
+        }))
       } catch (err) {
-        console.error(`Missing logo for ${token.address}`)
+        console.error(`Error processing ${filename}`)
+        console.error(err)
+        process.exit(1)
       }
-    }))
-  }))
-  return verifiedTokens
+    }
+    return verifiedTokens
 }
 
 buildVerifiedTokensMap(path.resolve(__dirname, 'tokens', '*.json'))
