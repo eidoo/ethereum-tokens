@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f": {
+      "address": "0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "CMT",
+      "name": "CyberMiles"
+    }
+  }
+}
