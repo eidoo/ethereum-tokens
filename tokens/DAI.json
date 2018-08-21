@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359": {
+      "address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+      "totalSupply": "47058108240964819574522135",
+      "decimals": 18,
+      "symbol": "DAI",
+      "name": "Dai Stablecoin"
+    }
+  }
+}
