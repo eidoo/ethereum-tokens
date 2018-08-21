@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e": {
+      "address": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+      "totalSupply": "65267803020000000000000000",
+      "decimals": 18,
+      "symbol": "TUSD",
+      "name": "TrueUSD"
+    }
+  }
+}
