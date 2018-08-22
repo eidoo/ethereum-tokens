@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x3883f5e181fccaF8410FA61e12b59BAd963fb645": {
+      "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "THETA",
+      "name": "Theta Token"
+    }
+  }
+}
