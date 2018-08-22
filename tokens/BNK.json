@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f": {
+      "address": "0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BFT",
+      "name": "BF Token"
+    }
+  }
+}
