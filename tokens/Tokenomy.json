@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xdd16ec0f66e54d453e6756713e533355989040e4": {
+      "address": "0xdd16ec0f66e54d453e6756713e533355989040e4",
+      "totalSupply": "200000000000000000000000000",
+      "decimals": 18,
+      "symbol": "TEN",
+      "name": "Tokenomy"
+    }
+  }
+}
