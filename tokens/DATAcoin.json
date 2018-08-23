@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x0cf0ee63788a0849fe5297f3407f701e122cc023": {
+      "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+      "totalSupply": "987154514000000000000000000",
+      "decimals": 18,
+      "symbol": "DATA",
+      "name": "DATAcoin"
+    }
+  }
+}
