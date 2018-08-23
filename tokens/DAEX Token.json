@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x0b4bdc478791897274652dc15ef5c135cae61e60": {
+      "address": "0x0b4bdc478791897274652dc15ef5c135cae61e60",
+      "totalSupply": "2000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "DAX",
+      "name": "DAEX Token"
+    }
+  }
+}
