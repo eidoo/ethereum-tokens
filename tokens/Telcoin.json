@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x85e076361cc813a908ff672f9bad1541474402b2": {
+      "address": "0x85e076361cc813a908ff672f9bad1541474402b2",
+      "totalSupply": "10000000000000",
+      "decimals": 2,
+      "symbol": "TEL",
+      "name": "Telcoin"
+    }
+  }
+}
