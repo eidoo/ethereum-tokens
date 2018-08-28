@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x36905fc93280f52362a1cbab151f25dc46742fb5": {
+      "address": "0x36905fc93280f52362a1cbab151f25dc46742fb5",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BTO",
+      "name": "BTOCoin"
+    }
+  }
+}
