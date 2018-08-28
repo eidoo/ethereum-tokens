@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x697beac28b09e122c4332d163985e8a73121b97f": {
+      "address": "0x697beac28b09e122c4332d163985e8a73121b97f",
+      "totalSupply": "6500000000000000",
+      "decimals": 8,
+      "symbol": "QRL",
+      "name": "Quantum Resistant Ledger"
+    }
+  }
+}
