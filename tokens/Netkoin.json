@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c": {
+      "address": "0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
+      "totalSupply": "250000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "NTK",
+      "name": "Netkoin"
+    }
+  }
+}
