@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0": {
+      "address": "0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "Seele",
+      "name": "SeeleToken"
+    }
+  }
+}
