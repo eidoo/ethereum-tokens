@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xe2fb6529ef566a080e6d23de0bd351311087d567": {
+      "address": "0xe2fb6529ef566a080e6d23de0bd351311087d567",
+      "totalSupply": "20000000000000000000000000",
+      "decimals": 18,
+      "symbol": "COV",
+      "name": "Covesting"
+    }
+  }
+}
