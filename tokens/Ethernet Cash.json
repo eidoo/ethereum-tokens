@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x039f5050de4908f9b5ddf40a4f3aa3f329086387": {
+      "address": "0x039f5050de4908f9b5ddf40a4f3aa3f329086387",
+      "totalSupply": "19999999986000000000000000000",
+      "decimals": 18,
+      "symbol": "ENC",
+      "name": "Ethernet Cash"
+    }
+  }
+}
