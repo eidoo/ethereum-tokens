@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba": {
+      "address": "0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba",
+      "totalSupply": "1200000000000000000000000000",
+      "decimals": 18,
+      "symbol": "eosDAC",
+      "name": "eosDAC ERC20 Tokens"
+    }
+  }
+}
