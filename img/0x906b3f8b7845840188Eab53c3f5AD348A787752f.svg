@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Dorado" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<linearGradient id="Blue-square_1_" gradientUnits="userSpaceOnUse" x1="99.9974" y1="-239" x2="99.9974" y2="-119.0278" gradientTransform="matrix(1 0 0 -1 0 -44)">
+	<stop  offset="0" style="stop-color:#0681ED"/>
+	<stop  offset="1" style="stop-color:#2197FF"/>
+</linearGradient>
+<path id="Blue-square" fill="url(#Blue-square_1_)" d="M97.8,194.1l-56.9-56.9c-1.2-1.2-1.2-3.2,0-4.4l56.9-56.9
+	c1.2-1.2,3.2-1.2,4.4,0l56.9,56.9c1.2,1.2,1.2,3.2,0,4.4l-56.9,56.9C101,195.3,99,195.3,97.8,194.1z"/>
+<path id="Shadow" fill="#044D8C" d="M97.8,75.9L65,108.8l32.8,32.8c1.2,1.2,3.2,1.2,4.4,0l32.8-32.8l-32.8-32.8
+	C101,74.7,99,74.7,97.8,75.9z"/>
+<linearGradient id="Red-square_1_" gradientUnits="userSpaceOnUse" x1="100.0016" y1="-168.9743" x2="100.0016" y2="-49" gradientTransform="matrix(1 0 0 -1 0 -44)">
+	<stop  offset="0" style="stop-color:#C41431"/>
+	<stop  offset="1" style="stop-color:#F7193E"/>
+</linearGradient>
+<path id="Red-square" fill="url(#Red-square_1_)" d="M97.8,124.1L40.9,67.2c-1.2-1.2-1.2-3.2,0-4.4L97.8,5.9c1.2-1.2,3.2-1.2,4.4,0
+	l56.9,56.9c1.2,1.2,1.2,3.2,0,4.4l-56.9,56.9C101,125.3,99,125.3,97.8,124.1z"/>
+</svg>
