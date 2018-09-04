@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x92a414b4f14bb4963b623400793d5037e1fb399e": {
+      "address": "0x92a414b4f14bb4963b623400793d5037e1fb399e",
+      "totalSupply": "160000000000000000000000000",
+      "decimals": 18,
+      "symbol": "JAAG",
+      "name": "JAAGCoin"
+    }
+  }
+}
