@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x9b11b1b271a224a271619f3419b1b080fdec5b4a": {
+      "address": "0x9b11b1b271a224a271619f3419b1b080fdec5b4a",
+      "totalSupply": "50000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BLB",
+      "name": "Bilibit"
+    }
+  }
+}
