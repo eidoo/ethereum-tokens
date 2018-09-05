@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xbd35aefa375b57a801ddc87615aef1e9f353df28": {
+      "address": "0xbd35aefa375b57a801ddc87615aef1e9f353df28",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "TTM",
+      "name": "ToTheMoon"
+    }
+  }
+}
