@@ -71,7 +71,7 @@ async function buildVerifiedTokensMap (mask) {
               tokenData.img = imgdata
             }
           } catch (err) {
-            console.error(`Missing logo for ${token.address}`)
+            console.error(`Missing logo for ${token.name} (${token.address})`)
           }
         }))
       } catch (err) {
