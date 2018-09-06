@@ -4,6 +4,13 @@
         "address": "0xA1D371c8C281198725cEb66Ef353e94eb1Ec27be",
         "totalSupply": "25000000000000000000000000",
         "decimals": 18,
+        "symbol": "XXX",
+        "name": "Dismissed"
+      },
+      "0x498B8A550291Ac9529c8cCAFa0f7E73b5e2232CF": {
+        "address": "0x498B8A550291Ac9529c8cCAFa0f7E73b5e2232CF",
+        "totalSupply": "25000000000000000000000000",
+        "decimals": 18,
         "symbol": "WLO",
         "name": "Wollo"
       }
