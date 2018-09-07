@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xa95592dcffa3c080b4b40e459c5f5692f67db7f8": {
+      "address": "0xa95592dcffa3c080b4b40e459c5f5692f67db7f8",
+      "totalSupply": "260000000000000000000000000",
+      "decimals": 18,
+      "symbol": "ELY",
+      "name": "Elycoin"
+    }
+  }
+}
