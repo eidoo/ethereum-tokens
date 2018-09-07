@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x170b275ced089fffaebfe927f445a350ed9160dc": {
+      "address": "0x170b275ced089fffaebfe927f445a350ed9160dc",
+      "totalSupply": "11000000000000000000",
+      "decimals": 8,
+      "symbol": "OWN",
+      "name": "OwnData"
+    }
+  }
+}
