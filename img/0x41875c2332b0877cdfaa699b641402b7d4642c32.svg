@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#BFBFBF;}
+	.st2{fill:none;stroke:#BFBFBF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5" y1="99.8812" x2="195" y2="99.8812">
+	<stop  offset="0" style="stop-color:#444095"/>
+	<stop  offset="1" style="stop-color:#E62790"/>
+</linearGradient>
+<polygon class="st0" points="168.9,122.2 195,122.2 195,5.8 5,5.8 5,193.9 122.8,193.9 122.3,170.2 28.8,170.2 28.8,30.1 
+	168.9,30.1 "/>
+<path class="st1" d="M99.5,152.2l-37-15.3l-15.3-37l15.3-37l37-15.3l37,15.3l15.3,37l-15.3,37L99.5,152.2z M64,135.4l35.5,14.7
+	l35.5-14.7l14.7-35.5l-14.7-35.5L99.5,49.6L64,64.3L49.3,99.8L64,135.4z"/>
+<polyline class="st2" points="99.5,150.8 150.2,100.3 99.5,99.9 48.6,100.4 "/>
+<polyline class="st2" points="135.6,136 110,125.6 48.6,99.9 135.4,64.2 63.7,136 99.5,49.6 99.5,150.8 63.6,64.1 135.6,136 
+	99.5,49.6 "/>
+<polyline class="st2" points="163.9,163.1 99.5,150.8 135.4,64.2 163.9,163.1 "/>
+<polyline class="st2" points="63.6,64.1 150.2,100.3 89.2,125.8 124.9,89.7 164.8,163.1 "/>
+<polygon class="st2" points="164.8,163.1 63.7,136 89,125.4 "/>
+<polygon class="st2" points="163.9,162.6 110,125.5 124.9,110.9 "/>
+<line class="st2" x1="150.2" y1="100.3" x2="163.9" y2="162.6"/>
+<circle cx="163.9" cy="163.1" r="31.1"/>
+<circle cx="63.6" cy="64.1" r="4.8"/>
+<circle cx="124.9" cy="89.7" r="4.8"/>
+<circle cx="150.2" cy="100.3" r="4.8"/>
+<circle cx="135.4" cy="64.2" r="4.8"/>
+<circle cx="99.5" cy="49.3" r="4.8"/>
+<circle cx="110" cy="74.8" r="4.8"/>
+<circle cx="89.2" cy="74.8" r="4.8"/>
+<circle cx="74.2" cy="89.7" r="4.8"/>
+<circle cx="99.5" cy="99.9" r="4.8"/>
+<circle cx="74.2" cy="110.8" r="4.8"/>
+<circle cx="124.9" cy="110.8" r="4.8"/>
+<circle cx="48.6" cy="100.4" r="4.8"/>
+<circle cx="89.2" cy="125.6" r="4.8"/>
+<circle cx="110" cy="125.6" r="4.8"/>
+<circle cx="135.6" cy="136" r="4.8"/>
+<circle cx="99.5" cy="150.8" r="4.8"/>
+<circle cx="63.7" cy="136" r="4.8"/>
+</svg>
