@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x515669d308f887fd83a471c7764f5d084886d34d": {
+      "address": "0x515669d308f887fd83a471c7764f5d084886d34d",
+      "totalSupply": "10000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "MUXE",
+      "name": "MUXE Token"
+    }
+  }
+}
