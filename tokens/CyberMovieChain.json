@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x7abc60b3290f68c85f495fd2e0c3bd278837a313": {
+      "address": "0x7abc60b3290f68c85f495fd2e0c3bd278837a313",
+      "totalSupply": "2000000000000000000",
+      "decimals": 8,
+      "symbol": "CMCT",
+      "name": "CyberMovieChain"
+    }
+  }
+}
