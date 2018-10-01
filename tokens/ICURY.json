@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x8903e8f101d86ea097efe104a3d53f4c42cb44bc": {
+      "address": "0x8903e8f101d86ea097efe104a3d53f4c42cb44bc",
+      "totalSupply": "5000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "ICY",
+      "name": "ICURY"
+    }
+  }
+}
