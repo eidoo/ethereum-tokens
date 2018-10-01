@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x499a6b77bc25c26bcf8265e2102b1b3dd1617024": {
+      "address": "0x499a6b77bc25c26bcf8265e2102b1b3dd1617024",
+      "totalSupply": "550000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BTR",
+      "name": "Bitether"
+    }
+  }
+}
