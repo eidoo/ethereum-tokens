@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xece83617db208ad255ad4f45daf81e25137535bb": {
+      "address": "0xece83617db208ad255ad4f45daf81e25137535bb",
+      "totalSupply": "6000000000000000",
+      "decimals": 8,
+      "symbol": "INV",
+      "name": "Invacio Coin"
+    }
+  }
+}
