@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037": {
+      "address": "0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037",
+      "totalSupply": "60000000000",
+      "decimals": 8,
+      "symbol": "GGC",
+      "name": "GramGold Coin"
+    }
+  }
+}
