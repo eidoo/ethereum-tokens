@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x6e403df62b5e5d2991519fee1768291b1bfeeb8b": {
+      "address": "0x6e403df62b5e5d2991519fee1768291b1bfeeb8b",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "ANNA",
+      "name": "ANNA coin"
+    }
+  }
+}
