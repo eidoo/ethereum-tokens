@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x14c926f2290044b647e1bf2072e67b495eff1905": {
+      "address": "0x14c926f2290044b647e1bf2072e67b495eff1905",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BETHER",
+      "name": "Bethereum"
+    }
+  }
+}
