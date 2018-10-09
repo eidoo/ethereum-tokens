@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838": {
+      "address": "0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838",
+      "totalSupply": "1000000000000000",
+      "decimals": 4,
+      "symbol": "GSE",
+      "name": "GSENetwork"
+    }
+  }
+}
