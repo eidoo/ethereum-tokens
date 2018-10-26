@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x1c83501478f1320977047008496dacbd60bb15ef": {
+      "address": "0x1c83501478f1320977047008496dacbd60bb15ef",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "DGTX",
+      "name": "DigitexFutures"
+    }
+  }
+}
