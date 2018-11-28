@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xc5d350b854a6cff0fc5a38a115a90c774dcae1b9": {
+      "address": "0xc5d350b854a6cff0fc5a38a115a90c774dcae1b9",
+      "totalSupply": "25000000000000000000000000",
+      "decimals": 18,
+      "symbol": "CFT",
+      "name": "Cryptoforecast"
+    }
+  }
+}
