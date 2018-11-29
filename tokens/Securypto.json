@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x2ed92cae08b7e24d7c01a11049750498ebcae8e0": {
+      "address": "0x2ed92cae08b7e24d7c01a11049750498ebcae8e0",
+      "totalSupply": "100000000000000000000000000",
+      "decimals": 18,
+      "symbol": "SCU",
+      "name": "Securypto"
+    }
+  }
+}
