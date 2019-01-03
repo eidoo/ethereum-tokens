@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xd9a1fe8b4d6de4f41c8a1b6ad3b6457916e546b4": {
+      "address": "0xd9a1fe8b4d6de4f41c8a1b6ad3b6457916e546b4",
+      "totalSupply": "6000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "FOTC",
+      "name": "Fortecoin"
+    }
+  }
+}
