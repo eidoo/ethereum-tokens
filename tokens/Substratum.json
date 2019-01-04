@@ -1,9 +1,9 @@
 {
   "1": {
-    "0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a": {
-      "address": "0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a",
-      "totalSupply": "59200000000",
-      "decimals": 2,
+    "0x8D75959f1E61EC2571aa72798237101F084DE63a": {
+      "address": "0x8D75959f1E61EC2571aa72798237101F084DE63a",
+      "totalSupply": "472000000000000000000000000",
+      "decimals": 18,
       "symbol": "SUB",
       "name": "Substratum"
     }
