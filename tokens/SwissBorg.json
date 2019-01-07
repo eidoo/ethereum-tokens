@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xba9d4199fab4f26efe3551d490e3821486f135ba": {
+      "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
+      "totalSupply": "100000000000000000",
+      "decimals": 8,
+      "symbol": "CHSB",
+      "name": "SwissBorg Token"
+    }
+  }
+}
