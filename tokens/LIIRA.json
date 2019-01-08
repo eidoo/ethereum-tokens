@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x720df200439f47fd4185f76a0a131a322d61ddd3": {
+      "address": "0x720df200439f47fd4185f76a0a131a322d61ddd3",
+      "totalSupply": "10000000000000",
+      "decimals": 2,
+      "symbol": "LIIRA",
+      "name": "Liira Coin"
+    }
+  }
+}
