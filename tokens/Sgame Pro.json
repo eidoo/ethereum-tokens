@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x72b509b59bbfe847a1d68eae96161adff8675064": {
+      "address": "0x72b509b59bbfe847a1d68eae96161adff8675064",
+      "totalSupply": "350000000000000000000000000",
+      "decimals": 18,
+      "symbol": "SGM",
+      "name": "Sgame Token"
+    }
+  }
+}
