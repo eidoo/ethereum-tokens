@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x1f82a2d4672cd56811806928aef2b2fd67dd3d47": {
+      "address": "0x1f82a2d4672cd56811806928aef2b2fd67dd3d47",
+      "totalSupply": "21000000000000000000000000",
+      "decimals": 18,
+      "symbol": "KBT",
+      "name": "Kryptobot"
+    }
+  }
+}
