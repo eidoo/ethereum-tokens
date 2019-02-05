@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xd26fb114401Ec86887CD09F62eccd95fCf20B571": {
+      "address": "0xd26fb114401Ec86887CD09F62eccd95fCf20B571",
+      "totalSupply": "500000000000000000000000000",
+      "decimals": 8,
+      "symbol": "BCP",
+      "name": "Bitcoinplatinums"
+    }
+  }
+}
