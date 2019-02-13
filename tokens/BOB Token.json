@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134": {
+      "address": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+      "totalSupply": "360000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BOB",
+      "name": "BOB Token"
+    }
+  }
+}
