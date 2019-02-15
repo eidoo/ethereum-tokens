@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa": {
+      "address": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+      "totalSupply": "66600000000000",
+      "decimals": 2,
+      "symbol": "ETHMNY",
+      "name": "Ethereum Money"
+    }
+  }
+}
