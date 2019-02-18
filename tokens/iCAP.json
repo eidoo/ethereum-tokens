@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x9e28c6ca2bdf2dd92c36222bf09993d577ff2b72": {
+      "address": "0x9e28c6ca2bdf2dd92c36222bf09993d577ff2b72",
+      "totalSupply": "600000000000000000000000000",
+      "decimals": 18,
+      "symbol": "iCAP",
+      "name": "integratedCAPITAL"
+    }
+  }
+}
