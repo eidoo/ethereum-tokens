@@ -3,6 +3,7 @@
 const fs = require('fs')
 const path = require('path')
 const glob = require('glob')
+const axios = require('axios')
 const merge = require('lodash.merge')
 const set = require('lodash.set')
 const stringify = require('json-stable-stringify');
@@ -12,6 +13,7 @@ const toChecksumAddress = Web3.prototype.toChecksumAddress
 const argv = require('yargs')
   .alias('h', 'help')
   .alias('t', 'target')
+  .alias('v', 'verbose')
   .demandOption('target')
   .argv
 
@@ -41,9 +43,24 @@ const mapTokens = (tokens, cb) => {
   return res
 }
 
+const fetchCoinDataFromCryptoCompare = async () => {
+  const response = await axios.get(
+    "https://min-api.cryptocompare.com/data/all/coinlist"
+  );
+  const mapping = Object.values(response.data.Data).reduce(
+    (acc, { SmartContractAddress: address, Symbol: symbol }) =>
+      address ? { ...acc, [address.toLowerCase()]: symbol } : acc,
+    {}
+  );
+  return mapping;
+};
+
 async function buildVerifiedTokensMap (mask) {
     const verifiedTokens = {}
     const files = await promisify(glob)(mask, null)
+    const addressSymbolMap = await fetchCoinDataFromCryptoCompare()
+    let allProcessedTokens = 0
+    let cryptoCompareCounter = 0
     for (let filename of files) {
     // await Promise.all(files.map(async filename => {
       try {
@@ -63,12 +80,23 @@ async function buildVerifiedTokensMap (mask) {
             name: token.name,
             verified: '0x01',   // TODO create signature
           }
+          const cryptoCompareSymbol = addressSymbolMap[token.address]
+          if (cryptoCompareSymbol) {
+            tokenData.cryptoCompareSymbol = cryptoCompareSymbol
+            cryptoCompareCounter++
+            if (argv.verbose) {
+              console.log(`Added CryptoCompareSymbol to ${token.symbol}: ${cryptoCompareSymbol}`)
+            }
+          }
           set(verifiedTokens, `${netid}.${token.address}`, tokenData)
+          allProcessedTokens++
           try {
             const imgdata = await base64Img(token.address)
             if (imgdata) {
-              console.log('Loaded logo for', token.address)
               tokenData.img = imgdata
+              if (argv.verbose) {
+                console.log('Loaded logo for', token.address)
+              }
             }
           } catch (err) {
             console.error(`Missing logo for ${token.name} (${token.address})`)
@@ -80,6 +108,7 @@ async function buildVerifiedTokensMap (mask) {
         process.exit(1)
       }
     }
+    console.log(`CryptoCompareSymbol added to: ${cryptoCompareCounter}/${allProcessedTokens}`)
     return verifiedTokens
 }
 
