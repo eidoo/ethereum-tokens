@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x4f76e85d067e219779a863ff18577846b3152f1f": {
+      "address": "0x4f76e85d067e219779a863ff18577846b3152f1f",
+      "totalSupply": "10000000000000000000",
+      "decimals": 8,
+      "symbol": "KUBO",
+      "name": "Kubo Coin"
+    }
+  }
+}
