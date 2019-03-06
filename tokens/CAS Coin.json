@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x779492d3644ddf4495aa2d80c468e1b7be6af1d2": {
+      "address": "0x779492d3644ddf4495aa2d80c468e1b7be6af1d2",
+      "totalSupply": "2500000000",
+      "decimals": 2,
+      "symbol": "CAS",
+      "name": "CAS coin"
+    }
+  }
+}
