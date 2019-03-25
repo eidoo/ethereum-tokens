@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7": {
+      "address": "0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7",
+      "totalSupply": "200000000000000000000000000",
+      "decimals": 18,
+      "symbol": "JNT",
+      "name": "Jibrel Network Token"
+    }
+  }
+}
