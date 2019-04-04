@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x9e3359f862b6c7f5c660cfd6d1aa6909b1d9504d": {
+      "address": "0x9e3359f862b6c7f5c660cfd6d1aa6909b1d9504d",
+      "totalSupply": "500000000000000000000000000",
+      "decimals": 18,
+      "symbol": "CCC",
+      "name": "Container Crypto Coin"
+    }
+  }
+}
