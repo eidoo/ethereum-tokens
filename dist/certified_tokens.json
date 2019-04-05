@@ -1891,14 +1891,6 @@
       "totalSupply": "177619433541141312344380335741",
       "verified": "0x01"
     },
-    "0x6e1e38c5cafcae293ca3f7bf840094355c671e47": {
-      "address": "0x6e1e38c5cafcae293ca3f7bf840094355c671e47",
-      "decimals": 18,
-      "name": "Ethereum cash",
-      "symbol": "ETCS",
-      "totalSupply": "84000000000000000000000000",
-      "verified": "0x01"
-    },
     "0x6e403df62b5e5d2991519fee1768291b1bfeeb8b": {
       "address": "0x6e403df62b5e5d2991519fee1768291b1bfeeb8b",
       "decimals": 18,
@@ -4357,6 +4349,3862 @@
       "name": "OneRoot Network",
       "symbol": "RNT",
       "totalSupply": "400000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x17e67d1cb4e349b9ca4bc3e17c7df2a397a7bb64": {
+      "address": "0x17e67d1cb4e349b9ca4bc3e17c7df2a397a7bb64",
+      "name": "Freyr Coin",
+      "symbol": "FREC",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1844b21593262668b7248d0f57a220caaba46ab9": {
+      "address": "0x1844b21593262668b7248d0f57a220caaba46ab9",
+      "name": "Oyster Pearl",
+      "symbol": "PRL",
+      "decimals": 18,
+      "totalSupply": "104223796797303340986343938",
+      "verified": "0x01"
+    },
+    "0xda6cb58a0d0c01610a29c5a65c303e13e885887c": {
+      "address": "0xda6cb58a0d0c01610a29c5a65c303e13e885887c",
+      "name": "cVToken",
+      "symbol": "cV",
+      "decimals": 18,
+      "totalSupply": "9931143978000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea": {
+      "address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+      "name": "ERC20",
+      "symbol": "ERC20",
+      "decimals": 18,
+      "totalSupply": "13000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x8542325b72c6d9fc0ad2ca965a78435413a915a0": {
+      "address": "0x8542325b72c6d9fc0ad2ca965a78435413a915a0",
+      "name": "Oyster Shell",
+      "symbol": "SHL",
+      "decimals": 18,
+      "totalSupply": "98592692000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6e1e38c5cafcae293ca3f7bf840094355c671e47": {
+      "address": "0x6e1e38c5cafcae293ca3f7bf840094355c671e47",
+      "decimals": 18,
+      "name": "Ethereum cash",
+      "symbol": "ETCS",
+      "totalSupply": "84000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xfedae5642668f8636a11987ff386bfd215f942ee": {
+      "address": "0xfedae5642668f8636a11987ff386bfd215f942ee",
+      "name": "PolicyPal Network Token",
+      "symbol": "PAL",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604": {
+      "address": "0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604",
+      "name": "WABnetwork",
+      "symbol": "WAB",
+      "decimals": 18,
+      "totalSupply": "25000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x7b2f9706cd8473b4f5b7758b0171a9933fc6c4d6": {
+      "address": "0x7b2f9706cd8473b4f5b7758b0171a9933fc6c4d6",
+      "name": "An Etheal Promo",
+      "symbol": "HEALP",
+      "decimals": 0,
+      "totalSupply": "1074980",
+      "verified": "0x01"
+    },
+    "0x77fe30b2cf39245267c0a5084b66a560f1cf9e1f": {
+      "address": "0x77fe30b2cf39245267c0a5084b66a560f1cf9e1f",
+      "name": "Azbit",
+      "symbol": "AZ",
+      "decimals": 18,
+      "totalSupply": "401408000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4f4d22ca77222ae3d51e308c9a8f0e564f98e77a": {
+      "address": "0x4f4d22ca77222ae3d51e308c9a8f0e564f98e77a",
+      "name": "Bulleon Promo Token",
+      "symbol": "BULLEON-X",
+      "decimals": 18,
+      "totalSupply": "400000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x82b0e50478eeafde392d45d1259ed1071b6fda81": {
+      "address": "0x82b0e50478eeafde392d45d1259ed1071b6fda81",
+      "name": "DNA Token",
+      "symbol": "DNA",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd32641191578ea9b208125ddd4ec5e7b84fcab4c": {
+      "address": "0xd32641191578ea9b208125ddd4ec5e7b84fcab4c",
+      "name": "TMED Token",
+      "symbol": "TMED",
+      "decimals": 18,
+      "totalSupply": "28000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x212d95fccdf0366343350f486bda1ceafc0c2d63": {
+      "address": "0x212d95fccdf0366343350f486bda1ceafc0c2d63",
+      "name": "blockwell.ai KYC Casper Token",
+      "symbol": "blockwell.ai KYC Casper Token",
+      "decimals": 18,
+      "totalSupply": "0",
+      "verified": "0x01"
+    },
+    "0xf6dbe88ba55f1793ff0773c9b1275300f830914f": {
+      "address": "0xf6dbe88ba55f1793ff0773c9b1275300f830914f",
+      "name": "Asian Dragon",
+      "symbol": "AD",
+      "decimals": 8,
+      "totalSupply": "50000000000000000",
+      "verified": "0x01"
+    },
+    "0x490c95be16384e1f28b9e864e98ffecfcbff386d": {
+      "address": "0x490c95be16384e1f28b9e864e98ffecfcbff386d",
+      "name": "REPME",
+      "symbol": "RPM",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6c6ab7fc6f906298d54fed3606a39b5e5ee5f782": {
+      "address": "0x6c6ab7fc6f906298d54fed3606a39b5e5ee5f782",
+      "name": "FairWay",
+      "symbol": "FWY",
+      "decimals": 18,
+      "totalSupply": "80000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xbbc2045d335cb224228f1850b29173d9d7d7b989": {
+      "address": "0xbbc2045d335cb224228f1850b29173d9d7d7b989",
+      "name": "HELP",
+      "symbol": "HELP",
+      "decimals": 18,
+      "totalSupply": "28000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc47b8d6d6595f7934fc467ded288e1a267d71758": {
+      "address": "0xc47b8d6d6595f7934fc467ded288e1a267d71758",
+      "name": "DateCoin ICO Token",
+      "symbol": "DTC",
+      "decimals": 18,
+      "totalSupply": "342188906000000000000000000",
+      "verified": "0x01"
+    },
+    "0xed494c9e2f8e34e53bdd0ea9b4d80305cb15c5c2": {
+      "address": "0xed494c9e2f8e34e53bdd0ea9b4d80305cb15c5c2",
+      "name": "CWV Chain",
+      "symbol": "CWV",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xea39ce89363bb58c2a1019f8199cd3ed31571760": {
+      "address": "0xea39ce89363bb58c2a1019f8199cd3ed31571760",
+      "name": "ExeX",
+      "symbol": "EXE",
+      "decimals": 8,
+      "totalSupply": "200000000000000000",
+      "verified": "0x01"
+    },
+    "0x9073d050fa90fe910b74e2b1eb7efe5a016eaa05": {
+      "address": "0x9073d050fa90fe910b74e2b1eb7efe5a016eaa05",
+      "name": "VERDICT",
+      "symbol": "VTC",
+      "decimals": 18,
+      "totalSupply": "900000000000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x60f399fb7805a15d810b9111bcb7177aa8406b09": {
+      "address": "0x60f399fb7805a15d810b9111bcb7177aa8406b09",
+      "name": "Zito",
+      "symbol": "Zit",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0x6f2ff926b18673c6ee59d8426fd4302958dfd694": {
+      "address": "0x6f2ff926b18673c6ee59d8426fd4302958dfd694",
+      "name": "Puex Exchange Token",
+      "symbol": "PEX",
+      "decimals": 8,
+      "totalSupply": "110000000000000000",
+      "verified": "0x01"
+    },
+    "0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8": {
+      "address": "0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8",
+      "name": "BaaSid",
+      "symbol": "BAAS",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x386073f0c9f076db93a5222c27f921663e2ce890": {
+      "address": "0x386073f0c9f076db93a5222c27f921663e2ce890",
+      "name": "Clinicoin",
+      "symbol": "CLIN",
+      "decimals": 18,
+      "totalSupply": "2400000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3b36cd56e286241386d3a043b0cff1a7187283b9": {
+      "address": "0x3b36cd56e286241386d3a043b0cff1a7187283b9",
+      "name": "Board Coin",
+      "symbol": "BRDC",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x94164921ab77a799b2e3b2ead867a70ce72f96f7": {
+      "address": "0x94164921ab77a799b2e3b2ead867a70ce72f96f7",
+      "name": "Swinguz Token",
+      "symbol": "SWT",
+      "decimals": 0,
+      "totalSupply": "500000000000",
+      "verified": "0x01"
+    },
+    "0x25c5b6250fa9f38a505c3f2bb772d0b0a889d618": {
+      "address": "0x25c5b6250fa9f38a505c3f2bb772d0b0a889d618",
+      "name": "DARKXIN",
+      "symbol": "DXIN",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc4bcd64cb216d49fd3c643a32762f34626b45a1a": {
+      "address": "0xc4bcd64cb216d49fd3c643a32762f34626b45a1a",
+      "name": "CosmoCoin",
+      "symbol": "COSM",
+      "decimals": 18,
+      "totalSupply": "1023000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf1def7f0e620f39531eb352fe13da6825218e7df": {
+      "address": "0xf1def7f0e620f39531eb352fe13da6825218e7df",
+      "name": "Bit Dinero",
+      "symbol": "XBD",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1a52f2e1af3d27c38541923e07493337021d2ffb": {
+      "address": "0x1a52f2e1af3d27c38541923e07493337021d2ffb",
+      "name": "DeniX",
+      "symbol": "EIX",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0x7d2d8ad6d6c689b583fbd91f7b54c4395815de30": {
+      "address": "0x7d2d8ad6d6c689b583fbd91f7b54c4395815de30",
+      "name": "RedRabbitToken",
+      "symbol": "REDRA",
+      "decimals": 8,
+      "totalSupply": "3000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd54661c39362c2f1137f42307036f5b75a722a20": {
+      "address": "0xd54661c39362c2f1137f42307036f5b75a722a20",
+      "name": "imchain",
+      "symbol": "IMC",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4693f908a90b6700caffaece8dddc41990ab6747": {
+      "address": "0x4693f908a90b6700caffaece8dddc41990ab6747",
+      "name": "Legichain",
+      "symbol": "LEG",
+      "decimals": 18,
+      "totalSupply": "22000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xfa7c200d0c1e6f0117ffc7b2f2485c53fd4c1ac4": {
+      "address": "0xfa7c200d0c1e6f0117ffc7b2f2485c53fd4c1ac4",
+      "name": "CYBER SAFETY TOKEN",
+      "symbol": "CYST",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x0fcff19d293a50ca03446100c3957e886043d147": {
+      "address": "0x0fcff19d293a50ca03446100c3957e886043d147",
+      "name": "Hedge Token",
+      "symbol": "HEDGE",
+      "decimals": 18,
+      "totalSupply": "2334944499131736836250",
+      "verified": "0x01"
+    },
+    "0xd20bcbd56d9d551cac10a6bc2a83635bfb72f3f4": {
+      "address": "0xd20bcbd56d9d551cac10a6bc2a83635bfb72f3f4",
+      "name": "FUND",
+      "symbol": "FUND",
+      "decimals": 6,
+      "totalSupply": "5000000000000000",
+      "verified": "0x01"
+    },
+    "0x3c139c5ef130d4db3793b1ce7017e6b326d66f2b": {
+      "address": "0x3c139c5ef130d4db3793b1ce7017e6b326d66f2b",
+      "name": "Tripus.io Candy Token",
+      "symbol": "tripus.io",
+      "decimals": 0,
+      "totalSupply": "6000000000",
+      "verified": "0x01"
+    },
+    "0xe1e70407c8cdb588425fe7736e30df139110949f": {
+      "address": "0xe1e70407c8cdb588425fe7736e30df139110949f",
+      "name": "Bitcoin Protocol",
+      "symbol": "BTP",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x78477a3683980a31f86fa09e176f90b80fffda00": {
+      "address": "0x78477a3683980a31f86fa09e176f90b80fffda00",
+      "name": "BitcoinDiamond",
+      "symbol": "BTCD",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xcceef8f69000d662f490f2663e33acdc05cf58ff": {
+      "address": "0xcceef8f69000d662f490f2663e33acdc05cf58ff",
+      "name": "Bitcoin Fire",
+      "symbol": "BTC🔥",
+      "decimals": 0,
+      "totalSupply": "1000000000",
+      "verified": "0x01"
+    },
+    "0xf3c96e0153cdab274834a9ef9d4f6a330677d66d": {
+      "address": "0xf3c96e0153cdab274834a9ef9d4f6a330677d66d",
+      "name": "EtherBlock",
+      "symbol": "ETHBK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5a1a29dbb6ad6153db764568c1289076bc876df6": {
+      "address": "0x5a1a29dbb6ad6153db764568c1289076bc876df6",
+      "name": "NeworkCoin",
+      "symbol": "NKC",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd736402d7eace89667343dbd35ac8c22137fb719": {
+      "address": "0xd736402d7eace89667343dbd35ac8c22137fb719",
+      "name": "Happy Melody Token",
+      "symbol": "HMT",
+      "decimals": 8,
+      "totalSupply": "1500000000000000000",
+      "verified": "0x01"
+    },
+    "0xfc3dd0b1808ed23ab7f1657264dd6c9d0cb38782": {
+      "address": "0xfc3dd0b1808ed23ab7f1657264dd6c9d0cb38782",
+      "name": "Bitcointalk",
+      "symbol": "BTALK",
+      "decimals": 2,
+      "totalSupply": "1000000000000",
+      "verified": "0x01"
+    },
+    "0xe54f9a1dfcc04741f3fab3bf9deb99e176a006eb": {
+      "address": "0xe54f9a1dfcc04741f3fab3bf9deb99e176a006eb",
+      "name": "OBIMOLOGIA",
+      "symbol": "OBO",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3b2765e6e0a0835ec9d410f721af43c1894654cd": {
+      "address": "0x3b2765e6e0a0835ec9d410f721af43c1894654cd",
+      "name": "BitText",
+      "symbol": "BTCX",
+      "decimals": 8,
+      "totalSupply": "200000000000000000",
+      "verified": "0x01"
+    },
+    "0x6a4e703c8c2bd0d9036e65acf6d476ce38f3d981": {
+      "address": "0x6a4e703c8c2bd0d9036e65acf6d476ce38f3d981",
+      "name": "GlobalChain",
+      "symbol": "GCN",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x20c77f3dc45bb8fe8b22b84e28466265265ce8ad": {
+      "address": "0x20c77f3dc45bb8fe8b22b84e28466265265ce8ad",
+      "name": "Strong Hold Network",
+      "symbol": "SHN",
+      "decimals": 8,
+      "totalSupply": "50000000000000000",
+      "verified": "0x01"
+    },
+    "0xd50ec4e625d1a7ddb42a8a5e6179216e5d299ad5": {
+      "address": "0xd50ec4e625d1a7ddb42a8a5e6179216e5d299ad5",
+      "name": "CRYPT EXCHANGE TOKEN",
+      "symbol": "CRTX",
+      "decimals": 0,
+      "totalSupply": "250000000000",
+      "verified": "0x01"
+    },
+    "0x76914ca27f3c7422a14c22aaeafbbd05d3f3526b": {
+      "address": "0x76914ca27f3c7422a14c22aaeafbbd05d3f3526b",
+      "name": "DatBoi",
+      "symbol": "DATBOI",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe3278df3eb2085ba9b6899812a99a10f9ca5e0df": {
+      "address": "0xe3278df3eb2085ba9b6899812a99a10f9ca5e0df",
+      "name": "TouristToken",
+      "symbol": "TOTO",
+      "decimals": 8,
+      "totalSupply": "759997466257506000",
+      "verified": "0x01"
+    },
+    "0x9b883f7508c4007008af2798a7266a2cdaa8ad26": {
+      "address": "0x9b883f7508c4007008af2798a7266a2cdaa8ad26",
+      "name": "NewPiedPiperCoin",
+      "symbol": "NPPI",
+      "decimals": 4,
+      "totalSupply": "22500000000",
+      "verified": "0x01"
+    },
+    "0xb5e27cb0a46c275377972084a782f90da4465003": {
+      "address": "0xb5e27cb0a46c275377972084a782f90da4465003",
+      "name": "Fast Market Network",
+      "symbol": "FMAINET",
+      "decimals": 18,
+      "totalSupply": "90000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3f8828955db539ddd78ecc2a0cecd77d3eb8b033": {
+      "address": "0x3f8828955db539ddd78ecc2a0cecd77d3eb8b033",
+      "name": "AmethystCoin",
+      "symbol": "AMSC",
+      "decimals": 8,
+      "totalSupply": "980000000000000000",
+      "verified": "0x01"
+    },
+    "0x5a46cbfac8c6bf572b800a8ce234dcd57a90eb3d": {
+      "address": "0x5a46cbfac8c6bf572b800a8ce234dcd57a90eb3d",
+      "name": "EtherXeum",
+      "symbol": "ETXM",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa834150b855f7a1dd2ac1356059722dc2ac58393": {
+      "address": "0xa834150b855f7a1dd2ac1356059722dc2ac58393",
+      "name": "CANX",
+      "symbol": "CANX",
+      "decimals": 8,
+      "totalSupply": "8000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc9e17772a9d8d694a3ae25424d6221a470825f5b": {
+      "address": "0xc9e17772a9d8d694a3ae25424d6221a470825f5b",
+      "name": "PhantomToken",
+      "symbol": "PHM",
+      "decimals": 18,
+      "totalSupply": "9999999999000000000000000000",
+      "verified": "0x01"
+    },
+    "0x8e5610ab5e39d26828167640ea29823fe1dd5843": {
+      "address": "0x8e5610ab5e39d26828167640ea29823fe1dd5843",
+      "name": "KanadeCoin",
+      "symbol": "KNDC",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9a3d60b6688cc0588e6d3af2268a0e921b6bbc66": {
+      "address": "0x9a3d60b6688cc0588e6d3af2268a0e921b6bbc66",
+      "name": "Bitter Token",
+      "symbol": "BTH",
+      "decimals": 0,
+      "totalSupply": "1000000000",
+      "verified": "0x01"
+    },
+    "0xc3e3b5b2040645d3219f8ff68d2a7049949d9076": {
+      "address": "0xc3e3b5b2040645d3219f8ff68d2a7049949d9076",
+      "name": "EtherChain",
+      "symbol": "ETC",
+      "decimals": 8,
+      "totalSupply": "10000000000000000000",
+      "verified": "0x01"
+    },
+    "0x412c003380e08921be3ee7ee5830d3a00dd7e589": {
+      "address": "0x412c003380e08921be3ee7ee5830d3a00dd7e589",
+      "name": "Aeternum Libertarian Foundation",
+      "symbol": "ALF",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xab08fb75590fa4f002dd08e430da13cdfdef2b15": {
+      "address": "0xab08fb75590fa4f002dd08e430da13cdfdef2b15",
+      "name": "EtherAdvance",
+      "symbol": "EAD",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x37bdf4545211224db4a14fccc91d131ec7869726": {
+      "address": "0x37bdf4545211224db4a14fccc91d131ec7869726",
+      "name": "ZAPCoin",
+      "symbol": "ZAP",
+      "decimals": 0,
+      "totalSupply": "100000000",
+      "verified": "0x01"
+    },
+    "0xeb021dd3e42dc6fdb6cde54d0c4a09f82a6bca29": {
+      "address": "0xeb021dd3e42dc6fdb6cde54d0c4a09f82a6bca29",
+      "name": "FNKOSToken",
+      "symbol": "FNKOS",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4c567c3363cc42c5a42c6d8bf01503fd1d0b91cd": {
+      "address": "0x4c567c3363cc42c5a42c6d8bf01503fd1d0b91cd",
+      "name": "Elementh Token",
+      "symbol": "EEE",
+      "decimals": 18,
+      "totalSupply": "93011322450358773644433927",
+      "verified": "0x01"
+    },
+    "0x0f598112679b78e17a4a9febc83703710d33489c": {
+      "address": "0x0f598112679b78e17a4a9febc83703710d33489c",
+      "name": "Monero Gold",
+      "symbol": "XMRG",
+      "decimals": 8,
+      "totalSupply": "2100000000000000",
+      "verified": "0x01"
+    },
+    "0x931dc02a9819de68eafdac9767b38cf9d6ff3f28": {
+      "address": "0x931dc02a9819de68eafdac9767b38cf9d6ff3f28",
+      "name": "BitcoinPro",
+      "symbol": "BTCP",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1": {
+      "address": "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1",
+      "name": "Nuggets",
+      "symbol": "NUG",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x158fc4d208c0bc836ca1f4de144319334626260c": {
+      "address": "0x158fc4d208c0bc836ca1f4de144319334626260c",
+      "name": "SurtaxChain",
+      "symbol": "STXC",
+      "decimals": 8,
+      "totalSupply": "200000000000000000",
+      "verified": "0x01"
+    },
+    "0x714d57212ba73f58d55f590b3f6b26c1d04ed792": {
+      "address": "0x714d57212ba73f58d55f590b3f6b26c1d04ed792",
+      "name": "BitNext",
+      "symbol": "BNT",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0x3e8871ab478350358cbe5d85068f15c7506d8971": {
+      "address": "0x3e8871ab478350358cbe5d85068f15c7506d8971",
+      "name": "Anaco",
+      "symbol": "ANAC",
+      "decimals": 18,
+      "totalSupply": "15000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x629fe844466c128f0d7e1f1a36aeded239493e20": {
+      "address": "0x629fe844466c128f0d7e1f1a36aeded239493e20",
+      "name": "BUMBLE",
+      "symbol": "BBL",
+      "decimals": 0,
+      "totalSupply": "1000000000",
+      "verified": "0x01"
+    },
+    "0x2c01958ccbd8baa4c6c1505465377859288dad12": {
+      "address": "0x2c01958ccbd8baa4c6c1505465377859288dad12",
+      "name": "Ubereum Token",
+      "symbol": "UBT",
+      "decimals": 0,
+      "totalSupply": "1000000000",
+      "verified": "0x01"
+    },
+    "0xbf525209a43fe2f974f3a0a58071a0ec413cade0": {
+      "address": "0xbf525209a43fe2f974f3a0a58071a0ec413cade0",
+      "name": "SatoshiToken",
+      "symbol": "STO",
+      "decimals": 18,
+      "totalSupply": "5555555555000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd506e5e57e22c695bf28c96e73c296051177a678": {
+      "address": "0xd506e5e57e22c695bf28c96e73c296051177a678",
+      "name": "EtherGang",
+      "symbol": "0xGang",
+      "decimals": 18,
+      "totalSupply": "5000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x14deddd988191f844adac214884c24448a67ffe7": {
+      "address": "0x14deddd988191f844adac214884c24448a67ffe7",
+      "name": "Payther Token",
+      "symbol": "PYT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x854b404fb45def7683f38721d24fdddcb4b7faa0": {
+      "address": "0x854b404fb45def7683f38721d24fdddcb4b7faa0",
+      "name": "TaolCash",
+      "symbol": "TAOL",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x0f7675aa40ab66dea5025aa01d5f529d4578c449": {
+      "address": "0x0f7675aa40ab66dea5025aa01d5f529d4578c449",
+      "name": "Cochainwallet",
+      "symbol": "cochain",
+      "decimals": 18,
+      "totalSupply": "25000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x93fac8ceeaa997c0e779c1c63caeb7fa58f02e41": {
+      "address": "0x93fac8ceeaa997c0e779c1c63caeb7fa58f02e41",
+      "name": "Ethmax",
+      "symbol": "ETMAX",
+      "decimals": 8,
+      "totalSupply": "160000000000000000",
+      "verified": "0x01"
+    },
+    "0x4f27053f32eda8af84956437bc00e5ffa7003287": {
+      "address": "0x4f27053f32eda8af84956437bc00e5ffa7003287",
+      "name": "ThriveToken",
+      "symbol": "THRT",
+      "decimals": 18,
+      "totalSupply": "202027489600000000000000000",
+      "verified": "0x01"
+    },
+    "0x03cad458791705817ac7f24fed1d2d3f5fec0f8c": {
+      "address": "0x03cad458791705817ac7f24fed1d2d3f5fec0f8c",
+      "name": "Etherlib",
+      "symbol": "ETL",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x84862974a52ef8550fed40d2cc9cf9ed062f73c9": {
+      "address": "0x84862974a52ef8550fed40d2cc9cf9ed062f73c9",
+      "name": "Ethereum Cash Pro",
+      "symbol": "ECP",
+      "decimals": 18,
+      "totalSupply": "1700000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe416b41a26661b00e2f41545eb7cef7995090aaf": {
+      "address": "0xe416b41a26661b00e2f41545eb7cef7995090aaf",
+      "name": "EarthcryptToken",
+      "symbol": "ECRT",
+      "decimals": 8,
+      "totalSupply": "800000000000000000",
+      "verified": "0x01"
+    },
+    "0x98f483cf521b5761172d73ef6081fb940fb2e115": {
+      "address": "0x98f483cf521b5761172d73ef6081fb940fb2e115",
+      "name": "BitcoinBrand",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "totalSupply": "57000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x91a6f588e5b99077da9c78667ab691564a8fa4dd": {
+      "address": "0x91a6f588e5b99077da9c78667ab691564a8fa4dd",
+      "name": "Neo Cash",
+      "symbol": "NEOC",
+      "decimals": 8,
+      "totalSupply": "8000000000000000",
+      "verified": "0x01"
+    },
+    "0x9e5bb916b21b41cc0e72f1367e273f8a3038a874": {
+      "address": "0x9e5bb916b21b41cc0e72f1367e273f8a3038a874",
+      "name": " Crazy Chain Token",
+      "symbol": "CCT",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5de6aef1c6b63e5a56539a0aec3774afc476c41a": {
+      "address": "0x5de6aef1c6b63e5a56539a0aec3774afc476c41a",
+      "name": "Etherlib",
+      "symbol": "ETL",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0xcff880407f894326b6f991f5af6b08bdd7ea7bc3": {
+      "address": "0xcff880407f894326b6f991f5af6b08bdd7ea7bc3",
+      "name": "Ethmax",
+      "symbol": "EMAX",
+      "decimals": 8,
+      "totalSupply": "160000000000000000",
+      "verified": "0x01"
+    },
+    "0x5b86b0d1c304c246282dea0e0f21db2baa429b31": {
+      "address": "0x5b86b0d1c304c246282dea0e0f21db2baa429b31",
+      "name": "RealAssetChain Token",
+      "symbol": "RAI",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd10cbb3ca3ac21da64009dd394b3f3125243b67d": {
+      "address": "0xd10cbb3ca3ac21da64009dd394b3f3125243b67d",
+      "name": "Accounting Blockchain Token",
+      "symbol": "TAB",
+      "decimals": 18,
+      "totalSupply": "7210000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe7f160a0fe794e888e42fcf84eb9ed7a70668f9f": {
+      "address": "0xe7f160a0fe794e888e42fcf84eb9ed7a70668f9f",
+      "name": "Silhouette",
+      "symbol": "SMT",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1662cffefa08b150329e419b2f1a13d010174246": {
+      "address": "0x1662cffefa08b150329e419b2f1a13d010174246",
+      "name": "OxProtocol",
+      "symbol": "OXP",
+      "decimals": 18,
+      "totalSupply": "18000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x665d83975e42402dec11bf8e2b398af69126ca0e": {
+      "address": "0x665d83975e42402dec11bf8e2b398af69126ca0e",
+      "name": "Osiris",
+      "symbol": "OSRS",
+      "decimals": 8,
+      "totalSupply": "400000000000000000",
+      "verified": "0x01"
+    },
+    "0xeb3488b4907b752632270ecb89ad38e63c2d4913": {
+      "address": "0xeb3488b4907b752632270ecb89ad38e63c2d4913",
+      "name": "GunChain",
+      "symbol": "GCHAIN",
+      "decimals": 8,
+      "totalSupply": "99000000000000000",
+      "verified": "0x01"
+    },
+    "0x5d075d568621f868a6a6148cb925f883fedc236a": {
+      "address": "0x5d075d568621f868a6a6148cb925f883fedc236a",
+      "name": "BitcoinBrand",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6ea87bb3af37f9c65f50391755407abf2a6cf09a": {
+      "address": "0x6ea87bb3af37f9c65f50391755407abf2a6cf09a",
+      "name": "Open Chain",
+      "symbol": "OCT",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0x19f7f293023339fa91039cd3dda3f03a61d17de6": {
+      "address": "0x19f7f293023339fa91039cd3dda3f03a61d17de6",
+      "name": "Brick_Chain",
+      "symbol": "BCT",
+      "decimals": 0,
+      "totalSupply": "50000000000",
+      "verified": "0x01"
+    },
+    "0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f": {
+      "address": "0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f",
+      "name": "Typerium",
+      "symbol": "TYPE",
+      "decimals": 4,
+      "totalSupply": "19350000000000",
+      "verified": "0x01"
+    },
+    "0xac2385e183d9301dd5e2bb08da932cbf9800dc9c": {
+      "address": "0xac2385e183d9301dd5e2bb08da932cbf9800dc9c",
+      "name": "Netkoin Liquid",
+      "symbol": "LIQUID",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4a7109c3978bb76e3c2e275ac8a5a8127f1392e9": {
+      "address": "0x4a7109c3978bb76e3c2e275ac8a5a8127f1392e9",
+      "name": "AFRI",
+      "symbol": "AFם™",
+      "decimals": 8,
+      "totalSupply": "4500000010000000000",
+      "verified": "0x01"
+    },
+    "0x1b02c000e1dc24b645c76f2d3fc7d4e084b9dd77": {
+      "address": "0x1b02c000e1dc24b645c76f2d3fc7d4e084b9dd77",
+      "name": "Ethereum Nano",
+      "symbol": "ETH",
+      "decimals": 2,
+      "totalSupply": "300000000000",
+      "verified": "0x01"
+    },
+    "0xd1a616cd3bd9db97639ec484d843d37f2caa3035": {
+      "address": "0xd1a616cd3bd9db97639ec484d843d37f2caa3035",
+      "name": "AgroLyte Token",
+      "symbol": "AGR",
+      "decimals": 8,
+      "totalSupply": "2100000000000000000",
+      "verified": "0x01"
+    },
+    "0xa7a5c03399f4739f4afa934bb9053c992b53d7a2": {
+      "address": "0xa7a5c03399f4739f4afa934bb9053c992b53d7a2",
+      "name": "AICRYPTO",
+      "symbol": "AIC",
+      "decimals": 18,
+      "totalSupply": "7896754783810000000000000000",
+      "verified": "0x01"
+    },
+    "0x2773c69d7a7e2943f6e27c9947d5ae4e2b853993": {
+      "address": "0x2773c69d7a7e2943f6e27c9947d5ae4e2b853993",
+      "name": "EtherDiamond",
+      "symbol": "ETD",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0x816051e2203ca534c4336d8d6df71987fa3ae0bd": {
+      "address": "0x816051e2203ca534c4336d8d6df71987fa3ae0bd",
+      "name": "FunKoin",
+      "symbol": "FNK",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa581b8dac454842ff92ca92ff4e2544e1b36e6ab": {
+      "address": "0xa581b8dac454842ff92ca92ff4e2544e1b36e6ab",
+      "name": "International Exchange",
+      "symbol": "IEX",
+      "decimals": 18,
+      "totalSupply": "441090009888000000000000000000",
+      "verified": "0x01"
+    },
+    "0xab2282e27533749d7883e24f82dc8dfa2b3e3c85": {
+      "address": "0xab2282e27533749d7883e24f82dc8dfa2b3e3c85",
+      "name": "STELLAR CLASSIC",
+      "symbol": "XLMX",
+      "decimals": 18,
+      "totalSupply": "999990990560000000000000000000",
+      "verified": "0x01"
+    },
+    "0x0fb843d37aa2a99db8d81af9fe2f0a6485c7c002": {
+      "address": "0x0fb843d37aa2a99db8d81af9fe2f0a6485c7c002",
+      "name": "CPROP",
+      "symbol": "CPROP",
+      "decimals": 18,
+      "totalSupply": "6130000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x8b0b3526b414ed5019049326544c07725a30da92": {
+      "address": "0x8b0b3526b414ed5019049326544c07725a30da92",
+      "name": "Aeronia",
+      "symbol": "ARO",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4485561db76614ff727f8e0a3ea95690b8b16022": {
+      "address": "0x4485561db76614ff727f8e0a3ea95690b8b16022",
+      "name": "Invox Finance Token",
+      "symbol": "INVOX",
+      "decimals": 18,
+      "totalSupply": "464000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x92eddd9a441ad85a97ddf52aadf853ba8026494e": {
+      "address": "0x92eddd9a441ad85a97ddf52aadf853ba8026494e",
+      "name": "Decentralized Adult Token",
+      "symbol": "DCAT",
+      "decimals": 8,
+      "totalSupply": "1500000000000000000",
+      "verified": "0x01"
+    },
+    "0x89cf87c35e69a9b84f7a3e50eaf54bfc3cabc377": {
+      "address": "0x89cf87c35e69a9b84f7a3e50eaf54bfc3cabc377",
+      "name": "GetPaid",
+      "symbol": "GPaid",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xb42fc86a49d6b772bb43cd031157d4aa557e387a": {
+      "address": "0xb42fc86a49d6b772bb43cd031157d4aa557e387a",
+      "name": "Sterling sovereign",
+      "symbol": "STSO",
+      "decimals": 18,
+      "totalSupply": "15211429898880413580000000000",
+      "verified": "0x01"
+    },
+    "0x2963098b333ddef04115c754abfd40b4b6dbce4f": {
+      "address": "0x2963098b333ddef04115c754abfd40b4b6dbce4f",
+      "name": "XChain Token",
+      "symbol": "XCT",
+      "decimals": 0,
+      "totalSupply": "100000000000",
+      "verified": "0x01"
+    },
+    "0xd4de05944572d142fbf70f3f010891a35ac15188": {
+      "address": "0xd4de05944572d142fbf70f3f010891a35ac15188",
+      "name": "Bulleon Promo Token",
+      "symbol": "BULLEON PROMO",
+      "decimals": 18,
+      "totalSupply": "400000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xbf695b7c7eed05c1b344a6db5d0f4e51c7772277": {
+      "address": "0xbf695b7c7eed05c1b344a6db5d0f4e51c7772277",
+      "name": "Earthcrypt",
+      "symbol": "ECR",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183": {
+      "address": "0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183",
+      "name": "XRP CLASSIC",
+      "symbol": "XRPC",
+      "decimals": 8,
+      "totalSupply": "64535432432400000000",
+      "verified": "0x01"
+    },
+    "0xd7116b3dc08e09b8eb7ea1acd8ff5463335304d0": {
+      "address": "0xd7116b3dc08e09b8eb7ea1acd8ff5463335304d0",
+      "name": "Med Token",
+      "symbol": "MEDT",
+      "decimals": 0,
+      "totalSupply": "20000000000",
+      "verified": "0x01"
+    },
+    "0x4e6aeb154b0fe68c898b4c5ba25a5ab20870bf02": {
+      "address": "0x4e6aeb154b0fe68c898b4c5ba25a5ab20870bf02",
+      "name": "Syrios Token",
+      "symbol": "SR",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0x2b379fc9d7230e7f62eaf467826d7eff772edce0": {
+      "address": "0x2b379fc9d7230e7f62eaf467826d7eff772edce0",
+      "name": "Steamcard_token",
+      "symbol": "STD",
+      "decimals": 0,
+      "totalSupply": "500000000000",
+      "verified": "0x01"
+    },
+    "0xa20f024fcdb5dc72d067a3dfa6c3ece338a04344": {
+      "address": "0xa20f024fcdb5dc72d067a3dfa6c3ece338a04344",
+      "name": "Ethereum Titan",
+      "symbol": "ETT",
+      "decimals": 8,
+      "totalSupply": "100000000000000",
+      "verified": "0x01"
+    },
+    "0x31604f737fd6a319c03db2ae30d8a99ee3c6523f": {
+      "address": "0x31604f737fd6a319c03db2ae30d8a99ee3c6523f",
+      "name": " Bizprox®",
+      "symbol": "BZP",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x81970ad71f2d56d97fad9dc946bf91ad5526a73c": {
+      "address": "0x81970ad71f2d56d97fad9dc946bf91ad5526a73c",
+      "name": "Ethereum Nova",
+      "symbol": "ETN",
+      "decimals": 4,
+      "totalSupply": "1000000000000",
+      "verified": "0x01"
+    },
+    "0x10429362d256e8cc4f8eb2956f2954955df20145": {
+      "address": "0x10429362d256e8cc4f8eb2956f2954955df20145",
+      "name": "Ethereum Block Explorer",
+      "symbol": "ETS",
+      "decimals": 5,
+      "totalSupply": "1000000000000",
+      "verified": "0x01"
+    },
+    "0x03a7ec8d4712a31c46cf264a4aa7d37915b07d47": {
+      "address": "0x03a7ec8d4712a31c46cf264a4aa7d37915b07d47",
+      "name": "Bitcoin Compact",
+      "symbol": "BTC",
+      "decimals": 2,
+      "totalSupply": "900000000",
+      "verified": "0x01"
+    },
+    "0x85b4b99cfcec5834cd4b92ed42e74f6e342e531f": {
+      "address": "0x85b4b99cfcec5834cd4b92ed42e74f6e342e531f",
+      "name": "ArarWood",
+      "symbol": "ARD",
+      "decimals": 8,
+      "totalSupply": "450000000000000000",
+      "verified": "0x01"
+    },
+    "0xc126924e4d8138479d1d68a699bf4c707638c161": {
+      "address": "0xc126924e4d8138479d1d68a699bf4c707638c161",
+      "name": "Fusea Network",
+      "symbol": "FSA",
+      "decimals": 18,
+      "totalSupply": "14482711840000000000000000",
+      "verified": "0x01"
+    },
+    "0xa46b2839624110b86ee9db2c00217344d9239bf5": {
+      "address": "0xa46b2839624110b86ee9db2c00217344d9239bf5",
+      "name": "Spark Chain",
+      "symbol": "SPKT💥",
+      "decimals": 8,
+      "totalSupply": "500000000000000000",
+      "verified": "0x01"
+    },
+    "0xe95990825aab1a7f0af4cc648f76a3bcc99f25b2": {
+      "address": "0xe95990825aab1a7f0af4cc648f76a3bcc99f25b2",
+      "name": "Zenswap Network Token",
+      "symbol": "ZNT",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4ed87d95dfa43a5fa868d09cedd911ee8ba480fc": {
+      "address": "0x4ed87d95dfa43a5fa868d09cedd911ee8ba480fc",
+      "name": "Ruthenium",
+      "symbol": "RTUM",
+      "decimals": 8,
+      "totalSupply": "1500000000000000000",
+      "verified": "0x01"
+    },
+    "0x5114c3db64727fb14d5c3d88bede12d87b26211d": {
+      "address": "0x5114c3db64727fb14d5c3d88bede12d87b26211d",
+      "name": "Grow Token",
+      "symbol": "GRWT",
+      "decimals": 8,
+      "totalSupply": "2000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3323183f0a3e01a17618f083d70c79f7fe7dfd65": {
+      "address": "0x3323183f0a3e01a17618f083d70c79f7fe7dfd65",
+      "name": "Uganium Token",
+      "symbol": "UGT",
+      "decimals": 0,
+      "totalSupply": "20000000000",
+      "verified": "0x01"
+    },
+    "0xb3002f385ea9cd2d873d14952b4654e77c2606d4": {
+      "address": "0xb3002f385ea9cd2d873d14952b4654e77c2606d4",
+      "name": "Ejex",
+      "symbol": "EJX",
+      "decimals": 18,
+      "totalSupply": "25000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x637ddf316ce251259fe2484c8f97c9c07c3a3eca": {
+      "address": "0x637ddf316ce251259fe2484c8f97c9c07c3a3eca",
+      "name": "Rendax",
+      "symbol": "RNX",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5137a403dd25e48de528912a4af62881e625d801": {
+      "address": "0x5137a403dd25e48de528912a4af62881e625d801",
+      "name": "Huddl",
+      "symbol": "HUDDL",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x0d1c63e12fde9e5cada3e272576183aba9cfeda2": {
+      "address": "0x0d1c63e12fde9e5cada3e272576183aba9cfeda2",
+      "name": "Zenswap Network Token",
+      "symbol": "ZNT",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3b82b6c85325a0102c8467e3c5407432cef59285": {
+      "address": "0x3b82b6c85325a0102c8467e3c5407432cef59285",
+      "name": "Zenswap Network",
+      "symbol": "ZSN",
+      "decimals": 18,
+      "totalSupply": "15000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x17735582f64492f7dabd06ffa589364de47dd35a": {
+      "address": "0x17735582f64492f7dabd06ffa589364de47dd35a",
+      "name": "DezToken",
+      "symbol": "DEZ",
+      "decimals": 18,
+      "totalSupply": "5000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x7ba8a5d59b21390a70b2ba968a183712e12a049c": {
+      "address": "0x7ba8a5d59b21390a70b2ba968a183712e12a049c",
+      "name": "VerityToken",
+      "symbol": "VTY",
+      "decimals": 18,
+      "totalSupply": "500000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd3e6387527311922733a51242d72ec922bda8487": {
+      "address": "0xd3e6387527311922733a51242d72ec922bda8487",
+      "name": "Greenleum",
+      "symbol": "GRN",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa419eb58df9d42a762ed3be0fb2b13cd65215ce8": {
+      "address": "0xa419eb58df9d42a762ed3be0fb2b13cd65215ce8",
+      "name": "Ethereum Brilliant",
+      "symbol": "ETB",
+      "decimals": 8,
+      "totalSupply": "1000000000000000",
+      "verified": "0x01"
+    },
+    "0x4d3ddfee61326469a1b353920a313f226ea84314": {
+      "address": "0x4d3ddfee61326469a1b353920a313f226ea84314",
+      "name": "Aracle",
+      "symbol": "ARC",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x76e2858d84f8d3b9e7b8c8c2db61b70cb6cd197d": {
+      "address": "0x76e2858d84f8d3b9e7b8c8c2db61b70cb6cd197d",
+      "name": "Tosy Token",
+      "symbol": "TOS",
+      "decimals": 8,
+      "totalSupply": "70000000000000000",
+      "verified": "0x01"
+    },
+    "0xf2eba4acc9b86744791ecc12156080b5b5a7bf56": {
+      "address": "0xf2eba4acc9b86744791ecc12156080b5b5a7bf56",
+      "name": "Emporeum",
+      "symbol": "EMP",
+      "decimals": 8,
+      "totalSupply": "1500000000000000000",
+      "verified": "0x01"
+    },
+    "0xabb77f5c1e1c61adc3666b62dc614e64c584be6b": {
+      "address": "0xabb77f5c1e1c61adc3666b62dc614e64c584be6b",
+      "name": "TRUECOIN",
+      "symbol": "TCOIN",
+      "decimals": 8,
+      "totalSupply": "5500000000000000000",
+      "verified": "0x01"
+    },
+    "0xcabf96a41a4d98ee91d4fb1004dc4b3b8548cb53": {
+      "address": "0xcabf96a41a4d98ee91d4fb1004dc4b3b8548cb53",
+      "name": "BffDoom",
+      "symbol": "BFF",
+      "decimals": 8,
+      "totalSupply": "1600000000000000000",
+      "verified": "0x01"
+    },
+    "0x875089a734213ca39f0d93c2bbb8209827ec5e9f": {
+      "address": "0x875089a734213ca39f0d93c2bbb8209827ec5e9f",
+      "name": "Euphoria",
+      "symbol": "EPH",
+      "decimals": 8,
+      "totalSupply": "3300000000000000",
+      "verified": "0x01"
+    },
+    "0xe4df174886946aec539b1eac0ef1844ec251d3f8": {
+      "address": "0xe4df174886946aec539b1eac0ef1844ec251d3f8",
+      "name": "Dope",
+      "symbol": "DPTK",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9d5e22b6599c426b453de4a43df8a0cb4de061b1": {
+      "address": "0x9d5e22b6599c426b453de4a43df8a0cb4de061b1",
+      "name": "YAK Coin",
+      "symbol": "YAK",
+      "decimals": 18,
+      "totalSupply": "60000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x345fd80105d95fd8845d0e717b9590499b5756d0": {
+      "address": "0x345fd80105d95fd8845d0e717b9590499b5756d0",
+      "name": "CPPG Token",
+      "symbol": "CPPG",
+      "decimals": 0,
+      "totalSupply": "100000000000",
+      "verified": "0x01"
+    },
+    "0xa44fb3aa5c8465512b806145a8f9b60e74f3f851": {
+      "address": "0xa44fb3aa5c8465512b806145a8f9b60e74f3f851",
+      "name": "PITSTOP",
+      "symbol": "PIT",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x919d3a363776b1ceec9352610c82dfaf80edc32d": {
+      "address": "0x919d3a363776b1ceec9352610c82dfaf80edc32d",
+      "name": "GoldFund",
+      "symbol": "GFUN",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x30680ac0a8a993088223925265fd7a76beb87e7f": {
+      "address": "0x30680ac0a8a993088223925265fd7a76beb87e7f",
+      "name": "ARAW",
+      "symbol": "ARAW",
+      "decimals": 18,
+      "totalSupply": "4665366360000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe33c3b2ad4acc488c684f30bf4ea1f024d0d52cc": {
+      "address": "0xe33c3b2ad4acc488c684f30bf4ea1f024d0d52cc",
+      "name": "HydronChain",
+      "symbol": "HYC",
+      "decimals": 18,
+      "totalSupply": "20056299258000000000000000000",
+      "verified": "0x01"
+    },
+    "0xaf4884622fdc0dd436bd229852ae06be8713c4f6": {
+      "address": "0xaf4884622fdc0dd436bd229852ae06be8713c4f6",
+      "name": "OPEN Chain",
+      "symbol": "OPENC",
+      "decimals": 8,
+      "totalSupply": "184200000000000000",
+      "verified": "0x01"
+    },
+    "0xf5839f46ed000d70cbab1fcd03e29e85f3aecd82": {
+      "address": "0xf5839f46ed000d70cbab1fcd03e29e85f3aecd82",
+      "name": "BCT Token",
+      "symbol": "BCT",
+      "decimals": 18,
+      "totalSupply": "1575000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa960d2ba7000d58773e7fa5754dec3bb40a069d5": {
+      "address": "0xa960d2ba7000d58773e7fa5754dec3bb40a069d5",
+      "name": "One DEX",
+      "symbol": "ODEX",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5c6d9a1f19cf402a261922b41b3d24c5acbf109f": {
+      "address": "0x5c6d9a1f19cf402a261922b41b3d24c5acbf109f",
+      "name": "VIP",
+      "symbol": "VIP",
+      "decimals": 18,
+      "totalSupply": "9900000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x8ec6df60839978409e0887d36d3e368eb9591590": {
+      "address": "0x8ec6df60839978409e0887d36d3e368eb9591590",
+      "name": "Finest Token",
+      "symbol": "FNT",
+      "decimals": 18,
+      "totalSupply": "11000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x90d236f22955b4749838554b0b4bae22dd940485": {
+      "address": "0x90d236f22955b4749838554b0b4bae22dd940485",
+      "name": "Eosclassic",
+      "symbol": "Eosc",
+      "decimals": 8,
+      "totalSupply": "1900000000000000000",
+      "verified": "0x01"
+    },
+    "0x2b52ccb19ab1f77cd8fae270a7f9b31f074ecd5a": {
+      "address": "0x2b52ccb19ab1f77cd8fae270a7f9b31f074ecd5a",
+      "name": "Ethereum Beta",
+      "symbol": "ETHB",
+      "decimals": 0,
+      "totalSupply": "10000000000",
+      "verified": "0x01"
+    },
+    "0x991ec6dff2b3ee5431c8bb099c18ccb3131f03bc": {
+      "address": "0x991ec6dff2b3ee5431c8bb099c18ccb3131f03bc",
+      "name": "DigitalGold",
+      "symbol": "DGA",
+      "decimals": 8,
+      "totalSupply": "500000000000000",
+      "verified": "0x01"
+    },
+    "0xeec0f1da360de42fa6ebd01aa7391e92eea421cc": {
+      "address": "0xeec0f1da360de42fa6ebd01aa7391e92eea421cc",
+      "name": "Red Cat Propware",
+      "symbol": "RCAT",
+      "decimals": 0,
+      "totalSupply": "300000000",
+      "verified": "0x01"
+    },
+    "0x9d86b1b2554ec410eccffbf111a6994910111340": {
+      "address": "0x9d86b1b2554ec410eccffbf111a6994910111340",
+      "name": "OPEN Chain",
+      "symbol": "OPENC",
+      "decimals": 8,
+      "totalSupply": "174544704500000000",
+      "verified": "0x01"
+    },
+    "0xf96aa656ec0e0ac163590db372b430cf3c0d61ca": {
+      "address": "0xf96aa656ec0e0ac163590db372b430cf3c0d61ca",
+      "name": "Twogap Token",
+      "symbol": "TGT",
+      "decimals": 18,
+      "totalSupply": "210000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4fa000df40c06fc8c7d9179661535846b7cd4f87": {
+      "address": "0x4fa000df40c06fc8c7d9179661535846b7cd4f87",
+      "name": "Zenswap Network Token",
+      "symbol": "ZNT",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc7a61bbf314a4aca8e2b37e50ea024e80e3ffe9f": {
+      "address": "0xc7a61bbf314a4aca8e2b37e50ea024e80e3ffe9f",
+      "name": "PalaceResidence",
+      "symbol": "PRT",
+      "decimals": 18,
+      "totalSupply": "4365000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3364fb62274ad4659bc5162a9ba4b84c73784f58": {
+      "address": "0x3364fb62274ad4659bc5162a9ba4b84c73784f58",
+      "name": "Getx Nuvus.io token",
+      "symbol": "GETX",
+      "decimals": 18,
+      "totalSupply": "199969301021347472898213618",
+      "verified": "0x01"
+    },
+    "0xd79a040a18bcd0c3d59f95a1328eeabcc9652fe8": {
+      "address": "0xd79a040a18bcd0c3d59f95a1328eeabcc9652fe8",
+      "name": "Bitcoin Soft",
+      "symbol": "BTS",
+      "decimals": 10,
+      "totalSupply": "170000000000000000",
+      "verified": "0x01"
+    },
+    "0x4a6058666cf1057eac3cd3a5a614620547559fc9": {
+      "address": "0x4a6058666cf1057eac3cd3a5a614620547559fc9",
+      "name": "BrickblockToken",
+      "symbol": "BBK",
+      "decimals": 18,
+      "totalSupply": "265000143350000000000000000",
+      "verified": "0x01"
+    },
+    "0x3ee3c43cd9ba0abc4ef763b9070b5d29f5ae1e15": {
+      "address": "0x3ee3c43cd9ba0abc4ef763b9070b5d29f5ae1e15",
+      "name": "TradeMyCoin",
+      "symbol": "TRADEMY",
+      "decimals": 18,
+      "totalSupply": "15000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3204dcde0c50b7b2e606587663a0fe2ee8dfb6bf": {
+      "address": "0x3204dcde0c50b7b2e606587663a0fe2ee8dfb6bf",
+      "name": "THEX-THOREExchange",
+      "symbol": "THE",
+      "decimals": 0,
+      "totalSupply": "10000000",
+      "verified": "0x01"
+    },
+    "0x7ee54f9e3475d91704312d0a4997df4690e5f84b": {
+      "address": "0x7ee54f9e3475d91704312d0a4997df4690e5f84b",
+      "name": "Laser",
+      "symbol": "LAT",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0x17e16d30a05324b44cf78df847137fa1220448f8": {
+      "address": "0x17e16d30a05324b44cf78df847137fa1220448f8",
+      "name": "CyberChain",
+      "symbol": "Cyber",
+      "decimals": 8,
+      "totalSupply": "1530000000000000000",
+      "verified": "0x01"
+    },
+    "0x9bf2d38aa2002a8394a7dcf2924e943b6279a220": {
+      "address": "0x9bf2d38aa2002a8394a7dcf2924e943b6279a220",
+      "name": "HELIUMX",
+      "symbol": "HLX",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0x327d21faaee5a821570ca7e220f78531900d2bef": {
+      "address": "0x327d21faaee5a821570ca7e220f78531900d2bef",
+      "name": "Ether2Gen",
+      "symbol": "E2G",
+      "decimals": 18,
+      "totalSupply": "3000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd1f1c5ff90fb6f3b0d57f5f6ad4aaf7400f4b39b": {
+      "address": "0xd1f1c5ff90fb6f3b0d57f5f6ad4aaf7400f4b39b",
+      "name": "EXtereum",
+      "symbol": "EX",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x68e14bb5a45b9681327e16e528084b9d962c1a39": {
+      "address": "0x68e14bb5a45b9681327e16e528084b9d962c1a39",
+      "name": "BitClave - Consumer Activity Token",
+      "symbol": "CAT",
+      "decimals": 18,
+      "totalSupply": "1687519219000000000000000000",
+      "verified": "0x01"
+    },
+    "0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9": {
+      "address": "0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9",
+      "name": "LatiumX",
+      "symbol": "LATX",
+      "decimals": 8,
+      "totalSupply": "30000000000000000",
+      "verified": "0x01"
+    },
+    "0xc499ea948a1ad5d8eaf12abd2f67975c4dbe21aa": {
+      "address": "0xc499ea948a1ad5d8eaf12abd2f67975c4dbe21aa",
+      "name": "Angel Token",
+      "symbol": "ANGL",
+      "decimals": 18,
+      "totalSupply": "8629711984131059116062167",
+      "verified": "0x01"
+    },
+    "0x151bc71a40c56c7cb3317d86996fd0b4ff9bd907": {
+      "address": "0x151bc71a40c56c7cb3317d86996fd0b4ff9bd907",
+      "name": "GSG coin",
+      "symbol": "GSGC",
+      "decimals": 0,
+      "totalSupply": "5022198224",
+      "verified": "0x01"
+    },
+    "0x636991bf69febcdd9eb1a58e11021d33d40c5660": {
+      "address": "0x636991bf69febcdd9eb1a58e11021d33d40c5660",
+      "name": "EtherPlus Coin",
+      "symbol": "EPCO",
+      "decimals": 8,
+      "totalSupply": "141550681838222630",
+      "verified": "0x01"
+    },
+    "0x0778cc2e8bbad3d483e82371606d100cc8604522": {
+      "address": "0x0778cc2e8bbad3d483e82371606d100cc8604522",
+      "name": "LHCoin",
+      "symbol": "LHC",
+      "decimals": 8,
+      "totalSupply": "10180273510887865",
+      "verified": "0x01"
+    },
+    "0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab": {
+      "address": "0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab",
+      "name": "DATx",
+      "symbol": "DATx",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x041fe8df8b4aaa868941eb877952f17babe57da5": {
+      "address": "0x041fe8df8b4aaa868941eb877952f17babe57da5",
+      "name": "NYBCoin",
+      "symbol": "NYBC",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1": {
+      "address": "0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
+      "name": "DMarket Token",
+      "symbol": "DMT",
+      "decimals": 8,
+      "totalSupply": "5692177317197150",
+      "verified": "0x01"
+    },
+    "0xa701122c1b67220a8b6883d03c8ad67896b12466": {
+      "address": "0xa701122c1b67220a8b6883d03c8ad67896b12466",
+      "name": "BroFistCoin",
+      "symbol": "PEW",
+      "decimals": 8,
+      "totalSupply": "5000000000000000",
+      "verified": "0x01"
+    },
+    "0xa4959c8b0cf7109ab22d52954ed8ba3409b65456": {
+      "address": "0xa4959c8b0cf7109ab22d52954ed8ba3409b65456",
+      "name": "Ether EOS",
+      "symbol": "ETOS",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0x45555629aabfea138ead1c1e5f2ac3cce2add830": {
+      "address": "0x45555629aabfea138ead1c1e5f2ac3cce2add830",
+      "name": "CandyHCoin",
+      "symbol": "CANDY",
+      "decimals": 8,
+      "totalSupply": "100000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf7dca20054469a1d548b20859a100b9ec6ff1f61": {
+      "address": "0xf7dca20054469a1d548b20859a100b9ec6ff1f61",
+      "name": "Bitcoin EOS",
+      "symbol": "BITE",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0xf4b59555522a1b72178c67d4a7ff87e73eb51fbe": {
+      "address": "0xf4b59555522a1b72178c67d4a7ff87e73eb51fbe",
+      "name": "Digitale",
+      "symbol": "DIGT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6ff73ee2255c30e072d35598f9b06795122d4e64": {
+      "address": "0x6ff73ee2255c30e072d35598f9b06795122d4e64",
+      "name": "DigitalEnthusiasts",
+      "symbol": "GDE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x899338b84d25ac505a332adce7402d697d947494": {
+      "address": "0x899338b84d25ac505a332adce7402d697d947494",
+      "name": "WCOIN",
+      "symbol": "WIN",
+      "decimals": 8,
+      "totalSupply": "5664269862073188",
+      "verified": "0x01"
+    },
+    "0x4086f6c05207d0747499fcf41328d736a18c564b": {
+      "address": "0x4086f6c05207d0747499fcf41328d736a18c564b",
+      "name": "Coin Loan Token",
+      "symbol": "CLT",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0x8713d26637cf49e1b6b4a7ce57106aabc9325343": {
+      "address": "0x8713d26637cf49e1b6b4a7ce57106aabc9325343",
+      "name": "CNN Token",
+      "symbol": "CNN",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xac2bd14654bbf22f9d8f20c7b3a70e376d3436b4": {
+      "address": "0xac2bd14654bbf22f9d8f20c7b3a70e376d3436b4",
+      "name": "Kitten Coin",
+      "symbol": "KITTEN",
+      "decimals": 8,
+      "totalSupply": "40000000000000000",
+      "verified": "0x01"
+    },
+    "0xeef8102a0d46d508f171d7323bceffc592835f13": {
+      "address": "0xeef8102a0d46d508f171d7323bceffc592835f13",
+      "name": "KriosCoin",
+      "symbol": "KRI",
+      "decimals": 18,
+      "totalSupply": "355000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5fa1ea99eb3acc1f9e84cf28fde6431b8fdc9dc0": {
+      "address": "0x5fa1ea99eb3acc1f9e84cf28fde6431b8fdc9dc0",
+      "name": "UselessAirdroppedToken",
+      "symbol": "UAT",
+      "decimals": 8,
+      "totalSupply": "5000000000000000",
+      "verified": "0x01"
+    },
+    "0xb39e9b7edf793611b615faa6e546ed68a23f7006": {
+      "address": "0xb39e9b7edf793611b615faa6e546ed68a23f7006",
+      "name": "MethN",
+      "symbol": "METH",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x817e5796771efcbef00d0886826bc19ab621dcea": {
+      "address": "0x817e5796771efcbef00d0886826bc19ab621dcea",
+      "name": "Lucky Token",
+      "symbol": "LUCKY",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x05aaaa829afa407d83315cded1d45eb16025910c": {
+      "address": "0x05aaaa829afa407d83315cded1d45eb16025910c",
+      "name": "SP8DE Token",
+      "symbol": "SPX",
+      "decimals": 18,
+      "totalSupply": "8888888888000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf2bad87c0d0ea8bda69c722368df4f79d92ee6c9": {
+      "address": "0xf2bad87c0d0ea8bda69c722368df4f79d92ee6c9",
+      "name": "REBEL COIN",
+      "symbol": "REBLC",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9a8a3297f1fad3eadb0735a3c6a485ffe8d9ed96": {
+      "address": "0x9a8a3297f1fad3eadb0735a3c6a485ffe8d9ed96",
+      "name": "NEXON",
+      "symbol": "NXN",
+      "decimals": 12,
+      "totalSupply": "85000000000000000000",
+      "verified": "0x01"
+    },
+    "0xbc46d9961a3932f7d6b64abfdec80c1816c4b835": {
+      "address": "0xbc46d9961a3932f7d6b64abfdec80c1816c4b835",
+      "name": "LiteXToken",
+      "symbol": "LXT",
+      "decimals": 18,
+      "totalSupply": "2000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xbb01b2113c13eeaa70c98a4fff53a0fc593713bd": {
+      "address": "0xbb01b2113c13eeaa70c98a4fff53a0fc593713bd",
+      "name": "True",
+      "symbol": "TRUE",
+      "decimals": 18,
+      "totalSupply": "79586499000000000000000000",
+      "verified": "0x01"
+    },
+    "0x447b80265dad5c8639879f0a5fd641f083a5f7f4": {
+      "address": "0x447b80265dad5c8639879f0a5fd641f083a5f7f4",
+      "name": "OXGOLD",
+      "symbol": "ZRXG",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4d2c05109a1309c6de0d3b7f06f397c9c41b8fae": {
+      "address": "0x4d2c05109a1309c6de0d3b7f06f397c9c41b8fae",
+      "name": "Value Promise Protocol token",
+      "symbol": "VPP",
+      "decimals": 18,
+      "totalSupply": "5000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd6df5935cd03a768b7b9e92637a01b25e24cb709": {
+      "address": "0xd6df5935cd03a768b7b9e92637a01b25e24cb709",
+      "name": "Bitgram",
+      "symbol": "BGR",
+      "decimals": 8,
+      "totalSupply": "70000000000000000",
+      "verified": "0x01"
+    },
+    "0x9e518098bb49354bc4372d48d3474d8c1f2eddf8": {
+      "address": "0x9e518098bb49354bc4372d48d3474d8c1f2eddf8",
+      "name": "POLYMATH",
+      "symbol": "POLYM",
+      "decimals": 18,
+      "totalSupply": "18000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd19d8d78fab2df53ac21c54dbcf0e077433c2e93": {
+      "address": "0xd19d8d78fab2df53ac21c54dbcf0e077433c2e93",
+      "name": "GrossDomesticProduct",
+      "symbol": "GDP",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0x910534d325a9766f6fca73154e259d39f1c9dae1": {
+      "address": "0x910534d325a9766f6fca73154e259d39f1c9dae1",
+      "name": "DashClassic",
+      "symbol": "DSC",
+      "decimals": 12,
+      "totalSupply": "25000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5ecd84482176db90bb741ddc8c2f9ccc290e29ce": {
+      "address": "0x5ecd84482176db90bb741ddc8c2f9ccc290e29ce",
+      "name": "BTL",
+      "symbol": "BTL",
+      "decimals": 6,
+      "totalSupply": "1000000000000000",
+      "verified": "0x01"
+    },
+    "0x457940e5aee90498ddb087768e6c36ccc3fb1b39": {
+      "address": "0x457940e5aee90498ddb087768e6c36ccc3fb1b39",
+      "name": "eBitcoin Clasic",
+      "symbol": "EBCC",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xac41e405496a49b77b2440c51de0df807d7e1e3a": {
+      "address": "0xac41e405496a49b77b2440c51de0df807d7e1e3a",
+      "name": "NEOCash",
+      "symbol": "NCH",
+      "decimals": 18,
+      "totalSupply": "31000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa63c07cf64f49abc24ca7014ff51789c53b798f7": {
+      "address": "0xa63c07cf64f49abc24ca7014ff51789c53b798f7",
+      "name": "BITCOIN SPORTS",
+      "symbol": "BSP",
+      "decimals": 18,
+      "totalSupply": "150000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf0e14b4774e7e243bbffd3634fb627f395005444": {
+      "address": "0xf0e14b4774e7e243bbffd3634fb627f395005444",
+      "name": "IDEX Membership Gold",
+      "symbol": "IDXMG",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc9c261ba4c0fcc8a23d0829443e894801d507173": {
+      "address": "0xc9c261ba4c0fcc8a23d0829443e894801d507173",
+      "name": "CANDY CASH",
+      "symbol": "CANDYCASH",
+      "decimals": 18,
+      "totalSupply": "12345678900000000000000000000",
+      "verified": "0x01"
+    },
+    "0x83289722fa294607214fca046b1f087a044b26cb": {
+      "address": "0x83289722fa294607214fca046b1f087a044b26cb",
+      "name": "MONEREUM",
+      "symbol": "MNR",
+      "decimals": 18,
+      "totalSupply": "5000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3bb0d376812018c36815d046de77643b08cb1b50": {
+      "address": "0x3bb0d376812018c36815d046de77643b08cb1b50",
+      "name": "OXIGNIS",
+      "symbol": "OXIGNIS",
+      "decimals": 18,
+      "totalSupply": "150000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x22d1755515bef4afd277d8acd42adbac49c77d43": {
+      "address": "0x22d1755515bef4afd277d8acd42adbac49c77d43",
+      "name": "ZeroXEth",
+      "symbol": "0XETH",
+      "decimals": 8,
+      "totalSupply": "44999999500000000",
+      "verified": "0x01"
+    },
+    "0x878fcd33cdf5b66edce691bca5e1f442688c8ece": {
+      "address": "0x878fcd33cdf5b66edce691bca5e1f442688c8ece",
+      "name": "RamenCoin",
+      "symbol": "RAMEN",
+      "decimals": 18,
+      "totalSupply": "350000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xdeed02988a2f769a76389aee638c2c17cccce9ba": {
+      "address": "0xdeed02988a2f769a76389aee638c2c17cccce9ba",
+      "name": "PowerLedgerNano",
+      "symbol": "PLN",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe17d3cf2af32739dd94fa6b4d2c7cb18759bd0b2": {
+      "address": "0xe17d3cf2af32739dd94fa6b4d2c7cb18759bd0b2",
+      "name": "DOGE2X",
+      "symbol": "DOGE2X",
+      "decimals": 18,
+      "totalSupply": "990000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x29ee1bfb364e2aab3b41125c352ff9cc271cba4c": {
+      "address": "0x29ee1bfb364e2aab3b41125c352ff9cc271cba4c",
+      "name": "TOKENOMY CASH",
+      "symbol": "TENC",
+      "decimals": 18,
+      "totalSupply": "99999999999999999999999999999999999999999999999999999999999999999999",
+      "verified": "0x01"
+    },
+    "0xff3696d05e4a031b77e2fadf4f18bae6fddf33cf": {
+      "address": "0xff3696d05e4a031b77e2fadf4f18bae6fddf33cf",
+      "name": "BITCOIN LINEAR",
+      "symbol": "BTCL",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1234567461d3f8db7496581774bd869c83d51c93": {
+      "address": "0x1234567461d3f8db7496581774bd869c83d51c93",
+      "name": "BitClave",
+      "symbol": "CAT",
+      "decimals": 18,
+      "totalSupply": "2000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x52235fbc2c5df9574019a862c6a0b120afd68721": {
+      "address": "0x52235fbc2c5df9574019a862c6a0b120afd68721",
+      "name": "Litecoin Gold",
+      "symbol": "LCG",
+      "decimals": 3,
+      "totalSupply": "84000000000",
+      "verified": "0x01"
+    },
+    "0x47f86dc75ca5305878d00e1858045f813225227a": {
+      "address": "0x47f86dc75ca5305878d00e1858045f813225227a",
+      "name": "BITCOIN NEO",
+      "symbol": "BINE",
+      "decimals": 18,
+      "totalSupply": "15912111983123456723457346734567",
+      "verified": "0x01"
+    },
+    "0x50b295dd9855694b7ba2e47c4ddd60c09b223f00": {
+      "address": "0x50b295dd9855694b7ba2e47c4ddd60c09b223f00",
+      "name": "ViolenceNetwork",
+      "symbol": "VION",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x92e52a1a235d9a103d970901066ce910aacefd37": {
+      "address": "0x92e52a1a235d9a103d970901066ce910aacefd37",
+      "name": "UCASH",
+      "symbol": "UCASH",
+      "decimals": 8,
+      "totalSupply": "2100000000000000000",
+      "verified": "0x01"
+    },
+    "0x624c72f98972f279e9d45d5cb78151cc58baf355": {
+      "address": "0x624c72f98972f279e9d45d5cb78151cc58baf355",
+      "name": "Domain Token",
+      "symbol": "DMK",
+      "decimals": 0,
+      "totalSupply": "10000000",
+      "verified": "0x01"
+    },
+    "0x67df03fa46f19ca8a843fe5798a7cae20422764e": {
+      "address": "0x67df03fa46f19ca8a843fe5798a7cae20422764e",
+      "name": "Bitcoin Pink",
+      "symbol": "BTCP",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6717cbe5345230d63d7d5ac3b1263c78d5230654": {
+      "address": "0x6717cbe5345230d63d7d5ac3b1263c78d5230654",
+      "name": "Drip Token",
+      "symbol": "DRPT",
+      "decimals": 0,
+      "totalSupply": "20000000",
+      "verified": "0x01"
+    },
+    "0x03eeea828fa9847e93581f259bb4cc746aab43c6": {
+      "address": "0x03eeea828fa9847e93581f259bb4cc746aab43c6",
+      "name": "CRYPTO 30",
+      "symbol": "C30",
+      "decimals": 18,
+      "totalSupply": "9000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x17f921fa8f087c94e55c28b264f22138626639f0": {
+      "address": "0x17f921fa8f087c94e55c28b264f22138626639f0",
+      "name": "Lander Token",
+      "symbol": "LNTK",
+      "decimals": 0,
+      "totalSupply": "2000000",
+      "verified": "0x01"
+    },
+    "0x1b9dcdcddd2d6ca699cad9505faa363e81145c6b": {
+      "address": "0x1b9dcdcddd2d6ca699cad9505faa363e81145c6b",
+      "name": "Brink Token",
+      "symbol": "BRTN",
+      "decimals": 0,
+      "totalSupply": "3000000",
+      "verified": "0x01"
+    },
+    "0x30344180225eb6d77252f1f6e6c9099a143c4944": {
+      "address": "0x30344180225eb6d77252f1f6e6c9099a143c4944",
+      "name": "EOS CASH",
+      "symbol": "EOSC",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6feb3a071a2732378521c53d024b67ad068ec921": {
+      "address": "0x6feb3a071a2732378521c53d024b67ad068ec921",
+      "name": "Ramen Coin",
+      "symbol": "RAMEN",
+      "decimals": 18,
+      "totalSupply": "350000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa0bacc59afda243fedcaa5589d5ab0c022a28284": {
+      "address": "0xa0bacc59afda243fedcaa5589d5ab0c022a28284",
+      "name": "SAVAGE",
+      "symbol": "SAVAGE",
+      "decimals": 18,
+      "totalSupply": "5000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x18d6c40cd5f1f41e2f99527d1cd4df0837bdb292": {
+      "address": "0x18d6c40cd5f1f41e2f99527d1cd4df0837bdb292",
+      "name": "DATUM GOLD",
+      "symbol": "DATG",
+      "decimals": 18,
+      "totalSupply": "5000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa5ea18f32a0d0487d9ca6f953d9a32d99e1097ad": {
+      "address": "0xa5ea18f32a0d0487d9ca6f953d9a32d99e1097ad",
+      "name": "Synix Token",
+      "symbol": "SYT",
+      "decimals": 0,
+      "totalSupply": "30000000",
+      "verified": "0x01"
+    },
+    "0xe6ce94992f57f510ef616ea14d11e70455b4414d": {
+      "address": "0xe6ce94992f57f510ef616ea14d11e70455b4414d",
+      "name": "ARTIS TUBA",
+      "symbol": "ARTIS",
+      "decimals": 18,
+      "totalSupply": "15000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x92d41a7af372adf799adecd036796dc6bb7af896": {
+      "address": "0x92d41a7af372adf799adecd036796dc6bb7af896",
+      "name": "Cardanocash",
+      "symbol": "ADAC",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x45d53a6056cb0e60a7989e8e812f2fb9018c7602": {
+      "address": "0x45d53a6056cb0e60a7989e8e812f2fb9018c7602",
+      "name": "Tronix Cash",
+      "symbol": "TRXC",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xbea88592b653d965a57938632cc3dc2014b95fbb": {
+      "address": "0xbea88592b653d965a57938632cc3dc2014b95fbb",
+      "name": "CORUNDUM",
+      "symbol": "CRDM",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xb43c9a63d8553f167b1f21bc2df86498135e7ab9": {
+      "address": "0xb43c9a63d8553f167b1f21bc2df86498135e7ab9",
+      "name": "Reagent Token",
+      "symbol": "RET",
+      "decimals": 0,
+      "totalSupply": "30000000",
+      "verified": "0x01"
+    },
+    "0x8d659ea48305eaa375121d8dc15ecb15c2fec4c4": {
+      "address": "0x8d659ea48305eaa375121d8dc15ecb15c2fec4c4",
+      "name": "Ethereum AI",
+      "symbol": "ETHAI",
+      "decimals": 18,
+      "totalSupply": "2000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xefdddb40671601534b572c6cb12b2589138cf3b7": {
+      "address": "0xefdddb40671601534b572c6cb12b2589138cf3b7",
+      "name": "Mars Token",
+      "symbol": "MAT",
+      "decimals": 0,
+      "totalSupply": "20000000",
+      "verified": "0x01"
+    },
+    "0x9b0af35c04afd466fb177ffced19a55c1edbfde7": {
+      "address": "0x9b0af35c04afd466fb177ffced19a55c1edbfde7",
+      "name": "RIPPLE GOLD",
+      "symbol": "XRPG",
+      "decimals": 18,
+      "totalSupply": "153910000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa02e6433bd9000457729b0305ca4b89742e777d0": {
+      "address": "0xa02e6433bd9000457729b0305ca4b89742e777d0",
+      "name": "ZTokenGold",
+      "symbol": "ZTG",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x39e4f5da9f41844dd3cbbfa5a7cb87159cd2aa8a": {
+      "address": "0x39e4f5da9f41844dd3cbbfa5a7cb87159cd2aa8a",
+      "name": "BitShares Gold",
+      "symbol": "BTSG",
+      "decimals": 8,
+      "totalSupply": "4638988700000000",
+      "verified": "0x01"
+    },
+    "0xfc0d912896ea2cadfc49735f8c564809ebec593e": {
+      "address": "0xfc0d912896ea2cadfc49735f8c564809ebec593e",
+      "name": "AirBnbChain",
+      "symbol": "INN",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x85d4f742efdbadf9a19650aa1bde9d187f6abb16": {
+      "address": "0x85d4f742efdbadf9a19650aa1bde9d187f6abb16",
+      "name": "Galaxy Token",
+      "symbol": "GLYT",
+      "decimals": 0,
+      "totalSupply": "50000000",
+      "verified": "0x01"
+    },
+    "0x7d2624470429a4fa48f09206238749fbbb45eaa8": {
+      "address": "0x7d2624470429a4fa48f09206238749fbbb45eaa8",
+      "name": "ACADEMICON",
+      "symbol": "ADC",
+      "decimals": 8,
+      "totalSupply": "10000000000000000",
+      "verified": "0x01"
+    },
+    "0xafeef4624c675af2333f546eeda6eb218300ff7b": {
+      "address": "0xafeef4624c675af2333f546eeda6eb218300ff7b",
+      "name": "ZNeoGold",
+      "symbol": "ZNG",
+      "decimals": 0,
+      "totalSupply": "200000000",
+      "verified": "0x01"
+    },
+    "0x15b415bff76c1cbd17bc2601a9ddc190a5071487": {
+      "address": "0x15b415bff76c1cbd17bc2601a9ddc190a5071487",
+      "name": "CardanoGold",
+      "symbol": "ADAG",
+      "decimals": 18,
+      "totalSupply": "243987000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd988982bedf6c57f808cb8164af64ba6cdb8efe8": {
+      "address": "0xd988982bedf6c57f808cb8164af64ba6cdb8efe8",
+      "name": "TheEmpire",
+      "symbol": "EMPI",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x139d415b5fd0981fbee78d0fa503168855b34652": {
+      "address": "0x139d415b5fd0981fbee78d0fa503168855b34652",
+      "name": "Mining24",
+      "symbol": "M24",
+      "decimals": 8,
+      "totalSupply": "200000000000000000",
+      "verified": "0x01"
+    },
+    "0x800f0272ffe883291e1917bc5f2120721874e497": {
+      "address": "0x800f0272ffe883291e1917bc5f2120721874e497",
+      "name": "MaxPowerCoin",
+      "symbol": "MPC",
+      "decimals": 18,
+      "totalSupply": "900000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x2d07d53c82978fdce1dae5d5dee38923f520dd63": {
+      "address": "0x2d07d53c82978fdce1dae5d5dee38923f520dd63",
+      "name": "ZAZ TOKEN",
+      "symbol": "ZTZ",
+      "decimals": 0,
+      "totalSupply": "20000000",
+      "verified": "0x01"
+    },
+    "0x7661e3b364f74996866545057f47d4abe3cb8ae9": {
+      "address": "0x7661e3b364f74996866545057f47d4abe3cb8ae9",
+      "name": "REBELLION",
+      "symbol": "RBLN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x22c10728343e9d49ef25080f74a223878a3d4052": {
+      "address": "0x22c10728343e9d49ef25080f74a223878a3d4052",
+      "name": "Digital Rupiah",
+      "symbol": "DRP",
+      "decimals": 8,
+      "standard": "ERC20",
+      "totalSupply": "10000000000000000",
+      "verified": "0x01"
+    },
+    "0x823d50cad4706d22db5751f24eab86bf8e5618bf": {
+      "address": "0x823d50cad4706d22db5751f24eab86bf8e5618bf",
+      "name": "TouristToken",
+      "symbol": "TOTO",
+      "decimals": 8,
+      "totalSupply": "2000000000000000000",
+      "verified": "0x01"
+    },
+    "0x94bb007b86a05c7545f63c6e196d18a5c25791e4": {
+      "address": "0x94bb007b86a05c7545f63c6e196d18a5c25791e4",
+      "name": "Simscoin",
+      "symbol": "SMC",
+      "decimals": 18,
+      "totalSupply": "150000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x739e9a5add9bffaeac9a3bb06c825eaff87ef5fb": {
+      "address": "0x739e9a5add9bffaeac9a3bb06c825eaff87ef5fb",
+      "name": "NEODiamond",
+      "symbol": "NEOD",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa469747b0ac7f09e6cc68d2f35313e8281c9d243": {
+      "address": "0xa469747b0ac7f09e6cc68d2f35313e8281c9d243",
+      "name": "Tesla TOKEN",
+      "symbol": "TLS",
+      "decimals": 0,
+      "totalSupply": "20000000",
+      "verified": "0x01"
+    },
+    "0x55d6c8ba08f60283d42b5a9b4816dfc2bcc599b3": {
+      "address": "0x55d6c8ba08f60283d42b5a9b4816dfc2bcc599b3",
+      "name": "BITMOON TOKEN",
+      "symbol": "BTM",
+      "decimals": 4,
+      "totalSupply": "989987600000000",
+      "verified": "0x01"
+    },
+    "0xf4faea455575354d2699bc209b0a65ca99f69982": {
+      "address": "0xf4faea455575354d2699bc209b0a65ca99f69982",
+      "name": "No BS Crypto",
+      "symbol": "NOBS",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x0d22cfa3c8df7039b66e1a3fad2073273732279b": {
+      "address": "0x0d22cfa3c8df7039b66e1a3fad2073273732279b",
+      "name": "Generic Token",
+      "symbol": "GNT",
+      "decimals": 0,
+      "totalSupply": "10000000",
+      "verified": "0x01"
+    },
+    "0x1864ce27e9f7517047933caae530674e8c70b8a7": {
+      "address": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
+      "name": "Pibble Token",
+      "symbol": "PIB",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xdab5dfa0966c3435da991b39d205c3ba1c64fe31": {
+      "address": "0xdab5dfa0966c3435da991b39d205c3ba1c64fe31",
+      "name": "MilitaryPay",
+      "symbol": "MTP",
+      "decimals": 1,
+      "totalSupply": "90000001889089358338525",
+      "verified": "0x01"
+    },
+    "0x8e90dcc58d20cd1cc513e2fd26096e72ccd42a3c": {
+      "address": "0x8e90dcc58d20cd1cc513e2fd26096e72ccd42a3c",
+      "name": "Sync Token",
+      "symbol": "SYCT",
+      "decimals": 0,
+      "totalSupply": "500000000",
+      "verified": "0x01"
+    },
+    "0xcef079e04caa9416367c29f9f7064e3557688c88": {
+      "address": "0xcef079e04caa9416367c29f9f7064e3557688c88",
+      "name": "Global Tour Token",
+      "symbol": "GTT",
+      "decimals": 8,
+      "totalSupply": "1000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd313949a7812a1a47c4c716b9c2c3e35ffd3c2b0": {
+      "address": "0xd313949a7812a1a47c4c716b9c2c3e35ffd3c2b0",
+      "name": "Bank Idenifier Code Token",
+      "symbol": "BIC",
+      "decimals": 0,
+      "totalSupply": "30000000",
+      "verified": "0x01"
+    },
+    "0x78bb4e3a6ab4da4b5937c6f919979953711e4a11": {
+      "address": "0x78bb4e3a6ab4da4b5937c6f919979953711e4a11",
+      "name": "Hype Token",
+      "symbol": "HYPT",
+      "decimals": 0,
+      "totalSupply": "200000000",
+      "verified": "0x01"
+    },
+    "0x06f9aa8a7248561136ab1e3fb67cea6dca0cf5d7": {
+      "address": "0x06f9aa8a7248561136ab1e3fb67cea6dca0cf5d7",
+      "name": "Ledger Token",
+      "symbol": "LED⚔️",
+      "decimals": 0,
+      "totalSupply": "100000000",
+      "verified": "0x01"
+    },
+    "0xa45943e84be9ce9f1fb9524cea0ed13d57a363dd": {
+      "address": "0xa45943e84be9ce9f1fb9524cea0ed13d57a363dd",
+      "name": "Crisp Token",
+      "symbol": "CRT",
+      "decimals": 0,
+      "totalSupply": "20000000",
+      "verified": "0x01"
+    },
+    "0x2abdb71eb0e3fc09cefab103f0a295fc524d0bb4": {
+      "address": "0x2abdb71eb0e3fc09cefab103f0a295fc524d0bb4",
+      "name": "Dynasty Token",
+      "symbol": "DYNT",
+      "decimals": 0,
+      "totalSupply": "200000000",
+      "verified": "0x01"
+    },
+    "0xbe86805215426a84c0e134effc66f8d93deaea83": {
+      "address": "0xbe86805215426a84c0e134effc66f8d93deaea83",
+      "name": "Cyan Token",
+      "symbol": "CYN",
+      "decimals": 0,
+      "totalSupply": "50000000",
+      "verified": "0x01"
+    },
+    "0x607bd8adf99b3574d0fc0f43343cd4367f13f266": {
+      "address": "0x607bd8adf99b3574d0fc0f43343cd4367f13f266",
+      "name": "AppToken",
+      "symbol": "APPT",
+      "decimals": 18,
+      "totalSupply": "73638999000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9270c28ff3d7736d0d57576b6082740d5777dd9d": {
+      "address": "0x9270c28ff3d7736d0d57576b6082740d5777dd9d",
+      "name": "L CASH",
+      "symbol": "LCASH",
+      "decimals": 18,
+      "totalSupply": "88000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xac0741127cac11e4455c7943b654bcced7fdd5a4": {
+      "address": "0xac0741127cac11e4455c7943b654bcced7fdd5a4",
+      "name": "Ejoy Coin",
+      "symbol": "EJOY",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1c6ad1a88629e5b9375c28fe95476f1e4b67a97f": {
+      "address": "0x1c6ad1a88629e5b9375c28fe95476f1e4b67a97f",
+      "name": "Ford TOKEN",
+      "symbol": "FRT",
+      "decimals": 0,
+      "totalSupply": "500000000",
+      "verified": "0x01"
+    },
+    "0xc7cb86efb5651162acf1dd61ac0ea5f281a24736": {
+      "address": "0xc7cb86efb5651162acf1dd61ac0ea5f281a24736",
+      "name": "Hellix Coin",
+      "symbol": "HLC",
+      "decimals": 18,
+      "totalSupply": "200000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x400a125eb01b59e01612382014ad64ad83dc25a5": {
+      "address": "0x400a125eb01b59e01612382014ad64ad83dc25a5",
+      "name": "STELLARGOLD",
+      "symbol": "XLMGOLD",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x10c708fffc874196917296091cb0660fe5ec3a6b": {
+      "address": "0x10c708fffc874196917296091cb0660fe5ec3a6b",
+      "name": "Spiral Token",
+      "symbol": "SRT",
+      "decimals": 0,
+      "totalSupply": "10000000",
+      "verified": "0x01"
+    },
+    "0x26f2049cc605bf8028e407b71a2d83cd520fa4de": {
+      "address": "0x26f2049cc605bf8028e407b71a2d83cd520fa4de",
+      "name": "IdexCash",
+      "symbol": "IdexCash",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x39102ab5138735fe14e50417c31a99da8d34c0f5": {
+      "address": "0x39102ab5138735fe14e50417c31a99da8d34c0f5",
+      "name": "Furge Token",
+      "symbol": "FRT",
+      "decimals": 0,
+      "totalSupply": "20000000",
+      "verified": "0x01"
+    },
+    "0xcd92835c79d5452610a9d31b6d5543932e652218": {
+      "address": "0xcd92835c79d5452610a9d31b6d5543932e652218",
+      "name": "EthereumAI Coin",
+      "symbol": "ETHAI",
+      "decimals": 0,
+      "totalSupply": "100000000",
+      "verified": "0x01"
+    },
+    "0x4f5eebe27263a23f8445f5dd56d47fa64e17b930": {
+      "address": "0x4f5eebe27263a23f8445f5dd56d47fa64e17b930",
+      "name": "EthereumX Token",
+      "symbol": "ETHX",
+      "decimals": 0,
+      "totalSupply": "500000000",
+      "verified": "0x01"
+    },
+    "0x1c4481750daa5ff521a2a7490d9981ed46465dbd": {
+      "address": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+      "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
+      "symbol": "BCPT",
+      "decimals": 18,
+      "totalSupply": "116158667000000000000000000",
+      "verified": "0x01"
+    },
+    "0x66da7bcfd24ca2659079acddf13056331cd049b4": {
+      "address": "0x66da7bcfd24ca2659079acddf13056331cd049b4",
+      "name": "PegasusX",
+      "symbol": "PGSX",
+      "decimals": 18,
+      "totalSupply": "1500000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4bcf26175b57837df61c56a499d6703050fba9cd": {
+      "address": "0x4bcf26175b57837df61c56a499d6703050fba9cd",
+      "name": "PokemonGo",
+      "symbol": "PKG",
+      "decimals": 2,
+      "totalSupply": "1000000000000",
+      "verified": "0x01"
+    },
+    "0xaadb70f3c78e657b887a2d2ddf8e18d727da688c": {
+      "address": "0xaadb70f3c78e657b887a2d2ddf8e18d727da688c",
+      "name": "ZAS TOKEN",
+      "symbol": "ZTS",
+      "decimals": 0,
+      "totalSupply": "2000000000",
+      "verified": "0x01"
+    },
+    "0x351d5ea36941861d0c03fdfb24a8c2cb106e068b": {
+      "address": "0x351d5ea36941861d0c03fdfb24a8c2cb106e068b",
+      "name": "FRESCO",
+      "symbol": "FRES",
+      "decimals": 18,
+      "totalSupply": "500000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe6b38dfcdb8e44f89b315e7df220ad631ed4e7ab": {
+      "address": "0xe6b38dfcdb8e44f89b315e7df220ad631ed4e7ab",
+      "name": "Noob Token",
+      "symbol": "NBT",
+      "decimals": 0,
+      "totalSupply": "50000000",
+      "verified": "0x01"
+    },
+    "0x0f89559eb78e92d92487e69286fdc4119d536297": {
+      "address": "0x0f89559eb78e92d92487e69286fdc4119d536297",
+      "name": "ORIGIN Token",
+      "symbol": "ORGT",
+      "decimals": 0,
+      "totalSupply": "200000000",
+      "verified": "0x01"
+    },
+    "0x2a5c5212f399aa04a0ce28dbe48c1a17fca78df4": {
+      "address": "0x2a5c5212f399aa04a0ce28dbe48c1a17fca78df4",
+      "name": "XDAC COIN",
+      "symbol": "XDAC",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf6b6aa0ef0f5edc2c1c5d925477f97eaf66303e7": {
+      "address": "0xf6b6aa0ef0f5edc2c1c5d925477f97eaf66303e7",
+      "name": "Going Gems",
+      "symbol": "XGG",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0xf3f949599dd97a0f0ea6108af42ab679f56a426a": {
+      "address": "0xf3f949599dd97a0f0ea6108af42ab679f56a426a",
+      "name": "iBitcoin",
+      "symbol": "IBTC",
+      "decimals": 8,
+      "totalSupply": "100000000000",
+      "verified": "0x01"
+    },
+    "0x7c32db0645a259fae61353c1f891151a2e7f8c1e": {
+      "address": "0x7c32db0645a259fae61353c1f891151a2e7f8c1e",
+      "name": "POTENTIAM",
+      "symbol": "PTM",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6cfba3c7b4c944bdc9442c91d67d35d7c27fa430": {
+      "address": "0x6cfba3c7b4c944bdc9442c91d67d35d7c27fa430",
+      "name": "OrphanToken",
+      "symbol": "ORT",
+      "decimals": 0,
+      "totalSupply": "1000000000",
+      "verified": "0x01"
+    },
+    "0xc3dbabfa446f65f54d10c2b5ddc5c121c7d9f6be": {
+      "address": "0xc3dbabfa446f65f54d10c2b5ddc5c121c7d9f6be",
+      "name": "DOGENEREUM",
+      "symbol": "DRM",
+      "decimals": 18,
+      "totalSupply": "998377483838839000000000000000000",
+      "verified": "0x01"
+    },
+    "0x112d4cc0d0a0e851115d7ee17aa45e0561d677b0": {
+      "address": "0x112d4cc0d0a0e851115d7ee17aa45e0561d677b0",
+      "name": "NeXt Token",
+      "symbol": "NXT",
+      "decimals": 0,
+      "totalSupply": "200000000",
+      "verified": "0x01"
+    },
+    "0xd49c3c2901bbe6ea3e5c0796cecf402703d2dd54": {
+      "address": "0xd49c3c2901bbe6ea3e5c0796cecf402703d2dd54",
+      "name": "Micro TOKEN",
+      "symbol": "MIT",
+      "decimals": 0,
+      "totalSupply": "200000000",
+      "verified": "0x01"
+    },
+    "0x56cea0b0c02a2a4f8d49bb0ee42a0b88f5f976ae": {
+      "address": "0x56cea0b0c02a2a4f8d49bb0ee42a0b88f5f976ae",
+      "name": "XeniX V2",
+      "symbol": "XEN",
+      "decimals": 0,
+      "totalSupply": "100000000",
+      "verified": "0x01"
+    },
+    "0xc67e01f0b416b884a2896fae3401e86d605ba47e": {
+      "address": "0xc67e01f0b416b884a2896fae3401e86d605ba47e",
+      "name": "Neck Coin",
+      "symbol": "NECK",
+      "decimals": 18,
+      "totalSupply": "300000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa8e6e6d44df765a4fb1a182672d76f6e69d6ae4e": {
+      "address": "0xa8e6e6d44df765a4fb1a182672d76f6e69d6ae4e",
+      "name": "RandeX Token",
+      "symbol": "RXT",
+      "decimals": 0,
+      "totalSupply": "200000000",
+      "verified": "0x01"
+    },
+    "0x53fac935215e2d37c6041d95e35dd56c79d8ebb9": {
+      "address": "0x53fac935215e2d37c6041d95e35dd56c79d8ebb9",
+      "name": "ZeroXRipple",
+      "symbol": "ZeroXRipple",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xac81a053fff77ed5a4eee10fe7c06b48f4ca7431": {
+      "address": "0xac81a053fff77ed5a4eee10fe7c06b48f4ca7431",
+      "name": "Brinkz Token",
+      "symbol": "BRTZ",
+      "decimals": 0,
+      "totalSupply": "50000000",
+      "verified": "0x01"
+    },
+    "0x1266e24384701b094767d635a81a1001a3e54c36": {
+      "address": "0x1266e24384701b094767d635a81a1001a3e54c36",
+      "name": "PetsCoin",
+      "symbol": "P3T",
+      "decimals": 18,
+      "totalSupply": "80000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x71d7ad82c45851f1709249c7ca30a115d3f69ce8": {
+      "address": "0x71d7ad82c45851f1709249c7ca30a115d3f69ce8",
+      "name": "Lender Token",
+      "symbol": "LND",
+      "decimals": 0,
+      "totalSupply": "30000000",
+      "verified": "0x01"
+    },
+    "0xf8cbd8fbcb38810bfc47290024ffe4680370f6af": {
+      "address": "0xf8cbd8fbcb38810bfc47290024ffe4680370f6af",
+      "name": "AnonX Token",
+      "symbol": "ANX",
+      "decimals": 0,
+      "totalSupply": "500000000",
+      "verified": "0x01"
+    },
+    "0xb0bb3c7193fb9aea9d8c28200162264ff1800167": {
+      "address": "0xb0bb3c7193fb9aea9d8c28200162264ff1800167",
+      "name": "GoldenChain",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "totalSupply": "11600000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe2b407160aad5540eac0e80338b9a5085c60f25b": {
+      "address": "0xe2b407160aad5540eac0e80338b9a5085c60f25b",
+      "name": "GPN Coin",
+      "symbol": "GPN",
+      "decimals": 18,
+      "totalSupply": "300000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x2ac6c3e75ea7bd845c8f84cb5180e1e9e9f1dfea": {
+      "address": "0x2ac6c3e75ea7bd845c8f84cb5180e1e9e9f1dfea",
+      "name": "ETHERONEUM",
+      "symbol": "ETN",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xba39b3bf81b532d65a396fc8a4c997047ddf7b26": {
+      "address": "0xba39b3bf81b532d65a396fc8a4c997047ddf7b26",
+      "name": "Ethereum Swift🐈",
+      "symbol": "ETH🐈",
+      "decimals": 0,
+      "totalSupply": "100000000",
+      "verified": "0x01"
+    },
+    "0x35a64ecdf930b7e64ab56658fab2d5135cb56960": {
+      "address": "0x35a64ecdf930b7e64ab56658fab2d5135cb56960",
+      "name": "Kulta Token",
+      "symbol": "KUL",
+      "decimals": 0,
+      "totalSupply": "100000000",
+      "verified": "0x01"
+    },
+    "0xbb7e942ee6c4e445d3369809b20325e12474d953": {
+      "address": "0xbb7e942ee6c4e445d3369809b20325e12474d953",
+      "name": "ZeniX Token",
+      "symbol": "ZEN",
+      "decimals": 0,
+      "totalSupply": "50000000",
+      "verified": "0x01"
+    },
+    "0xda4d69c10c03f9e07f69d091d525b70d8856e2b7": {
+      "address": "0xda4d69c10c03f9e07f69d091d525b70d8856e2b7",
+      "name": "Radium Token",
+      "symbol": "RAD",
+      "decimals": 18,
+      "totalSupply": "850000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa684d2579607e2724e35a20bb41fef5548a46ffd": {
+      "address": "0xa684d2579607e2724e35a20bb41fef5548a46ffd",
+      "name": "Diamond Red",
+      "symbol": "DRD",
+      "decimals": 18,
+      "totalSupply": "198298445000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf6276830c265a779a2225b9d2fcbab790cbeb92b": {
+      "address": "0xf6276830c265a779a2225b9d2fcbab790cbeb92b",
+      "name": "XCELTOKEN",
+      "symbol": "XCEL",
+      "decimals": 18,
+      "totalSupply": "50000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x18f6aacaa645221fe4452163964e1a7acecb8f07": {
+      "address": "0x18f6aacaa645221fe4452163964e1a7acecb8f07",
+      "name": "LanderBeta Token",
+      "symbol": "LBTK",
+      "decimals": 0,
+      "totalSupply": "50000000",
+      "verified": "0x01"
+    },
+    "0x6801ef9255f74b4f8d9e26b847b350372d68a8af": {
+      "address": "0x6801ef9255f74b4f8d9e26b847b350372d68a8af",
+      "name": "Etoken",
+      "symbol": "ET",
+      "decimals": 18,
+      "totalSupply": "110000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xce9ecc71e134a4d2d36a8258082eeab6d1318da7": {
+      "address": "0xce9ecc71e134a4d2d36a8258082eeab6d1318da7",
+      "name": "Alpon",
+      "symbol": "ALPN",
+      "decimals": 8,
+      "totalSupply": "5000000000000000000",
+      "verified": "0x01"
+    },
+    "0x17fb2c662a577345a89abd725993c7daa0e3c28d": {
+      "address": "0x17fb2c662a577345a89abd725993c7daa0e3c28d",
+      "name": "Vyper Network",
+      "symbol": "VPR",
+      "decimals": 18,
+      "totalSupply": "2000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x69c4bb240cf05d51eeab6985bab35527d04a8c64": {
+      "address": "0x69c4bb240cf05d51eeab6985bab35527d04a8c64",
+      "name": "OPEN",
+      "symbol": "OPEN",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0xf2cee90309418353a57717eca26c4f8754f0d84e": {
+      "address": "0xf2cee90309418353a57717eca26c4f8754f0d84e",
+      "name": "BitcoinBrand",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "totalSupply": "30000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3ddc2fa0895414c61a65e501e234cb996f8cc900": {
+      "address": "0x3ddc2fa0895414c61a65e501e234cb996f8cc900",
+      "name": "AlphaCoin",
+      "symbol": "ALPHA",
+      "decimals": 18,
+      "totalSupply": "5000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc4e909299bd1e2c60e4386e5ee1c718a3db50ab9": {
+      "address": "0xc4e909299bd1e2c60e4386e5ee1c718a3db50ab9",
+      "name": "Crypt Exchange Token",
+      "symbol": "CRYPT",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc354dde9ac078ed9572df94063c300d1d92468fd": {
+      "address": "0xc354dde9ac078ed9572df94063c300d1d92468fd",
+      "name": "Dank Signals",
+      "symbol": "DANK",
+      "decimals": 18,
+      "totalSupply": "25000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x06bead2ead661b51307b646f7419d5284330c135": {
+      "address": "0x06bead2ead661b51307b646f7419d5284330c135",
+      "name": "EliteShipperToken",
+      "symbol": "ESHIP",
+      "decimals": 8,
+      "totalSupply": "700000000000000000",
+      "verified": "0x01"
+    },
+    "0xcc77bfc17ec7ce8a91b16e6e79695f9bb4fbf708": {
+      "address": "0xcc77bfc17ec7ce8a91b16e6e79695f9bb4fbf708",
+      "name": "SP Coin",
+      "symbol": "SPS",
+      "decimals": 18,
+      "totalSupply": "2486106851346972550188318100",
+      "verified": "0x01"
+    },
+    "0x32fd856c83867f33b7f3640f430a7d90b346a6b2": {
+      "address": "0x32fd856c83867f33b7f3640f430a7d90b346a6b2",
+      "name": "Blaze X",
+      "symbol": "BLX",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x7ad0d35aaa52af9718953c6e2e7ae74851ca1252": {
+      "address": "0x7ad0d35aaa52af9718953c6e2e7ae74851ca1252",
+      "name": "₿itcoin Flex",
+      "symbol": "₿fl",
+      "decimals": 0,
+      "totalSupply": "500000000",
+      "verified": "0x01"
+    },
+    "0x4b742b5bdb1d252907ae7f399a891d4a178dbc24": {
+      "address": "0x4b742b5bdb1d252907ae7f399a891d4a178dbc24",
+      "name": "B One Payment",
+      "symbol": "B1P",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x296ec7b2b224ea122f8f8f9be2a824df092fc82c": {
+      "address": "0x296ec7b2b224ea122f8f8f9be2a824df092fc82c",
+      "name": "Scaltinof",
+      "symbol": "SCAL",
+      "decimals": 8,
+      "totalSupply": "3000000000000000000",
+      "verified": "0x01"
+    },
+    "0x31b075165298e6fe352fa7e2ed550d2d28701496": {
+      "address": "0x31b075165298e6fe352fa7e2ed550d2d28701496",
+      "name": "WhiteBitcoin",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe5db5228245ac45f6ed463cbca7e5d48898d5ec3": {
+      "address": "0xe5db5228245ac45f6ed463cbca7e5d48898d5ec3",
+      "name": "Compaq",
+      "symbol": "CPQ",
+      "decimals": 18,
+      "totalSupply": "5675266888213622000000000000",
+      "verified": "0x01"
+    },
+    "0xe7fdd78549929e7fd93e0fa63c40520dff20234b": {
+      "address": "0xe7fdd78549929e7fd93e0fa63c40520dff20234b",
+      "name": "PhoenixToken",
+      "symbol": "PXT",
+      "decimals": 18,
+      "totalSupply": "6057157095620000000000000000",
+      "verified": "0x01"
+    },
+    "0x356a50ece1ed2782fe7031d81fd168f08e242a4e": {
+      "address": "0x356a50ece1ed2782fe7031d81fd168f08e242a4e",
+      "name": "Anaco",
+      "symbol": "ANAC",
+      "decimals": 8,
+      "totalSupply": "1500000000000000000",
+      "verified": "0x01"
+    },
+    "0x44a2a00d49ec37a5272a0d1f964a1c9b3b4340cd": {
+      "address": "0x44a2a00d49ec37a5272a0d1f964a1c9b3b4340cd",
+      "name": "ViViX Token",
+      "symbol": "VIV",
+      "decimals": 0,
+      "totalSupply": "500000000",
+      "verified": "0x01"
+    },
+    "0xa11e45783eb07a5e90e201f9aa473f123ccc8e51": {
+      "address": "0xa11e45783eb07a5e90e201f9aa473f123ccc8e51",
+      "name": "Rethen Token",
+      "symbol": "RTH2",
+      "decimals": 8,
+      "totalSupply": "450000000000000000",
+      "verified": "0x01"
+    },
+    "0x634f52d38b830c490f0d6384d6d37b45acf7dac3": {
+      "address": "0x634f52d38b830c490f0d6384d6d37b45acf7dac3",
+      "name": "Kratus Gamer Token",
+      "symbol": "KRT",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x949bed886c739f1a3273629b3320db0c5024c719": {
+      "address": "0x949bed886c739f1a3273629b3320db0c5024c719",
+      "name": "AMIS",
+      "symbol": "AMIS",
+      "decimals": 9,
+      "totalSupply": "20000000000000000",
+      "verified": "0x01"
+    },
+    "0x2151288dfdbd547e071d8c6dc7fe3301235ae87c": {
+      "address": "0x2151288dfdbd547e071d8c6dc7fe3301235ae87c",
+      "name": "Bitcoin1",
+      "symbol": "BTC1",
+      "decimals": 8,
+      "totalSupply": "2100000000000000",
+      "verified": "0x01"
+    },
+    "0x4d90052e851db379ffa12bdcc2975dab33afca84": {
+      "address": "0x4d90052e851db379ffa12bdcc2975dab33afca84",
+      "name": "Vegas",
+      "symbol": "VEG",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x64324443f4264764e03ecc4c6b1ff85c86434562": {
+      "address": "0x64324443f4264764e03ecc4c6b1ff85c86434562",
+      "name": " Candycrush gamer token 🍬",
+      "symbol": "CCG",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf46f98a8f6032914921ae9cfb5aaab5083bd9376": {
+      "address": "0xf46f98a8f6032914921ae9cfb5aaab5083bd9376",
+      "name": "OpenSourceChain Token",
+      "symbol": "OSCH",
+      "decimals": 18,
+      "totalSupply": "80000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1d8e5dcf365864fcda8ab39d1f60d66ee2b82770": {
+      "address": "0x1d8e5dcf365864fcda8ab39d1f60d66ee2b82770",
+      "name": "Neyros Network",
+      "symbol": "NEYROS",
+      "decimals": 18,
+      "totalSupply": "19999999999000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3d3755e03d27d751a553dad8359029088adc8d74": {
+      "address": "0x3d3755e03d27d751a553dad8359029088adc8d74",
+      "name": "Heat Token",
+      "symbol": "HTT",
+      "decimals": 0,
+      "totalSupply": "5000000000",
+      "verified": "0x01"
+    },
+    "0x71d01db8d6a2fbea7f8d434599c237980c234e4c": {
+      "address": "0x71d01db8d6a2fbea7f8d434599c237980c234e4c",
+      "name": "Gladius Token",
+      "symbol": "GLA",
+      "decimals": 8,
+      "standard": "Token 0.3",
+      "totalSupply": "1868199937324748",
+      "verified": "0x01"
+    },
+    "0x581c9ba7a3de3944e051c585c273974ee4570502": {
+      "address": "0x581c9ba7a3de3944e051c585c273974ee4570502",
+      "name": "OxyToken",
+      "symbol": "OXY",
+      "decimals": 8,
+      "totalSupply": "2000000000000000000",
+      "verified": "0x01"
+    },
+    "0x91bf0ed7e6963095aeb4a118c658596c7229c390": {
+      "address": "0x91bf0ed7e6963095aeb4a118c658596c7229c390",
+      "name": "Bitcoin Star",
+      "symbol": "BTCSTAR",
+      "decimals": 18,
+      "totalSupply": "21000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x89cdf564a9685aa33050a2f69ff7217c772f8447": {
+      "address": "0x89cdf564a9685aa33050a2f69ff7217c772f8447",
+      "name": "HINO",
+      "symbol": "HNC",
+      "decimals": 8,
+      "totalSupply": "1680000000000000000",
+      "verified": "0x01"
+    },
+    "0xf069d9f8e394f23878e6beccbdef41c4a957b662": {
+      "address": "0xf069d9f8e394f23878e6beccbdef41c4a957b662",
+      "name": "Primebank Coin",
+      "symbol": "PMC",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0x9f103cd6fb907928351353e6f339c3fdcd5ee05c": {
+      "address": "0x9f103cd6fb907928351353e6f339c3fdcd5ee05c",
+      "name": "Trilliam",
+      "symbol": "TRIM",
+      "decimals": 18,
+      "totalSupply": "500000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5583025955760a44dbed57f8a2e8e4eb56aebffe": {
+      "address": "0x5583025955760a44dbed57f8a2e8e4eb56aebffe",
+      "name": "FOTOREX",
+      "symbol": "FTRX",
+      "decimals": 0,
+      "totalSupply": "10000000000",
+      "verified": "0x01"
+    },
+    "0xcc6778a449ec903307280691fdd717f2c62905e5": {
+      "address": "0xcc6778a449ec903307280691fdd717f2c62905e5",
+      "name": "Application Network",
+      "symbol": "APPN",
+      "decimals": 18,
+      "totalSupply": "987333922000000000000000000",
+      "verified": "0x01"
+    },
+    "0x2f1edac53a49b85b781a41ac65107c37abfd38df": {
+      "address": "0x2f1edac53a49b85b781a41ac65107c37abfd38df",
+      "name": "nanoPay",
+      "symbol": "NPAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xb483524d66c8330594f0b3cd744964bba8af3231": {
+      "address": "0xb483524d66c8330594f0b3cd744964bba8af3231",
+      "name": "Bizon",
+      "symbol": "BZN",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xcaaa2f06a76ee26d0bec98f9900efa3831ea2659": {
+      "address": "0xcaaa2f06a76ee26d0bec98f9900efa3831ea2659",
+      "name": "IDEX Membership Cash",
+      "symbol": "IDXMC",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x23151056a055567f6866c8a7dc6cfaa67850f71d": {
+      "address": "0x23151056a055567f6866c8a7dc6cfaa67850f71d",
+      "name": "Entel Token",
+      "symbol": "ENT",
+      "decimals": 0,
+      "totalSupply": "500000000000",
+      "verified": "0x01"
+    },
+    "0x1ebd8d3ca115451b9b6bbaa7ee2f7b0f96e49fd8": {
+      "address": "0x1ebd8d3ca115451b9b6bbaa7ee2f7b0f96e49fd8",
+      "name": "NGOT",
+      "symbol": "NGOT",
+      "decimals": 5,
+      "totalSupply": "150000000000000",
+      "verified": "0x01"
+    },
+    "0x591fc7f97ebba956ad9c11dbc15e405744c78b33": {
+      "address": "0x591fc7f97ebba956ad9c11dbc15e405744c78b33",
+      "name": "DexTex",
+      "symbol": "DTX",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1abe8a74595ce7f31412b487d8b3ce362013778a": {
+      "address": "0x1abe8a74595ce7f31412b487d8b3ce362013778a",
+      "name": "NINTENDO GAMERS TOKEN",
+      "symbol": "NIN",
+      "decimals": 0,
+      "totalSupply": "10000000000",
+      "verified": "0x01"
+    },
+    "0x8d2da938d6f717eb5d84f68bb0eca7584c8faf2a": {
+      "address": "0x8d2da938d6f717eb5d84f68bb0eca7584c8faf2a",
+      "name": "STCDR",
+      "symbol": "STCDR",
+      "decimals": 8,
+      "totalSupply": "99788878713730972",
+      "verified": "0x01"
+    },
+    "0xa7e2e408af8f049ba735caef0989b25077064ae2": {
+      "address": "0xa7e2e408af8f049ba735caef0989b25077064ae2",
+      "name": "GlobalWarmingCoin",
+      "symbol": "GWC",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x7ff7d2336ea62f883ad724544496fe2493a8d38b": {
+      "address": "0x7ff7d2336ea62f883ad724544496fe2493a8d38b",
+      "name": "BotCoin",
+      "symbol": "BOT",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4ccc3759eb48faf1c6cfadad2619e7038db6b212": {
+      "address": "0x4ccc3759eb48faf1c6cfadad2619e7038db6b212",
+      "name": "SuperEdge",
+      "symbol": "ECT",
+      "decimals": 8,
+      "totalSupply": "200000000000000000",
+      "verified": "0x01"
+    },
+    "0x8ae00bb950b7c89d815a61aa8283de04aa630e5a": {
+      "address": "0x8ae00bb950b7c89d815a61aa8283de04aa630e5a",
+      "name": "Swift Coin",
+      "symbol": "SWT",
+      "decimals": 0,
+      "totalSupply": "100000000",
+      "verified": "0x01"
+    },
+    "0xed015d439572bc595a4ce09c5e2c3267e95fabc4": {
+      "address": "0xed015d439572bc595a4ce09c5e2c3267e95fabc4",
+      "name": "Machoin Tokens",
+      "symbol": "MOT",
+      "decimals": 0,
+      "totalSupply": "5000000000",
+      "verified": "0x01"
+    },
+    "0xa818359a70da24cd2736292ec95cee6d86c0d24c": {
+      "address": "0xa818359a70da24cd2736292ec95cee6d86c0d24c",
+      "name": "Colorex",
+      "symbol": "COLX",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xdf241e55c7f641ae887b6c3c7f96470531e5b27f": {
+      "address": "0xdf241e55c7f641ae887b6c3c7f96470531e5b27f",
+      "name": "BitcoinWave",
+      "symbol": "BWT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x68f825fa79c73f7eada0ca4ad8699a8fb45b7f18": {
+      "address": "0x68f825fa79c73f7eada0ca4ad8699a8fb45b7f18",
+      "name": "Ether coin",
+      "symbol": "ETC",
+      "decimals": 0,
+      "totalSupply": "2000000000",
+      "verified": "0x01"
+    },
+    "0xa4940f812907115c1d63c5ec998dd195732cb285": {
+      "address": "0xa4940f812907115c1d63c5ec998dd195732cb285",
+      "name": "GameX",
+      "symbol": "GX",
+      "decimals": 0,
+      "totalSupply": "10000000000",
+      "verified": "0x01"
+    },
+    "0x45b48539eea683f943d9336d1f40e793841dd40e": {
+      "address": "0x45b48539eea683f943d9336d1f40e793841dd40e",
+      "name": "Ether Remix",
+      "symbol": "ETHR",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd6fa463d3cbcc358bad9edda1efdd57673698777": {
+      "address": "0xd6fa463d3cbcc358bad9edda1efdd57673698777",
+      "name": "Anon",
+      "symbol": "ANON",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xeb547ed1d8a3ff1461abaa7f0022fed4836e00a4": {
+      "address": "0xeb547ed1d8a3ff1461abaa7f0022fed4836e00a4",
+      "name": "Coinvest COIN V3 Token",
+      "symbol": "COIN",
+      "decimals": 18,
+      "totalSupply": "107142857000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5e8f855966d638135a968861e80dda722291b06d": {
+      "address": "0x5e8f855966d638135a968861e80dda722291b06d",
+      "name": "Coinvest COIN V2 Token",
+      "symbol": "COIN",
+      "decimals": 18,
+      "totalSupply": "107142857000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe177ccb051621687bee98bfc4bdea6d479bac83e": {
+      "address": "0xe177ccb051621687bee98bfc4bdea6d479bac83e",
+      "name": "IcToken",
+      "symbol": "ICT",
+      "decimals": 18,
+      "totalSupply": "500000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc5d105e63711398af9bbff092d4b6769c82f793d": {
+      "address": "0xc5d105e63711398af9bbff092d4b6769c82f793d",
+      "name": "BeautyChain",
+      "symbol": "BEC",
+      "decimals": 18,
+      "totalSupply": "7000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9e2b209afc38b74b3278b4e3e2e61dcefc752bb2": {
+      "address": "0x9e2b209afc38b74b3278b4e3e2e61dcefc752bb2",
+      "name": "ICTA",
+      "symbol": "ICTA",
+      "decimals": 9,
+      "totalSupply": "500000000000000000",
+      "verified": "0x01"
+    },
+    "0xedc502b12ced7e16ce21749e7161f9ed22bfca53": {
+      "address": "0xedc502b12ced7e16ce21749e7161f9ed22bfca53",
+      "name": "Intelligent Commerce Chain",
+      "symbol": "ICC",
+      "decimals": 4,
+      "totalSupply": "100000000000000",
+      "verified": "0x01"
+    },
+    "0x254f91949d4f57b22392ba0278069cf5a9105f05": {
+      "address": "0x254f91949d4f57b22392ba0278069cf5a9105f05",
+      "name": "CharterCoin",
+      "symbol": "CAF",
+      "decimals": 6,
+      "totalSupply": "1000000000000000",
+      "verified": "0x01"
+    },
+    "0x2567c677473d110d75a8360c35309e63b1d52429": {
+      "address": "0x2567c677473d110d75a8360c35309e63b1d52429",
+      "name": "ShareX",
+      "symbol": "SEXC",
+      "decimals": 8,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0xaa0bb10cec1fa372eb3abc17c933fc6ba863dd9e": {
+      "address": "0xaa0bb10cec1fa372eb3abc17c933fc6ba863dd9e",
+      "name": "Hms Token",
+      "symbol": "HMC",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe6bc60a00b81c7f3cbc8f4ef3b0a6805b6851753": {
+      "address": "0xe6bc60a00b81c7f3cbc8f4ef3b0a6805b6851753",
+      "name": "Individual Content & Skill Token",
+      "symbol": "ICST",
+      "decimals": 18,
+      "totalSupply": "3000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9d9223436ddd466fc247e9dbbd20207e640fef58": {
+      "address": "0x9d9223436ddd466fc247e9dbbd20207e640fef58",
+      "name": "Olive",
+      "symbol": "OLE",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x355a458d555151d3b27f94227960ade1504e526a": {
+      "address": "0x355a458d555151d3b27f94227960ade1504e526a",
+      "name": "StockChain Coin",
+      "symbol": "SCC",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa5a6d719db51513eccce9e150a4e9979e0062c5b": {
+      "address": "0xa5a6d719db51513eccce9e150a4e9979e0062c5b",
+      "name": "OZTGToken",
+      "symbol": "OZTG",
+      "decimals": 18,
+      "totalSupply": "730000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd4e26b4e8e9881e8905315aba189b694f2307757": {
+      "address": "0xd4e26b4e8e9881e8905315aba189b694f2307757",
+      "name": "Kotlind",
+      "symbol": "KTD",
+      "decimals": 9,
+      "totalSupply": "100000000000000000",
+      "verified": "0x01"
+    },
+    "0x1254e59712e6e727dc71e0e3121ae952b2c4c3b6": {
+      "address": "0x1254e59712e6e727dc71e0e3121ae952b2c4c3b6",
+      "name": "Marginless Token",
+      "symbol": "MRS",
+      "decimals": 18,
+      "totalSupply": "130013495270446787483690100",
+      "verified": "0x01"
+    },
+    "0xa380b357950b6a5536d761cca0154bcde2c38747": {
+      "address": "0xa380b357950b6a5536d761cca0154bcde2c38747",
+      "name": "MFX Coin Token",
+      "symbol": "MFX",
+      "decimals": 18,
+      "totalSupply": "87314693229943993816283000",
+      "verified": "0x01"
+    },
+    "0x359047882827dbc8a57a3ddc72f2ff2544345d31": {
+      "address": "0x359047882827dbc8a57a3ddc72f2ff2544345d31",
+      "name": "ProducToken",
+      "symbol": "PROD",
+      "decimals": 7,
+      "totalSupply": "1000000000000000",
+      "verified": "0x01"
+    },
+    "0x3495ffcee09012ab7d827abf3e3b3ae428a38443": {
+      "address": "0x3495ffcee09012ab7d827abf3e3b3ae428a38443",
+      "name": "BeautyChain",
+      "symbol": "BEC",
+      "decimals": 18,
+      "totalSupply": "7000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6158e3f89b4398f5fb20d20dbfc5a5c955f0f6dd": {
+      "address": "0x6158e3f89b4398f5fb20d20dbfc5a5c955f0f6dd",
+      "name": "TimeBox Coin",
+      "symbol": "TB",
+      "decimals": 18,
+      "totalSupply": "200000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xb2e260f12406c401874ecc960893c0f74cd6afcd": {
+      "address": "0xb2e260f12406c401874ecc960893c0f74cd6afcd",
+      "name": "BitUP Token",
+      "symbol": "BUT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xeeac3f8da16bb0485a4a11c5128b0518dac81448": {
+      "address": "0xeeac3f8da16bb0485a4a11c5128b0518dac81448",
+      "name": "20-footEqvUnit",
+      "symbol": "TEU",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xfe5f141bf94fe84bc28ded0ab966c16b17490657": {
+      "address": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657",
+      "name": "LibraToken",
+      "symbol": "LBA",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa68920f6d3c996ac3c232e4e93914e9d76150735": {
+      "address": "0xa68920f6d3c996ac3c232e4e93914e9d76150735",
+      "name": "民宿通",
+      "symbol": "MST",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9165b1ed40c097073a7d15ad3ef49e3c5b132588": {
+      "address": "0x9165b1ed40c097073a7d15ad3ef49e3c5b132588",
+      "name": "Marginless Token",
+      "symbol": "MRS",
+      "decimals": 18,
+      "totalSupply": "130013394170445982129066012",
+      "verified": "0x01"
+    },
+    "0xaa4ab1c817e4df7d25ce4d42352649d592a3bba0": {
+      "address": "0xaa4ab1c817e4df7d25ce4d42352649d592a3bba0",
+      "name": "AnkorusToken",
+      "symbol": "ANK",
+      "decimals": 18,
+      "totalSupply": "50501621103090468649434200",
+      "verified": "0x01"
+    },
+    "0x3b4e1320c4a8275f9a660e263ea3df3bd6a1139b": {
+      "address": "0x3b4e1320c4a8275f9a660e263ea3df3bd6a1139b",
+      "name": "EbitCoin",
+      "symbol": "ebit",
+      "decimals": 8,
+      "totalSupply": "21000000000000000",
+      "verified": "0x01"
+    },
+    "0x360d2a5a9fc457f084b1379056a1a36d4bf57546": {
+      "address": "0x360d2a5a9fc457f084b1379056a1a36d4bf57546",
+      "name": "LHBountyCoin",
+      "symbol": "LHBC",
+      "decimals": 8,
+      "totalSupply": "77921636038388",
+      "verified": "0x01"
+    },
+    "0xb8327f32127afe37a544c52b628653e222a93bad": {
+      "address": "0xb8327f32127afe37a544c52b628653e222a93bad",
+      "name": "Wizzle Infinity Token",
+      "symbol": "WZI",
+      "decimals": 18,
+      "totalSupply": "749044477550853711743900805",
+      "verified": "0x01"
+    },
+    "0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b": {
+      "address": "0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b",
+      "name": "aXpire Token",
+      "symbol": "AXP",
+      "decimals": 8,
+      "totalSupply": "35000000000000000",
+      "verified": "0x01"
+    },
+    "0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9": {
+      "address": "0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9",
+      "name": "LALA",
+      "symbol": "LALA",
+      "decimals": 18,
+      "totalSupply": "250000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xff18dbc487b4c2e3222d115952babfda8ba52f5f": {
+      "address": "0xff18dbc487b4c2e3222d115952babfda8ba52f5f",
+      "name": "PureLifeCoin",
+      "symbol": "LIFE",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0": {
+      "address": "0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0",
+      "name": "CanYaCoin",
+      "symbol": "CAN",
+      "decimals": 6,
+      "totalSupply": "100000000000000",
+      "verified": "0x01"
+    },
+    "0x28481cdc0e4fa79164491d47e8837edeb3993f20": {
+      "address": "0x28481cdc0e4fa79164491d47e8837edeb3993f20",
+      "name": "TssToken",
+      "symbol": "TSS",
+      "decimals": 18,
+      "totalSupply": "500000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd0929d411954c47438dc1d871dd6081f5c5e149c": {
+      "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+      "name": "Refereum",
+      "symbol": "RFR",
+      "decimals": 4,
+      "totalSupply": "50000000000000",
+      "verified": "0x01"
+    },
+    "0x172c1f6e3f9b94d1b4e4cb761f5e28fc943209e6": {
+      "address": "0x172c1f6e3f9b94d1b4e4cb761f5e28fc943209e6",
+      "name": "VINND",
+      "symbol": "VIN",
+      "decimals": 18,
+      "totalSupply": "0",
+      "verified": "0x01"
+    },
+    "0x141356817b8fef2ebddd6a7aed876ee975ff6a08": {
+      "address": "0x141356817b8fef2ebddd6a7aed876ee975ff6a08",
+      "name": "Level Up Coin Diamond | play2live.io",
+      "symbol": "LUCD | play2live.io",
+      "decimals": 18,
+      "totalSupply": "6924624000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5c743a35e903f6c584514ec617acee0611cf44f3": {
+      "address": "0x5c743a35e903f6c584514ec617acee0611cf44f3",
+      "name": "Experty Token",
+      "decimals": 18,
+      "totalSupply": "79404563976510606000000000",
+      "verified": "0x01"
+    },
+    "0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea": {
+      "address": "0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea",
+      "name": "ZINC",
+      "symbol": "ZINC",
+      "decimals": 18,
+      "totalSupply": "24000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9f0577396ede6414394fc97ae222418e8a96ed24": {
+      "address": "0x9f0577396ede6414394fc97ae222418e8a96ed24",
+      "name": "LevelNet Token",
+      "symbol": "LVL",
+      "decimals": 6,
+      "totalSupply": "1500000000000000",
+      "verified": "0x01"
+    },
+    "0x02585e4a14da274d02df09b222d4606b10a4e940": {
+      "address": "0x02585e4a14da274d02df09b222d4606b10a4e940",
+      "name": "Hero Origen Token",
+      "symbol": "HERO",
+      "decimals": 18,
+      "totalSupply": "14765425248715657210000000",
+      "verified": "0x01"
+    },
+    "0xe8fc7e1973496848fcb486c5bb880f68487ea0bb": {
+      "address": "0xe8fc7e1973496848fcb486c5bb880f68487ea0bb",
+      "name": "LiteCoinW Plus",
+      "symbol": "LCWP",
+      "decimals": 8,
+      "totalSupply": "8400000000000000",
+      "verified": "0x01"
+    },
+    "0xfb1e5f5e984c28ad7e228cdaa1f8a0919bb6a09b": {
+      "address": "0xfb1e5f5e984c28ad7e228cdaa1f8a0919bb6a09b",
+      "name": "Galaxy eSolutions",
+      "symbol": "GES",
+      "decimals": 18,
+      "totalSupply": "299999999999505027471548000",
+      "verified": "0x01"
+    },
+    "0x0920af13cee692da3656e052a831e3e1fcc8097c": {
+      "address": "0x0920af13cee692da3656e052a831e3e1fcc8097c",
+      "name": "Luxcess Group Token",
+      "symbol": "LXC",
+      "decimals": 18,
+      "totalSupply": "11124614305720927756530658",
+      "verified": "0x01"
+    },
+    "0x574f84108a98c575794f75483d801d1d5dc861a5": {
+      "address": "0x574f84108a98c575794f75483d801d1d5dc861a5",
+      "name": "Robotina token",
+      "symbol": "ROX",
+      "decimals": 18,
+      "totalSupply": "331614076921422388945691662",
+      "verified": "0x01"
+    },
+    "0xfb725bab323927cfb20fb82ba9a1975f7d24705b": {
+      "address": "0xfb725bab323927cfb20fb82ba9a1975f7d24705b",
+      "name": "JoyToken",
+      "symbol": "JOY",
+      "decimals": 18,
+      "totalSupply": "699998573782929910445303480",
+      "verified": "0x01"
+    },
+    "0x12ac8d8f0f48b7954bcda736af0576a12dc8c387": {
+      "address": "0x12ac8d8f0f48b7954bcda736af0576a12dc8c387",
+      "name": "OnPlace",
+      "symbol": "OPL",
+      "decimals": 18,
+      "totalSupply": "210000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xef8cf79c21637fc6f951bcac348915508a639a41": {
+      "address": "0xef8cf79c21637fc6f951bcac348915508a639a41",
+      "name": "SRCOIN",
+      "symbol": "SRCOIN",
+      "decimals": 18,
+      "totalSupply": "15000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x846c66cf71c43f80403b51fe3906b3599d63336f": {
+      "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+      "name": "PumaPay",
+      "symbol": "PMA",
+      "decimals": 18,
+      "totalSupply": "78042956829000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3e9ba4be6affa324f188b10962317239e32ce7ad": {
+      "address": "0x3e9ba4be6affa324f188b10962317239e32ce7ad",
+      "name": "Synthestech Token",
+      "symbol": "STT",
+      "decimals": 0,
+      "totalSupply": "18000000",
+      "verified": "0x01"
+    },
+    "0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760": {
+      "address": "0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760",
+      "name": "ZperToken",
+      "symbol": "ZPR",
+      "decimals": 18,
+      "totalSupply": "2050000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x78a73b6cbc5d183ce56e786f6e905cadec63547b": {
+      "address": "0x78a73b6cbc5d183ce56e786f6e905cadec63547b",
+      "name": "Fabric Token",
+      "symbol": "FT",
+      "decimals": 18,
+      "totalSupply": "43593614892792381839800000",
+      "verified": "0x01"
+    },
+    "0x5fb6a842ea587fa8d0486589742ce68ef24834a4": {
+      "address": "0x5fb6a842ea587fa8d0486589742ce68ef24834a4",
+      "name": "Revizor Coin",
+      "symbol": "RR",
+      "decimals": 18,
+      "totalSupply": "800000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa253be28580ae23548a4182d95bf8201c28369a8": {
+      "address": "0xa253be28580ae23548a4182d95bf8201c28369a8",
+      "name": "DIW Token",
+      "symbol": "DIW",
+      "decimals": 18,
+      "totalSupply": "126911602946940436183983000",
+      "verified": "0x01"
+    },
+    "0xf660ca1e228e7be1fa8b4f5583145e31147fb577": {
+      "address": "0xf660ca1e228e7be1fa8b4f5583145e31147fb577",
+      "name": "Dicet",
+      "symbol": "CET",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x96b0bf939d9460095c15251f71fda11e41dcbddb": {
+      "address": "0x96b0bf939d9460095c15251f71fda11e41dcbddb",
+      "name": "Sharpay",
+      "symbol": "S",
+      "decimals": 18,
+      "totalSupply": "4000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x87f56ee356b434187105b40f96b230f5283c0ab4": {
+      "address": "0x87f56ee356b434187105b40f96b230f5283c0ab4",
+      "name": "PITCH",
+      "symbol": "PITCH",
+      "decimals": 9,
+      "totalSupply": "1618000000000000000",
+      "verified": "0x01"
+    },
+    "0xbfd78aebccf26cb964a7836263143b5ee8072d84": {
+      "address": "0xbfd78aebccf26cb964a7836263143b5ee8072d84",
+      "name": "PERA",
+      "symbol": "PERA",
+      "decimals": 8,
+      "totalSupply": "92853735500000000",
+      "verified": "0x01"
+    },
+    "0x6bec54e4fea5d541fb14de96993b8e11d81159b2": {
+      "address": "0x6bec54e4fea5d541fb14de96993b8e11d81159b2",
+      "name": "FTEC",
+      "symbol": "FTEC",
+      "decimals": 18,
+      "totalSupply": "191937907000000000000000000",
+      "verified": "0x01"
+    },
+    "0xaf47ebbd460f21c2b3262726572ca8812d7143b0": {
+      "address": "0xaf47ebbd460f21c2b3262726572ca8812d7143b0",
+      "name": "Promodl",
+      "symbol": "PMOD",
+      "decimals": 0,
+      "totalSupply": "590",
+      "verified": "0x01"
+    },
+    "0xeccab39acb2caf9adba72c1cb92fdc106b993e0b": {
+      "address": "0xeccab39acb2caf9adba72c1cb92fdc106b993e0b",
+      "name": "Azbit",
+      "symbol": "AZ",
+      "decimals": 18,
+      "totalSupply": "401408000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x282eaf0c93b535731c1a2ef26a568e6131980c4a": {
+      "address": "0x282eaf0c93b535731c1a2ef26a568e6131980c4a",
+      "name": "FLUX COIN",
+      "symbol": "FLUX",
+      "decimals": 18,
+      "totalSupply": "93700000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x0ad2eb1881580d9d9ae0ff983b91d61a5ea12f9c": {
+      "address": "0x0ad2eb1881580d9d9ae0ff983b91d61a5ea12f9c",
+      "name": "EPIC-F",
+      "symbol": "EPIC",
+      "decimals": 18,
+      "totalSupply": "15719738901000000000000000000",
+      "verified": "0x01"
+    },
+    "0xfb0bdc444c8ae7e9b5beea5e4d1e8de93879e487": {
+      "address": "0xfb0bdc444c8ae7e9b5beea5e4d1e8de93879e487",
+      "name": "SPRING Token",
+      "symbol": "SPRING",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf28463c616bd7b14287b0a4a950d35324f2d7280": {
+      "address": "0xf28463c616bd7b14287b0a4a950d35324f2d7280",
+      "name": "IronX",
+      "symbol": "IRX",
+      "decimals": 18,
+      "totalSupply": "500000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x5d858bcd53e085920620549214a8b27ce2f04670": {
+      "address": "0x5d858bcd53e085920620549214a8b27ce2f04670",
+      "name": "POP Network Token",
+      "symbol": "POP",
+      "decimals": 18,
+      "totalSupply": "1600000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xb056c38f6b7dc4064367403e26424cd2c60655e1": {
+      "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1",
+      "name": "CEEK",
+      "symbol": "CEEK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf4dc2cdadd6406e2fa5a82e7cb16feaf355869ca": {
+      "address": "0xf4dc2cdadd6406e2fa5a82e7cb16feaf355869ca",
+      "name": "Rexus Exchange",
+      "symbol": "RXS",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xbf38ba2a90b825fba02f60459a097fb202134687": {
+      "address": "0xbf38ba2a90b825fba02f60459a097fb202134687",
+      "name": "VX Network",
+      "symbol": "VX",
+      "decimals": 18,
+      "totalSupply": "500000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9588fc24a9796fbd870951a2cd54c6f1f24b2e7c": {
+      "address": "0x9588fc24a9796fbd870951a2cd54c6f1f24b2e7c",
+      "name": "Kronn",
+      "symbol": "KREX",
+      "decimals": 8,
+      "totalSupply": "98800000000000000",
+      "verified": "0x01"
+    },
+    "0x6265bcd2ca8e8ee077cb9a9c66a851f18216022e": {
+      "address": "0x6265bcd2ca8e8ee077cb9a9c66a851f18216022e",
+      "name": "EtherCare",
+      "symbol": "ETCR",
+      "decimals": 6,
+      "totalSupply": "666666666000000",
+      "verified": "0x01"
+    },
+    "0xc0fc25ba6e693e23fea1d2b7e65e75a0cabe586d": {
+      "address": "0xc0fc25ba6e693e23fea1d2b7e65e75a0cabe586d",
+      "name": "Innercore",
+      "symbol": "CORES",
+      "decimals": 18,
+      "totalSupply": "22212422000000000000000000",
+      "verified": "0x01"
+    },
+    "0x53d4e5bf62a91ec53ea15991e2389310eeb855b2": {
+      "address": "0x53d4e5bf62a91ec53ea15991e2389310eeb855b2",
+      "name": "GOEX Token",
+      "symbol": "GOEX",
+      "decimals": 18,
+      "totalSupply": "500000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1b5855d39e0a79a9f282478bd7191212a49b53a2": {
+      "address": "0x1b5855d39e0a79a9f282478bd7191212a49b53a2",
+      "name": "GENES",
+      "symbol": "GENES",
+      "decimals": 8,
+      "totalSupply": "800000000000000000",
+      "verified": "0x01"
+    },
+    "0x8a732bc91c33c167f868e0af7e6f31e0776d0f71": {
+      "address": "0x8a732bc91c33c167f868e0af7e6f31e0776d0f71",
+      "name": "Litecoin Token",
+      "symbol": "LTK",
+      "decimals": 18,
+      "totalSupply": "840000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf6f9a167f9429254ca2eac411677d00deb30edbe": {
+      "address": "0xf6f9a167f9429254ca2eac411677d00deb30edbe",
+      "name": "Wadax",
+      "symbol": "WDX",
+      "decimals": 18,
+      "totalSupply": "3000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3aa2d3ab4e0e9f8fb50d5288cc16bbd9b6b2513a": {
+      "address": "0x3aa2d3ab4e0e9f8fb50d5288cc16bbd9b6b2513a",
+      "name": "XBANC",
+      "symbol": "XBANC",
+      "decimals": 18,
+      "totalSupply": "300000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x20ae0ca9d42e6ffeb1188f341a7d63450452def6": {
+      "address": "0x20ae0ca9d42e6ffeb1188f341a7d63450452def6",
+      "name": "Cipher",
+      "symbol": "CPR",
+      "decimals": 18,
+      "totalSupply": "1080000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6096d2460cf5177e40b515223428dc005ad35123": {
+      "address": "0x6096d2460cf5177e40b515223428dc005ad35123",
+      "name": "Precium Token",
+      "symbol": "PCM",
+      "decimals": 18,
+      "totalSupply": "750000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa37adde3ba20a396338364e2ddb5e0897d11a91d": {
+      "address": "0xa37adde3ba20a396338364e2ddb5e0897d11a91d",
+      "name": "WFee",
+      "symbol": "WFEE",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x973e52691176d36453868d9d86572788d27041a9": {
+      "address": "0x973e52691176d36453868d9d86572788d27041a9",
+      "name": "DxChain Token",
+      "symbol": "DX",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x78fe9e298840a74cefd242bad511ca343c5b4d7b": {
+      "address": "0x78fe9e298840a74cefd242bad511ca343c5b4d7b",
+      "name": "Yang Bucks",
+      "symbol": "YANG",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x70f414b2bcc447f8e41a57c357c20e3ad1bb864d": {
+      "address": "0x70f414b2bcc447f8e41a57c357c20e3ad1bb864d",
+      "name": "Tokeneo",
+      "symbol": "TEO",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xa1a6f16d26aa53aec17e4001fd8cb6e6d5b17ff7": {
+      "address": "0xa1a6f16d26aa53aec17e4001fd8cb6e6d5b17ff7",
+      "name": "1irst",
+      "symbol": "FST",
+      "decimals": 6,
+      "totalSupply": "100000000000000",
+      "verified": "0x01"
+    },
+    "0x5e154e249c40267b98acd735c186c9e37d84fb03": {
+      "address": "0x5e154e249c40267b98acd735c186c9e37d84fb03",
+      "name": "ZET TOKEN",
+      "symbol": "ZET",
+      "decimals": 0,
+      "totalSupply": "2000000000",
+      "verified": "0x01"
+    },
+    "0xf70d160102cf7a22c1e432d6928a9d625db91170": {
+      "address": "0xf70d160102cf7a22c1e432d6928a9d625db91170",
+      "name": "KUVERIT",
+      "symbol": "KUV",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x28673d7a6df30c99b705edca0046de738431ede1": {
+      "address": "0x28673d7a6df30c99b705edca0046de738431ede1",
+      "name": "VTrust",
+      "symbol": "VTR",
+      "decimals": 6,
+      "totalSupply": "1000000000000000",
+      "verified": "0x01"
+    },
+    "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b": {
+      "address": "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b",
+      "name": "BORA",
+      "symbol": "BORA",
+      "decimals": 18,
+      "totalSupply": "1325000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106": {
+      "address": "0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106",
+      "name": "Depository Network Token",
+      "symbol": "DEPO",
+      "decimals": 18,
+      "totalSupply": "3000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50": {
+      "address": "0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50",
+      "name": "AfroDex Labs Token",
+      "symbol": "AFDLT",
+      "decimals": 4,
+      "totalSupply": "10000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9effec6d600ea9ac54757882da1accd79e292e50": {
+      "address": "0x9effec6d600ea9ac54757882da1accd79e292e50",
+      "name": "Guarda Token",
+      "symbol": "GUT",
+      "totalSupply": "518",
+      "verified": "0x01"
+    },
+    "0x7eefdabcf01ea45d60b3fffca90df1a160c5311d": {
+      "address": "0x7eefdabcf01ea45d60b3fffca90df1a160c5311d",
+      "name": "BITSDAQ CANDY",
+      "symbol": "BXBC",
+      "decimals": 18,
+      "totalSupply": "50000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x96c30d5499ef6ea96a9c221bc18bc39d29c97f27": {
+      "address": "0x96c30d5499ef6ea96a9c221bc18bc39d29c97f27",
+      "name": "Thar token",
+      "symbol": "Thar",
+      "decimals": 18,
+      "totalSupply": "900000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf7a73331867f3a1801551e7aacf84949c0d1e96d": {
+      "address": "0xf7a73331867f3a1801551e7aacf84949c0d1e96d",
+      "name": "FIESTA",
+      "symbol": "FIST",
+      "decimals": 8,
+      "totalSupply": "200000000000000000",
+      "verified": "0x01"
+    },
+    "0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e": {
+      "address": "0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e",
+      "name": "Rublix",
+      "symbol": "RBLX",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x00000b233566fcc3825f94d68d4fc410f8cb2300": {
+      "address": "0x00000b233566fcc3825f94d68d4fc410f8cb2300",
+      "name": "Neuromachine",
+      "symbol": "NRM",
+      "decimals": 18,
+      "totalSupply": "4958333333000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe6be436df1ff96956dfe0b2b77fab84ede30236f": {
+      "address": "0xe6be436df1ff96956dfe0b2b77fab84ede30236f",
+      "name": "Revelation Coin",
+      "symbol": "REV",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x0a680e503fd9ae14b62444c75ffb4bef1f105666": {
+      "address": "0x0a680e503fd9ae14b62444c75ffb4bef1f105666",
+      "name": "Arma Coin",
+      "symbol": "GZM",
+      "decimals": 8,
+      "totalSupply": "29999999994000000",
+      "verified": "0x01"
+    },
+    "0x977ef63c89963fe7d32764a51e1882ca6f9970e1": {
+      "address": "0x977ef63c89963fe7d32764a51e1882ca6f9970e1",
+      "name": "HAI SOCIAL CHAIN",
+      "symbol": "HAI",
+      "decimals": 18,
+      "totalSupply": "28000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3b2f94c251c2cccb7ad16a68f040a220cc2bdd72": {
+      "address": "0x3b2f94c251c2cccb7ad16a68f040a220cc2bdd72",
+      "name": "ALUCHAIN",
+      "symbol": "ALU",
+      "decimals": 8,
+      "totalSupply": "899277960000000000",
+      "verified": "0x01"
+    },
+    "0xba5f11b16b155792cf3b2e6880e8706859a8aeb6": {
+      "address": "0xba5f11b16b155792cf3b2e6880e8706859a8aeb6",
+      "name": "Aeron",
+      "symbol": "ARN",
+      "decimals": 8,
+      "totalSupply": "2000000000000000",
+      "verified": "0x01"
+    },
+    "0x7f4c7b32b822d2b61826d9345078198ef9668505": {
+      "address": "0x7f4c7b32b822d2b61826d9345078198ef9668505",
+      "name": "Bitcoin Modern Vision",
+      "symbol": "BTMV",
+      "decimals": 8,
+      "totalSupply": "25600000000000000",
+      "verified": "0x01"
+    },
+    "0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a": {
+      "address": "0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a",
+      "name": "BlocksquareToken",
+      "symbol": "BST",
+      "decimals": 18,
+      "totalSupply": "5290487751140898667540000",
       "verified": "0x01"
     }
   }
