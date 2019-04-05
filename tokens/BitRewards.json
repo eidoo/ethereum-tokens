@@ -5,7 +5,8 @@
       "totalSupply": "514070955583746171534000000",
       "decimals": 18,
       "symbol": "BIT",
-      "name": "BitRewards Token"
+      "name": "BitRewards Token",
+      "cryptoCompareSymbol": "BIT"
     }
   }
 }
