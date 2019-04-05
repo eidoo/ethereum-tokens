@@ -10906,6 +10906,417 @@
       "decimals": 18,
       "totalSupply": "3000000000000000000000000000",
       "verified": "0x01"
+    },
+    "0x1efc4dfd580df95426a0f04848870bd8cb5a338e": {
+      "address": "0x1efc4dfd580df95426a0f04848870bd8cb5a338e",
+      "name": "Academy",
+      "symbol": "ACAD",
+      "decimals": 18,
+      "totalSupply": "185641368937500000000000000",
+      "verified": "0x01"
+    },
+    "0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc": {
+      "address": "0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc",
+      "name": "Goldmint MNT Prelaunch Token",
+      "symbol": "MNTP",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd037a81b22e7f814bc6f87d50e5bd67d8c329fa2": {
+      "address": "0xd037a81b22e7f814bc6f87d50e5bd67d8c329fa2",
+      "name": "EMO tokens",
+      "symbol": "EMO",
+      "decimals": 18,
+      "totalSupply": "120000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf97f07c370918a762e2bfb689301d544fbc3b7d7": {
+      "address": "0xf97f07c370918a762e2bfb689301d544fbc3b7d7",
+      "name": "RAZOOM TOKEN",
+      "symbol": "RZM",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd3ace836e47f7cf4948dffd8ca2937494c52580c": {
+      "address": "0xd3ace836e47f7cf4948dffd8ca2937494c52580c",
+      "name": "Free BOB Tokens - BobsRepair.com",
+      "symbol": "BOBx",
+      "decimals": 18,
+      "totalSupply": "358853010000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6f123503fc11f4a915e222808349c8aff4d6c3c0": {
+      "address": "0x6f123503fc11f4a915e222808349c8aff4d6c3c0",
+      "name": "Global Property Register",
+      "symbol": "XRX",
+      "decimals": 18,
+      "totalSupply": "5000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x85332b222787eacab0fff68cf3b884798823528c": {
+      "address": "0x85332b222787eacab0fff68cf3b884798823528c",
+      "name": "WinETHFree",
+      "symbol": "winethfree.com (Win ETH Free)",
+      "decimals": 0,
+      "totalSupply": "1000000000",
+      "verified": "0x01"
+    },
+    "0x9eec65e5b998db6845321baa915ec3338b1a469b": {
+      "address": "0x9eec65e5b998db6845321baa915ec3338b1a469b",
+      "name": "OnlyChain",
+      "symbol": "Only",
+      "decimals": 18,
+      "totalSupply": "5000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x663ca48c857dd193b51155e54309dd87421627d7": {
+      "address": "0x663ca48c857dd193b51155e54309dd87421627d7",
+      "name": "Lympo utility shares",
+      "symbol": "LYMUS",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057": {
+      "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+      "name": "Function X",
+      "symbol": "FX",
+      "decimals": 18,
+      "totalSupply": "378604525462891000000000000",
+      "verified": "0x01"
+    },
+    "0x3e9e371f8d2e9fca315fb0a747533ced8a3fcbcb": {
+      "address": "0x3e9e371f8d2e9fca315fb0a747533ced8a3fcbcb",
+      "name": "Bixcoin Pro",
+      "symbol": "BIXCPRO",
+      "decimals": 4,
+      "totalSupply": "689998990000",
+      "verified": "0x01"
+    },
+    "0x420167d87d35c3a249b32ef6225872fbd9ab85d2": {
+      "address": "0x420167d87d35c3a249b32ef6225872fbd9ab85d2",
+      "name": "MESG",
+      "symbol": "MESG",
+      "decimals": 18,
+      "totalSupply": "250000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3fd2278db28877329de4c06b11abcbfe67c82e37": {
+      "address": "0x3fd2278db28877329de4c06b11abcbfe67c82e37",
+      "name": "Hotelload",
+      "symbol": "HLL",
+      "decimals": 18,
+      "totalSupply": "76000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe9184c970bcfbb05d8a38762d073320e622a3e28": {
+      "address": "0xe9184c970bcfbb05d8a38762d073320e622a3e28",
+      "name": "CChain CCHN",
+      "symbol": "CCHN",
+      "decimals": 18,
+      "totalSupply": "2100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x01cc4151fe5f00efb8df2f90ff833725d3a482a3": {
+      "address": "0x01cc4151fe5f00efb8df2f90ff833725d3a482a3",
+      "name": "SPECTRUM",
+      "symbol": "SPT",
+      "decimals": 8,
+      "totalSupply": "140000000000000000",
+      "verified": "0x01"
+    },
+    "0x0a1d2ff7156a48131553cf381f220bbedb4efa37": {
+      "address": "0x0a1d2ff7156a48131553cf381f220bbedb4efa37",
+      "name": "FABA",
+      "symbol": "FABA",
+      "decimals": 18,
+      "totalSupply": "13704648565572252547410970952531151901206343336622",
+      "verified": "0x01"
+    },
+    "0x2ff2b86c156583b1135c584fd940a1996fa4230b": {
+      "address": "0x2ff2b86c156583b1135c584fd940a1996fa4230b",
+      "name": "https://findtherabbit.me",
+      "symbol": "findtherabbit.me",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x8c7de771a2bdb93d6ac1376b4f3088d4d7589769": {
+      "address": "0x8c7de771a2bdb93d6ac1376b4f3088d4d7589769",
+      "name": "https://pointpay.io/",
+      "symbol": "PointPay - Multi-currency Wallet, Exchange and Bank!",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xf96ce1afeacbb80eee6f9989b6bf38e819efdb05": {
+      "address": "0xf96ce1afeacbb80eee6f9989b6bf38e819efdb05",
+      "name": "FABA",
+      "symbol": "FABA",
+      "decimals": 18,
+      "totalSupply": "5863465800000000000000000",
+      "verified": "0x01"
+    },
+    "0xfeed1a53bd53ffe453d265fc6e70dd85f8e993b6": {
+      "address": "0xfeed1a53bd53ffe453d265fc6e70dd85f8e993b6",
+      "name": "H2O Token",
+      "symbol": "H2O",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x96a65609a7b84e8842732deb08f56c3e21ac6f8a": {
+      "address": "0x96a65609a7b84e8842732deb08f56c3e21ac6f8a",
+      "name": "Centra token",
+      "symbol": "Centra",
+      "decimals": 18,
+      "totalSupply": "99999999500000000000000000",
+      "verified": "0x01"
+    },
+    "0xf5ed2dc77f0d1ea7f106ecbd1850e406adc41b51": {
+      "address": "0xf5ed2dc77f0d1ea7f106ecbd1850e406adc41b51",
+      "name": "The Ocean Token",
+      "symbol": "OCEAN",
+      "decimals": 18,
+      "totalSupply": "11828625000000000000000000",
+      "verified": "0x01"
+    },
+    "0x1dfabf381d80dd29d43bc347207b30a5c484bbd0": {
+      "address": "0x1dfabf381d80dd29d43bc347207b30a5c484bbd0",
+      "name": "https://McFLY.aero/t - 46-53% discount in April",
+      "symbol": "https://McFLY.aero/t",
+      "decimals": 0,
+      "totalSupply": "1",
+      "verified": "0x01"
+    },
+    "0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31": {
+      "address": "0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31",
+      "name": "AdHive Token",
+      "symbol": "ADH",
+      "decimals": 18,
+      "totalSupply": "392000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4289c043a12392f1027307fb58272d8ebd853912": {
+      "address": "0x4289c043a12392f1027307fb58272d8ebd853912",
+      "name": "AiLink Token",
+      "symbol": "ALI",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x84136c48d0ed75c384d0e9b04745f0208561a5b9": {
+      "address": "0x84136c48d0ed75c384d0e9b04745f0208561a5b9",
+      "name": "Ledgerium",
+      "symbol": "LGUM",
+      "decimals": 8,
+      "standard": "0.1",
+      "totalSupply": "800000000000000000",
+      "verified": "0x01"
+    },
+    "0x30cc0e266cf33b8eac6a99cbd98e39b890cfd69b": {
+      "address": "0x30cc0e266cf33b8eac6a99cbd98e39b890cfd69b",
+      "name": "ClassyCoin",
+      "symbol": "ClassyCoin",
+      "decimals": 16,
+      "standard": "ClassyCoin 1.0",
+      "totalSupply": "1000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xde1e0ae6101b46520cf66fdc0b1059c5cc3d106c": {
+      "address": "0xde1e0ae6101b46520cf66fdc0b1059c5cc3d106c",
+      "name": "DeltaChain Token",
+      "symbol": "DELTA",
+      "decimals": 8,
+      "totalSupply": "750000000000000000",
+      "verified": "0x01"
+    },
+    "0xb62d18dea74045e822352ce4b3ee77319dc5ff2f": {
+      "address": "0xb62d18dea74045e822352ce4b3ee77319dc5ff2f",
+      "name": "EventChain",
+      "symbol": "EVC",
+      "decimals": 18,
+      "totalSupply": "84000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4c9d5672ae33522240532206ab45508116daf263": {
+      "address": "0x4c9d5672ae33522240532206ab45508116daf263",
+      "name": "VGAMES",
+      "symbol": "VGS",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6ea6531b603f270d23d9edd2d8279135dc5d6773": {
+      "address": "0x6ea6531b603f270d23d9edd2d8279135dc5d6773",
+      "name": "InsurChain Coin",
+      "symbol": "INSUR",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x91159390631ed2bfc6967695be85dee3be022ce3": {
+      "address": "0x91159390631ed2bfc6967695be85dee3be022ce3",
+      "name": "Opet Coin Token",
+      "symbol": "OPET",
+      "decimals": 8,
+      "totalSupply": "10000000000000000",
+      "verified": "0x01"
+    },
+    "0xa5996f6b731b349e25d7d5f4dd93a5ce9947841f": {
+      "address": "0xa5996f6b731b349e25d7d5f4dd93a5ce9947841f",
+      "name": "GIFTTOKEN",
+      "symbol": "GIFT",
+      "decimals": 18,
+      "totalSupply": "800000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x3565402f2936d3284264f03615d065803330e392": {
+      "address": "0x3565402f2936d3284264f03615d065803330e392",
+      "name": "CandysAirdrop",
+      "symbol": "CSAT",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xefcec6d87e3ce625c90865a49f2b7482963d73fe": {
+      "address": "0xefcec6d87e3ce625c90865a49f2b7482963d73fe",
+      "name": "fetish coin",
+      "symbol": "FET",
+      "decimals": 6,
+      "totalSupply": "74999975000000000",
+      "verified": "0x01"
+    },
+    "0x461733c17b0755ca5649b6db08b3e213fcf22546": {
+      "address": "0x461733c17b0755ca5649b6db08b3e213fcf22546",
+      "decimals": 18,
+      "totalSupply": "210000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xe964c79a2a6a94365c0b0c07a65f1c882e3f4059": {
+      "address": "0xe964c79a2a6a94365c0b0c07a65f1c882e3f4059",
+      "name": "NeonCoin",
+      "symbol": "NEON",
+      "decimals": 8,
+      "totalSupply": "5000000000000000000",
+      "verified": "0x01"
+    },
+    "0x86c8bf8532aa2601151c9dbbf4e4c4804e042571": {
+      "address": "0x86c8bf8532aa2601151c9dbbf4e4c4804e042571",
+      "name": "Simoleon",
+      "symbol": "SIM",
+      "decimals": 2,
+      "totalSupply": "10000000000",
+      "verified": "0x01"
+    },
+    "0x51fb3da8a67861361281ac56fe2ad8c3b4539ffa": {
+      "address": "0x51fb3da8a67861361281ac56fe2ad8c3b4539ffa",
+      "name": "InsurChain2.0",
+      "symbol": "INSUR",
+      "decimals": 18,
+      "totalSupply": "20000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x6667a56d8fcb35448ee8514936e6d6c4ccc86e97": {
+      "address": "0x6667a56d8fcb35448ee8514936e6d6c4ccc86e97",
+      "name": "Globfone Coin",
+      "symbol": "GFC",
+      "decimals": 8,
+      "totalSupply": "350000000000000000",
+      "verified": "0x01"
+    },
+    "0x8377ee6d3545bc6ff1425ee3015dc648b149c7b2": {
+      "address": "0x8377ee6d3545bc6ff1425ee3015dc648b149c7b2",
+      "name": "ProChain",
+      "symbol": "PRO",
+      "decimals": 2,
+      "totalSupply": "54933327840",
+      "verified": "0x01"
+    },
+    "0x62050d57cb395239972dc9a0d6c1ba273b45a416": {
+      "address": "0x62050d57cb395239972dc9a0d6c1ba273b45a416",
+      "name": "Retengo",
+      "symbol": "REG",
+      "decimals": 8,
+      "totalSupply": "50000000000000000",
+      "verified": "0x01"
+    },
+    "0x5ef3260396e263dfcd0ee9d66b258da77101fcbe": {
+      "address": "0x5ef3260396e263dfcd0ee9d66b258da77101fcbe",
+      "name": "Opet Token",
+      "symbol": "OPET",
+      "decimals": 18,
+      "totalSupply": "100000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x4540fcf016bcb67290c3e14238702c64e6a51600": {
+      "address": "0x4540fcf016bcb67290c3e14238702c64e6a51600",
+      "name": "MOAT",
+      "symbol": "MOAT",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x69d94dc74dcdccbadec877454a40341ecac34a7c": {
+      "address": "0x69d94dc74dcdccbadec877454a40341ecac34a7c",
+      "name": "iRide",
+      "symbol": "iRide",
+      "decimals": 18,
+      "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x63b992e6246d88f07fc35a056d2c365e6d441a3d": {
+      "address": "0x63b992e6246d88f07fc35a056d2c365e6d441a3d",
+      "name": "Soma Community Token",
+      "symbol": "SCT",
+      "decimals": 18,
+      "totalSupply": "14418075139310726234312013",
+      "verified": "0x01"
+    },
+    "0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8": {
+      "address": "0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8",
+      "name": "SOCIAL",
+      "symbol": "SCL",
+      "decimals": 8,
+      "standard": "Token 0.1",
+      "totalSupply": "1671401966436979",
+      "verified": "0x01"
+    },
+    "0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49": {
+      "address": "0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49",
+      "name": "Origami Network",
+      "symbol": "ORI",
+      "decimals": 18,
+      "totalSupply": "5527379000000000000000000",
+      "verified": "0x01"
+    },
+    "0xc3951d77737733174152532e8b0f27e2c4e9f0dc": {
+      "address": "0xc3951d77737733174152532e8b0f27e2c4e9f0dc",
+      "name": "Cloud",
+      "symbol": "CLD",
+      "decimals": 6,
+      "totalSupply": "60000000000000",
+      "verified": "0x01"
+    },
+    "0xe30e02f049957e2a5907589e06ba646fb2c321ba": {
+      "address": "0xe30e02f049957e2a5907589e06ba646fb2c321ba",
+      "name": "DRP Utility",
+      "symbol": "DRPU",
+      "decimals": 8,
+      "standard": "Token 0.3",
+      "totalSupply": "481763621327200",
+      "verified": "0x01"
+    },
+    "0x3e250a4f78410c29cfc39463a81f14a226690eb4": {
+      "address": "0x3e250a4f78410c29cfc39463a81f14a226690eb4",
+      "name": "DRP Security",
+      "symbol": "DRPS",
+      "decimals": 8,
+      "standard": "Token 0.3",
+      "totalSupply": "30058240665000",
+      "verified": "0x01"
     }
   }
 }
