@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x6e1e38c5cafcae293ca3f7bf840094355c671e47": {
+      "address": "0x6e1e38c5cafcae293ca3f7bf840094355c671e47",
+      "totalSupply": "84000000000000000000000000",
+      "decimals": 18,
+      "symbol": "ETCS",
+      "name": "Ethereum cash"
+    }
+  }
+}
