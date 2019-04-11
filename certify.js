@@ -80,7 +80,7 @@ async function buildVerifiedTokensMap (mask) {
             name: token.name,
             verified: '0x01',   // TODO create signature
           }
-          const cryptoCompareSymbol = addressSymbolMap[token.address]
+          const cryptoCompareSymbol = token.cryptoCompareSymbol || addressSymbolMap[token.address]
           if (cryptoCompareSymbol) {
             tokenData.cryptoCompareSymbol = cryptoCompareSymbol
             cryptoCompareCounter++
