@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x2b0CC10247359b1faf46345DbB94b439E2A83143": {
+      "address": "0x2b0CC10247359b1faf46345DbB94b439E2A83143",
+      "totalSupply": "3000000000000000",
+      "decimals": 8,
+      "symbol": "ARC",
+      "name": "ARTCHAINCOIN"
+    }
+  }
+}
