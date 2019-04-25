@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x17280DA053596E097604839C61A2eF5efb7d493f": {
+      "address": "0x17280DA053596E097604839C61A2eF5efb7d493f",
+      "totalSupply": "10000000000000000000",
+      "decimals": 8,
+      "symbol": "JOB",
+      "name": "Jobchain Token"
+    }
+  }
+}
