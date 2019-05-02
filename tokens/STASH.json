@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x965f109d31ccb77005858defae0ebaf7b4381652": {
+      "address": "0x965f109d31ccb77005858defae0ebaf7b4381652",
+      "totalSupply": "6000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "STASH",
+      "name": "BitStash"
+    }
+  }
+}
