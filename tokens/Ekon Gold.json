@@ -4,6 +4,7 @@
       "address": "0x6a9b3e36436b7abde8c4e2e2a98ea40455e615cf",
       "totalSupply": "26997300000000000000000",
       "decimals": 18,
+      "cryptoCompareSymbol": "DGX",
       "symbol": "EKG",
       "name": "Ekon Gold"
     }
