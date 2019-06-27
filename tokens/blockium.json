@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x27c743954bce1bfaef8bcbd685527531001d88d7": {
+      "address": "0x27c743954bce1bfaef8bcbd685527531001d88d7",
+      "totalSupply": "650000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BOK",
+      "name": "Blockium Token"
+    }
+  }
+}
