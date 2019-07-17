@@ -2711,6 +2711,16 @@
       "totalSupply": "60000000000000000000000000000",
       "verified": "0x01"
     },
+    "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551": {
+      "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+      "cryptoCompareSymbol": "DUSK",
+      "decimals": 18,
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBmaWxsPSIjM2IyMThjIiBkPSJNMTYxLjMgMTE0LjRIMTM4YzEuNC05LjUgMS40LTE5LjIgMC0yOC43aDIzLjNjMi41IDAgNC41LTIgNC41LTQuNXMtMi00LjUtNC41LTQuNWgtMjUuMWMtNC4yLTE2LjYtMTIuOC0zMS44LTI0LjktNDMuOS0yMC4xLTIwLjItNDgtMzAuMS03Ni41LTI3LjMtLjQgMC0uNy40LS42LjggMCAuMy4zLjYuNi42IDIxLjUgMi4xIDQxLjcgMTEuNyA1NyAyNyAxMi4xIDEyLjEgMjAuNCAyNi44IDI0LjUgNDIuOUg0OS43Yy0yLjUgMC00LjUgMi00LjUgNC41czIgNC41IDQuNSA0LjVoNjguNWMuNyA0LjcgMS4xIDkuNiAxLjEgMTQuNCAwIDQuOC0uNCA5LjYtMS4xIDE0LjRINDkuN2MtMi41IDAtNC41IDItNC41IDQuNXMyIDQuNSA0LjUgNC41aDY2LjdjLTQuMSAxNi4xLTEyLjUgMzAuOC0yNC41IDQyLjktMTUuMyAxNS4zLTM1LjQgMjQuOC01NyAyNy0uNCAwLS43LjQtLjYuNyAwIC4zLjMuNi42LjYgMjguNSAyLjggNTYuMy03LjIgNzYuNS0yNy40IDEyLjEtMTIuMSAyMC43LTI3LjMgMjQuOS00My45aDI1LjFjMi41IDAgNC41LTIgNC41LTQuNS0uMS0yLjYtMi4xLTQuNi00LjYtNC42eiIvPjwvc3ZnPg==",
+      "name": "Dusk Network",
+      "symbol": "DUSK",
+      "totalSupply": "500000000000000000000000000",
+      "verified": "0x01"
+    },
     "0x94d6b4fb35fb08cb34aa716ab40049ec88002079": {
       "address": "0x94d6b4fb35fb08cb34aa716ab40049ec88002079",
       "decimals": 8,
@@ -3837,6 +3847,16 @@
       "name": "Violet",
       "symbol": "VAI",
       "totalSupply": "250000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0xd46ba6d942050d489dbd938a2c909a5d5039a161": {
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "cryptoCompareSymbol": "AMPL",
+      "decimals": 9,
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNNDUuMSAxNTkuOGMtMyA2LjktNC41IDEyLjEtNC41IDE1LjYgMCAyLjcgMS4zIDUuMSAzLjkgNy4yIDIuNiAyLjEgOC4yIDMuNCAxNi44IDR2NC45SDV2LTQuOWM3LjUtMS4zIDEyLjMtMyAxNC41LTUuMSA0LjUtNC4yIDkuNS0xMi44IDE0LjktMjUuN2w2My0xNDcuM2g0LjZsNjIuMyAxNDguOGM1IDEyIDkuNiAxOS43IDEzLjcgMjMuMyA0LjEgMy42IDkuOCA1LjYgMTcuMSA2djQuOWgtNzAuNnYtNC45YzcuMS0uNCAxMS45LTEuNSAxNC40LTMuNiAyLjUtMiAzLjgtNC41IDMuOC03LjQgMC0zLjktMS44LTEwLTUuMy0xOC4zTDkyLjUgNDkuNSA0NS4xIDE1OS44eiIvPjwvc3ZnPg==",
+      "name": "Ampleforth",
+      "symbol": "AMPL",
+      "totalSupply": "65902750653076000",
       "verified": "0x01"
     },
     "0xd49ff13661451313ca1553fd6954bd1d9b6e02b9": {
