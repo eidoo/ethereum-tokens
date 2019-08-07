@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xfef3884b603c33ef8ed4183346e093a173c94da6": {
+      "address": "0xfef3884b603c33ef8ed4183346e093a173c94da6",
+      "totalSupply": "200000000000000000000000000",
+      "decimals": 18,
+      "symbol": "METM",
+      "name": "MetaMorph"
+    }
+  }
+}
