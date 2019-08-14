@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x82b0e50478eeafde392d45d1259ed1071b6fda81": {
+      "address": "0x82b0e50478eeafde392d45d1259ed1071b6fda81",
+      "totalSupply": "100000000000000000000000000",
+      "decimals": 18,
+      "symbol": "DNA",
+      "name": "DNA"
+    }
+  }
+}
