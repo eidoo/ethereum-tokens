@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xfab46e002bbf0b4509813474841e0716e6730136": {
+      "address": "0xfab46e002bbf0b4509813474841e0716e6730136",
+      "totalSupply": "127838177000000000000000000",
+      "decimals": 18,
+      "symbol": "FAU",
+      "name": "FaucetToken"
+    }
+  }
+}
