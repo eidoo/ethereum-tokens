@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" version="1" viewBox="0 0 200 200"><style>.st0{fill:#ffc926}</style><path d="M51.5 99.8l48.3-48.4 48.8 48.8-29.2-.1-19.5-19.5-19.3 19.3z" class="st0"/><path d="M100 5C47.5 5 5 47.5 5 100s42.5 95 95 95 95-42.5 95-95-42.5-95-95-95zm.4 163L32 99.6 99.6 32l68.4 68.4-67.6 67.6z" class="st0"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F69B00;}
+	.st1{fill:#FBBA00;}
+	.st2{fill:#B78A00;}
+	.st3{fill:#B8BBBF;}
+	.st4{fill:#B37A00;}
+</style>
+<path class="st0" d="M99.9,72.8l-27.1,27H32.2l67.7-67.5V5L5,99.5l94.9,31.9V72.8z"/>
+<path class="st1" d="M99.9,130.8V195L5,99.5L99.9,130.8z"/>
+<path class="st2" d="M195,100.5L99.9,195v-64.2L195,100.5z"/>
+<path class="st3" d="M99.9,32.2v40.6l27,27h40.9C167.8,99.8,100.2,31.9,99.9,32.2z"/>
+<polygon class="st4" points="195,100.5 99.9,130.8 99.9,72.8 126.9,99.8 167.8,99.8 167.7,99.7 167.8,99.7 99.9,32.2 99.9,5 "/>
+</svg>
