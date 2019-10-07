@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x39aa39c021dfbae8fac545936693ac917d5e7563": {
+      "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+      "totalSupply": "137968851043238282",
+      "decimals": 8,
+      "symbol": "cUSDC",
+      "name": "Compound USD Coin"
+    }
+  }
+}
