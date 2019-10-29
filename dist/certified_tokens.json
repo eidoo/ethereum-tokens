@@ -1636,6 +1636,16 @@
       "totalSupply": "8999999999999999999999990",
       "verified": "0x01"
     },
+    "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf": {
+      "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+      "cryptoCompareSymbol": "DGX",
+      "decimals": 9,
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMaXZlbGxvXzEiIHg9IjAiIHk9IjAiIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxzdHlsZT4uc3Qwe2ZpbGw6IzEyMjAzM30uc3Qxe2ZpbGw6I2JmOWU1Yn08L3N0eWxlPjxjaXJjbGUgY3g9IjEwMCIgY3k9IjEwMCIgcj0iOTUiIGNsYXNzPSJzdDAiLz48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjcwIiBjbGFzcz0ic3QxIi8+PHBhdGggZD0iTTEwMCA5OS42bDIzLjkgMjMuOS0yMy45IDIzLjktMjMuOS0yMy45TDEwMCA5OS42bTAtNC4ybC0yOC4xIDI4LjEgMjguMSAyOC4xIDI4LjEtMjguMUwxMDAgOTUuNHoiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJNNjYuMyAxMTguOEw0Ny41IDEwMCAxMDAgNDcuNWw1Mi41IDUyLjUtMTguNyAxOC44TDEwMCA4NXoiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJNMTAwIDE5MC41Yy00OS45IDAtOTAuNS00MC42LTkwLjUtOTAuNVM1MC4xIDkuNSAxMDAgOS41czkwLjUgNDAuNiA5MC41IDkwLjUtNDAuNiA5MC41LTkwLjUgOTAuNXptMC0xODBjLTQ5LjQgMC04OS41IDQwLjEtODkuNSA4OS41czQwLjEgODkuNSA4OS41IDg5LjUgODkuNS00MC4xIDg5LjUtODkuNS00MC4xLTg5LjUtODkuNS04OS41eiIgY2xhc3M9InN0MSIvPjxwYXRoIGQ9Ik0xMDAgMTkzYy01MS4zIDAtOTMtNDEuNy05My05M1M0OC43IDcgMTAwIDdzOTMgNDEuNyA5MyA5My00MS43IDkzLTkzIDkzem0wLTE4NUM0OS4zIDggOCA0OS4zIDggMTAwczQxLjMgOTIgOTIgOTIgOTItNDEuMyA5Mi05Mi00MS4zLTkyLTkyLTkyeiIgY2xhc3M9InN0MSIvPjwvc3ZnPg==",
+      "name": "Digix Gold Token",
+      "symbol": "DGX",
+      "totalSupply": "122700000000000",
+      "verified": "0x01"
+    },
     "0x4f76e85d067e219779a863ff18577846b3152f1f": {
       "address": "0x4f76e85d067e219779a863ff18577846b3152f1f",
       "decimals": 8,
@@ -3117,6 +3127,16 @@
       "name": "Tatatu",
       "symbol": "TTU",
       "totalSupply": "10000000000000000000000000000",
+      "verified": "0x01"
+    },
+    "0x9d8be94d0612170ce533ac4d7b43cc3cd91e5a1a": {
+      "address": "0x9d8be94d0612170ce533ac4d7b43cc3cd91e5a1a",
+      "cryptoCompareSymbol": "BQTX",
+      "decimals": 18,
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxwYXRoIGZpbGw9IiNmNDk4MWIiIGQ9Ik0xMDAgNUM0Ny41IDUgNSA0Ny41IDUgMTAwczQyLjUgOTUgOTUgOTUgOTUtNDIuNSA5NS05NS00Mi41LTk1LTk1LTk1em01NS4yIDEzMS4yTDEyOCAxMDlsLTE5IDE5IDI3LjIgMjcuMkMxMjUuOCAxNjIgMTEzLjMgMTY2IDEwMCAxNjZjLTM2LjQgMC02Ni0yOS42LTY2LTY2czI5LjYtNjYgNjYtNjYgNjYgMjkuNiA2NiA2NmMwIDEzLjMtNCAyNS44LTEwLjggMzYuMnoiLz48L3N2Zz4=",
+      "name": "BqtX Token",
+      "symbol": "BQTX",
+      "totalSupply": "800000000000000000000000000",
       "verified": "0x01"
     },
     "0x9e28c6ca2bdf2dd92c36222bf09993d577ff2b72": {
