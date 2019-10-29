@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x9d8be94d0612170ce533ac4d7b43cc3cd91e5a1a": {
+      "address": "0x9d8be94d0612170ce533ac4d7b43cc3cd91e5a1a",
+      "totalSupply": "800000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BQTX",
+      "name": "BqtX Token"
+    }
+  }
+}
