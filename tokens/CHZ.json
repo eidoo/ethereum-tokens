@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x3506424f91fd33084466f402d5d97f05f8e3b4af": {
+      "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+      "totalSupply": "8888888888000000000000000000",
+      "decimals": 18,
+      "symbol": "CHZ",
+      "name": "chiliZ"
+    }
+  }
+}
