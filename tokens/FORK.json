@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x5bb1632fa0023e1aa76a1ae92b4635c8dba49fa2": {
+      "address": "0x5bb1632fa0023e1aa76a1ae92b4635c8dba49fa2",
+      "totalSupply": "195000000000000000000000000",
+      "decimals": 18,
+      "symbol": "FORK",
+      "name": "GastroAdvisorToken"
+    }
+  }
+}
