@@ -2272,6 +2272,15 @@
       "totalSupply": "144187465494117599",
       "verified": "0x01"
     },
+    "0x6b175474e89094c44da98b954eedeac495271d0f": {
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "decimals": 18,
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxwYXRoIGZpbGw9IiNmNGI3MzEiIGQ9Ik0xOTUgNzEuNmgtMTkuOHMtMTUuNS01My4zLTgyLjUtNTMuM2gtNjV2NTMuM0g1djE4LjloMjIuNnYxOC45SDV2MTguOWgyMi42djUzLjNoNjVzNjEuOSAxLjcgODIuNS01My4zSDE5NXYtMTguOWgtMTYuM3MuOS01LjIuOS05LjUtLjktOS41LS45LTkuNUgxOTVWNzEuNnpNNDcuMSAzNi40aDQ3LjJjMzkuNCAwIDU1LjkgMjMuNiA2MS42IDM1LjJINDcuMVYzNi40em00Ny4yIDEyNy4ySDQ3LjF2LTM1LjJoMTA4LjdjLTE4LjIgMzYuMy02MS41IDM1LjItNjEuNSAzNS4yem0tNDcuMi01NC4xdi0xOWgxMTQuMmMuNCAyLjguNiA2IC42IDkuNXMtLjIgNi42LS42IDkuNUg0Ny4xeiIvPjwvc3ZnPg==",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "totalSupply": "0",
+      "verified": "0x01"
+    },
     "0x6be66252c14915e2a4f7e9621bc17365c4f35244": {
       "address": "0x6be66252c14915e2a4f7e9621bc17365c4f35244",
       "decimals": 18,
@@ -2799,9 +2808,9 @@
       "cryptoCompareSymbol": "DAI",
       "decimals": 18,
       "img": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjYsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGl2ZWxsb18xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDIwMCAyMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIwMCAyMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiNGNjlCMDA7fQ0KCS5zdDF7ZmlsbDojRkJCQTAwO30NCgkuc3Qye2ZpbGw6I0I3OEEwMDt9DQoJLnN0M3tmaWxsOiNCOEJCQkY7fQ0KCS5zdDR7ZmlsbDojQjM3QTAwO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNOTkuOSw3Mi44bC0yNy4xLDI3SDMyLjJsNjcuNy02Ny41VjVMNSw5OS41bDk0LjksMzEuOVY3Mi44eiIvPg0KPHBhdGggY2xhc3M9InN0MSIgZD0iTTk5LjksMTMwLjhWMTk1TDUsOTkuNUw5OS45LDEzMC44eiIvPg0KPHBhdGggY2xhc3M9InN0MiIgZD0iTTE5NSwxMDAuNUw5OS45LDE5NXYtNjQuMkwxOTUsMTAwLjV6Ii8+DQo8cGF0aCBjbGFzcz0ic3QzIiBkPSJNOTkuOSwzMi4ydjQwLjZsMjcsMjdoNDAuOUMxNjcuOCw5OS44LDEwMC4yLDMxLjksOTkuOSwzMi4yeiIvPg0KPHBvbHlnb24gY2xhc3M9InN0NCIgcG9pbnRzPSIxOTUsMTAwLjUgOTkuOSwxMzAuOCA5OS45LDcyLjggMTI2LjksOTkuOCAxNjcuOCw5OS44IDE2Ny43LDk5LjcgMTY3LjgsOTkuNyA5OS45LDMyLjIgOTkuOSw1ICIvPg0KPC9zdmc+DQo=",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "totalSupply": "84550480324413285785292444",
+      "name": "Sai (Dai stablecoin v1.0)",
+      "symbol": "SAI",
+      "totalSupply": "101710840414585487264045702",
       "verified": "0x01"
     },
     "0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2": {
