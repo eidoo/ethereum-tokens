@@ -1,8 +1,8 @@
 {
   "1": {
-    "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359": {
-      "address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
-      "totalSupply": "84550480324413285785292444",
+    "0x6b175474e89094c44da98b954eedeac495271d0f": {
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "totalSupply": "0",
       "decimals": 18,
       "symbol": "DAI",
       "name": "Dai Stablecoin"
