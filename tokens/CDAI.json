@@ -1,8 +1,8 @@
 {
   "1": {
-    "0xf5dce57282a584d2746faf1593d3121fcac444dc": {
-      "address": "0xf5dce57282a584d2746faf1593d3121fcac444dc",
-      "totalSupply": "50000000000000000",
+    "0xa4c993e32876795abf80842adb0a241bb0eecd47": {
+      "address": "0xa4c993e32876795abf80842adb0a241bb0eecd47",
+      "totalSupply": "0",
       "decimals": 8,
       "symbol": "cDAI",
       "name": "Compound Dai"
