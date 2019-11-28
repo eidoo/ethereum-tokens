@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e": {
+      "address": "0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e",
+      "totalSupply": "1730756214122165580",
+      "decimals": 8,
+      "symbol": "KICK",
+      "name": "KickToken"
+    }
+  }
+}
