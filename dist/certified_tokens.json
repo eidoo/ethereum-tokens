@@ -2292,7 +2292,7 @@
     },
     "0x6b175474e89094c44da98b954eedeac495271d0f": {
       "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "cryptoCompareSymbol": "MCD",
+      "cryptoCompareSymbol": "DAI",
       "decimals": 18,
       "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxwYXRoIGZpbGw9IiNmNGI3MzEiIGQ9Ik0xOTUgNzEuNmgtMTkuOHMtMTUuNS01My4zLTgyLjUtNTMuM2gtNjV2NTMuM0g1djE4LjloMjIuNnYxOC45SDV2MTguOWgyMi42djUzLjNoNjVzNjEuOSAxLjcgODIuNS01My4zSDE5NXYtMTguOWgtMTYuM3MuOS01LjIuOS05LjUtLjktOS41LS45LTkuNUgxOTVWNzEuNnpNNDcuMSAzNi40aDQ3LjJjMzkuNCAwIDU1LjkgMjMuNiA2MS42IDM1LjJINDcuMVYzNi40em00Ny4yIDEyNy4ySDQ3LjF2LTM1LjJoMTA4LjdjLTE4LjIgMzYuMy02MS41IDM1LjItNjEuNSAzNS4yem0tNDcuMi01NC4xdi0xOWgxMTQuMmMuNCAyLjguNiA2IC42IDkuNXMtLjIgNi42LS42IDkuNUg0Ny4xeiIvPjwvc3ZnPg==",
       "name": "Dai Stablecoin",
