@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xa8258abc8f2811dd48eccd209db68f25e3e34667": {
+      "address": "0xa8258abc8f2811dd48eccd209db68f25e3e34667",
+      "totalSupply": "400000000000000000",
+      "decimals": 8,
+      "symbol": "DAG",
+      "name": "Constellation"
+    }
+  }
+}
