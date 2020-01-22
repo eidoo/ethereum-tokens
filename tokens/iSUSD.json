@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x49f4592e641820e928f9919ef4abd92a719b4b49": {
+      "address": "0x49f4592e641820e928f9919ef4abd92a719b4b49",
+      "totalSupply": "62654982330330274388284",
+      "decimals": 18,
+      "symbol": "iSUSD",
+      "name": "Fulcrum sUSD iToken"
+    }
+  }
+}
