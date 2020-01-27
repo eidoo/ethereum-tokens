@@ -2,10 +2,10 @@
   "1": {
     "0xf013406a0b1d544238083df0b93ad0d2cbe0f65f": {
       "address": "0xf013406a0b1d544238083df0b93ad0d2cbe0f65f",
-      "totalSupply": "191604376611",
+      "totalSupply": "437423915356",
       "decimals": 6,
       "symbol": "iUSDC",
-      "name": "bZx USDC iToken"
+      "name": "Fulcrum USDC iToken"
     }
   }
 }
