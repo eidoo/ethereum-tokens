@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f": {
+      "address": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
+      "totalSupply": "173248880305607000000000",
+      "decimals": 18,
+      "symbol": "aZRX",
+      "name": "Aave Interest bearing ZRX"
+    }
+  }
+}
