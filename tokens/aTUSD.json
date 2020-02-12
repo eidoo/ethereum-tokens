@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x4da9b813057d04baef4e5800e36083717b4a0341": {
+      "address": "0x4da9b813057d04baef4e5800e36083717b4a0341",
+      "totalSupply": "170015291723838000000000",
+      "decimals": 18,
+      "symbol": "aTUSD",
+      "name": "Aave Interest bearing TUSD"
+    }
+  }
+}
