@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8": {
+      "address": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
+      "totalSupply": "2189837506305",
+      "decimals": 6,
+      "symbol": "aUSDT",
+      "name": "Aave Interest bearing USDT"
+    }
+  }
+}
