@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E": {
+      "address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+      "totalSupply": "408426910169",
+      "decimals": 6,
+      "symbol": "aUSDC",
+      "name": "Aave Interest bearing USDC"
+    }
+  }
+}
