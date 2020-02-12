@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f": {
+      "address": "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
+      "totalSupply": "739674955785196000000000",
+      "decimals": 18,
+      "symbol": "aMANA",
+      "name": "Aave Interest bearing MANA"
+    }
+  }
+}
