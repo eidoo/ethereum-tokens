@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x5228a22e72ccc52d415ecfd199f99d0665e7733b": {
+      "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+      "totalSupply": "0.71089644",
+      "decimals": 18,
+      "symbol": "pBTC",
+      "name": "pTokens BTC"
+    }
+  }
+}
