@@ -4,6 +4,7 @@
       "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
       "totalSupply": "710896440000000000",
       "decimals": 18,
+      "cryptoCompareSymbol": "BTC",
       "symbol": "pBTC",
       "name": "pTokens BTC"
     }
