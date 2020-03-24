@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xlkscoin": {
+      "address": "0xlkscoin",
+      "totalSupply": "100000000000000000000000000",
+      "decimals": 18,
+      "symbol": "LKSCOIN",
+      "name": "LKS Coin"
+    }
+  }
+}
