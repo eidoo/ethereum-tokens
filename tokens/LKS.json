@@ -1,11 +1,11 @@
 {
   "1": {
-    "0xlkscoin": {
-      "address": "0xlkscoin",
+    "0xD3Ca3464B3A9afD206Fe35165f4a771FEe6828E1": {
+      "address": "0xD3Ca3464B3A9afD206Fe35165f4a771FEe6828E1",
       "totalSupply": "100000000000000000000000000",
       "decimals": 18,
       "symbol": "LKSCOIN",
-      "name": "LKS Coin"
+      "name": "LKSCoin"
     }
   }
 }
