@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x408e41876cccdc0f92210600ef50372656052a38": {
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "REN",
+      "name": "Republic"
+    }
+  }
+}
