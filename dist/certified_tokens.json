@@ -1646,7 +1646,6 @@
     },
     "0x48f775efbe4f5ece6e0df2f7b5932df56823b990": {
       "address": "0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
-      "cryptoCompareSymbol": "R",
       "decimals": 0,
       "img": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyMDAgMjAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDp1cmwoI1NWR0lEXzFfKTt9DQo8L3N0eWxlPg0KPGxpbmVhckdyYWRpZW50IGlkPSJTVkdJRF8xXyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI0MS42Mzk2IiB5MT0iMTAwLjQ3OTgiIHgyPSIxNzUuNTMyMiIgeTI9IjEwMC40Nzk4Ij4NCgk8c3RvcCAgb2Zmc2V0PSIwIiBzdHlsZT0ic3RvcC1jb2xvcjojNzcxQTRFIi8+DQoJPHN0b3AgIG9mZnNldD0iMC41IiBzdHlsZT0ic3RvcC1jb2xvcjojNUUxOTUzIi8+DQoJPHN0b3AgIG9mZnNldD0iMC44NzUiIHN0eWxlPSJzdG9wLWNvbG9yOiM0MzBGNEUiLz4NCgk8c3RvcCAgb2Zmc2V0PSIxIiBzdHlsZT0ic3RvcC1jb2xvcjojM0EwQzRDIi8+DQo8L2xpbmVhckdyYWRpZW50Pg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTQxLjYsMjQuNnYxNjdsMzUuNy0xOS4xVjQ1bDUxLDI5LjNMOTAuMSw5NC43djQyLjFsODUuNCw1OC43di0zOS41bC01Mi4zLTM3bDQzLjQtMjNWNTUuMkw3Ny4zLDUuNUw0MS42LDI0LjYNCgl6Ii8+DQo8L3N2Zz4NCg==",
       "name": "Revain",
@@ -4198,6 +4197,15 @@
       "totalSupply": "1124463120866261648297659123",
       "verified": "0x01"
     },
+    "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": {
+      "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+      "decimals": 18,
+      "img": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4wIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDIwMCAyMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIwMCAyMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiMxQzYwRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMjUuNSwxMjZMNzAuNCwxNzdoMC4yTDE5NSw5Ni44di0wLjVoLTg1LjRMMTI1LjUsMTI2eiBNNjkuOCwxNzcuNXYtMTU1TDUsMTMzLjZMNjkuOCwxNzcuNXoiLz4NCjwvc3ZnPg0K",
+      "name": "Loopring V2",
+      "symbol": "LRC",
+      "totalSupply": "1374813985163099033593173637",
+      "verified": "0x01"
+    },
     "0xbbe761ea1447a20b75aa485b7bcad4837415d7d7": {
       "address": "0xbbe761ea1447a20b75aa485b7bcad4837415d7d7",
       "cryptoCompareSymbol": "CALL",
@@ -4315,7 +4323,6 @@
     },
     "0xc011a72400e58ecd99ee497cf89e3775d4bd732f": {
       "address": "0xc011a72400e58ecd99ee497cf89e3775d4bd732f",
-      "cryptoCompareSymbol": "SNX",
       "decimals": 18,
       "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDQgOTApIj48Y2lyY2xlIGN4PSItNCIgY3k9IjEwIiByPSI5NSIgZmlsbD0iIzFlMWEzMSIvPjxwYXRoIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTcgMi44aC0yMy4xYy0xMC40IDAtMTguOC04LjItMTguOC0xOC42IDAtMTAuNCA4LjQtMTguOCAxOC44LTE4LjhoNDkuM2M0LjEgMCA3LjQtMy4zIDcuNC03LjRzLTMuMy03LjQtNy40LTcuNGgtNDkuM2MtMTguNSAwLTMzLjUgMTUtMzMuNSAzMy41czE1IDMzLjUgMzMuNSAzMy41SDdjMTAuNCAwIDE4LjggOC4zIDE4LjggMTguNyAwIDEwLjQtOC40IDE4LjgtMTguOCAxOC44aC00OS4zYy00LjEgMC03LjQgMy4zLTcuNCA3LjRzMy4zIDcuNCA3LjQgNy40SDdjMTguNSAwIDMzLjUtMTUuMSAzMy41LTMzLjZTMjUuNSAyLjggNyAyLjh6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsPSIjZmZmIiBmaWxsLW9wYWNpdHk9Ii41IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0tMzYuNSA2N2wtMTItOC42TDI2LjgtNDYuOGwxMiA4LjZMLTM2LjUgNjd6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48L2c+PC9zdmc+",
       "name": "Synthetix Network Token",
@@ -5175,9 +5182,9 @@
       "address": "0xef68e7c694f40c8202821edf525de3782458639f",
       "cryptoCompareSymbol": "LRC",
       "decimals": 18,
-      "img": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4wIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDIwMCAyMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIwMCAyMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiMxQzYwRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMjUuNSwxMjZMNzAuNCwxNzdoMC4yTDE5NSw5Ni44di0wLjVoLTg1LjRMMTI1LjUsMTI2eiBNNjkuOCwxNzcuNXYtMTU1TDUsMTMzLjZMNjkuOCwxNzcuNXoiLz4NCjwvc3ZnPg0K",
-      "name": "Loopring",
-      "symbol": "LRC",
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTUuNSIgc3Ryb2tlPSIjYjdiZWM1IiBzdHJva2UtZGFzaGFycmF5PSI1IDMiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPjwvc3ZnPg==",
+      "name": "Old Loopring token",
+      "symbol": "LRC v1",
       "totalSupply": "1395076054523857892274603100",
       "verified": "0x01"
     },
