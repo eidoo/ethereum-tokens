@@ -1,11 +1,11 @@
 {
   "1": {
-    "0xEF68e7C694F40c8202821eDF525dE3782458639f": {
-      "address": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
-      "totalSupply": "1395076054523857892274603100",
+    "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": {
+      "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+      "totalSupply": "1374813985163099033593173637",
       "decimals": 18,
       "symbol": "LRC",
-      "name": "Loopring"
+      "name": "Loopring V2"
     }
   }
 }
