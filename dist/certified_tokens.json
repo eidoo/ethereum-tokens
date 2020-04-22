@@ -4199,6 +4199,7 @@
     },
     "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": {
       "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+      "cryptoCompareSymbol": "LRC",
       "decimals": 18,
       "img": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4wIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDIwMCAyMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIwMCAyMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiMxQzYwRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMjUuNSwxMjZMNzAuNCwxNzdoMC4yTDE5NSw5Ni44di0wLjVoLTg1LjRMMTI1LjUsMTI2eiBNNjkuOCwxNzcuNXYtMTU1TDUsMTMzLjZMNjkuOCwxNzcuNXoiLz4NCjwvc3ZnPg0K",
       "name": "Loopring V2",
@@ -5180,9 +5181,8 @@
     },
     "0xef68e7c694f40c8202821edf525de3782458639f": {
       "address": "0xef68e7c694f40c8202821edf525de3782458639f",
-      "cryptoCompareSymbol": "LRC",
       "decimals": 18,
-      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTUuNSIgc3Ryb2tlPSIjYjdiZWM1IiBzdHJva2UtZGFzaGFycmF5PSI1IDMiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPjwvc3ZnPg==",
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTUuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYjdiZWM1IiBzdHJva2UtZGFzaGFycmF5PSI1IDMiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPjwvc3ZnPg==",
       "name": "Old Loopring token",
       "symbol": "LRC v1",
       "totalSupply": "1395076054523857892274603100",
