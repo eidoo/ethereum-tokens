@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55": {
+      "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+      "totalSupply": "100000000000000000000000000",
+      "decimals": 18,
+      "symbol": "BAND",
+      "name": "BandToken"
+    }
+  }
+}
