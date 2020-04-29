@@ -4210,7 +4210,6 @@
     },
     "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": {
       "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
-      "cryptoCompareSymbol": "LRC",
       "decimals": 18,
       "img": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4wIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDIwMCAyMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIwMCAyMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiMxQzYwRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMjUuNSwxMjZMNzAuNCwxNzdoMC4yTDE5NSw5Ni44di0wLjVoLTg1LjRMMTI1LjUsMTI2eiBNNjkuOCwxNzcuNXYtMTU1TDUsMTMzLjZMNjkuOCwxNzcuNXoiLz4NCjwvc3ZnPg0K",
       "name": "Loopring V2",
@@ -4335,7 +4334,6 @@
     },
     "0xc011a72400e58ecd99ee497cf89e3775d4bd732f": {
       "address": "0xc011a72400e58ecd99ee497cf89e3775d4bd732f",
-      "cryptoCompareSymbol": "SNX",
       "decimals": 18,
       "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDQgOTApIj48Y2lyY2xlIGN4PSItNCIgY3k9IjEwIiByPSI5NSIgZmlsbD0iIzFlMWEzMSIvPjxwYXRoIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTcgMi44aC0yMy4xYy0xMC40IDAtMTguOC04LjItMTguOC0xOC42IDAtMTAuNCA4LjQtMTguOCAxOC44LTE4LjhoNDkuM2M0LjEgMCA3LjQtMy4zIDcuNC03LjRzLTMuMy03LjQtNy40LTcuNGgtNDkuM2MtMTguNSAwLTMzLjUgMTUtMzMuNSAzMy41czE1IDMzLjUgMzMuNSAzMy41SDdjMTAuNCAwIDE4LjggOC4zIDE4LjggMTguNyAwIDEwLjQtOC40IDE4LjgtMTguOCAxOC44aC00OS4zYy00LjEgMC03LjQgMy4zLTcuNCA3LjRzMy4zIDcuNCA3LjQgNy40SDdjMTguNSAwIDMzLjUtMTUuMSAzMy41LTMzLjZTMjUuNSAyLjggNyAyLjh6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsPSIjZmZmIiBmaWxsLW9wYWNpdHk9Ii41IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0tMzYuNSA2N2wtMTItOC42TDI2LjgtNDYuOGwxMiA4LjZMLTM2LjUgNjd6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48L2c+PC9zdmc+",
       "name": "Synthetix Network Token",
@@ -5193,6 +5191,7 @@
     },
     "0xef68e7c694f40c8202821edf525de3782458639f": {
       "address": "0xef68e7c694f40c8202821edf525de3782458639f",
+      "cryptoCompareSymbol": "LRC",
       "decimals": 18,
       "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTUuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYjdiZWM1IiBzdHJva2UtZGFzaGFycmF5PSI1IDMiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPjwvc3ZnPg==",
       "name": "Old Loopring token",
