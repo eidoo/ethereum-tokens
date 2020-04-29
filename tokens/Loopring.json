@@ -2,6 +2,7 @@
   "1": {
     "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": {
       "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+      "cryptoCompareSymbol": "LRC",
       "totalSupply": "1374813985163099033593173637",
       "decimals": 18,
       "symbol": "LRC",

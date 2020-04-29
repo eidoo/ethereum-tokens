@@ -5191,15 +5191,6 @@
       "totalSupply": "500000000000000000000000000",
       "verified": "0x01"
     },
-    "0xef68e7c694f40c8202821edf525de3782458639f": {
-      "address": "0xef68e7c694f40c8202821edf525de3782458639f",
-      "decimals": 18,
-      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTUuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYjdiZWM1IiBzdHJva2UtZGFzaGFycmF5PSI1IDMiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPjwvc3ZnPg==",
-      "name": "Old Loopring token",
-      "symbol": "LRC v1",
-      "totalSupply": "1395076054523857892274603100",
-      "verified": "0x01"
-    },
     "0xf013406a0b1d544238083df0b93ad0d2cbe0f65f": {
       "address": "0xf013406a0b1d544238083df0b93ad0d2cbe0f65f",
       "decimals": 6,
