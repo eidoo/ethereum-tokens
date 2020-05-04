@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9": {
+      "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+      "totalSupply": "751808821537770",
+      "decimals": 8,
+      "symbol": "cUSDT",
+      "name": "Compound USDT"
+    }
+  }
+}
