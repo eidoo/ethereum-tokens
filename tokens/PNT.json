@@ -2,10 +2,10 @@
   "1": {
     "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed": {
       "address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
-      "cryptoCompareSymbol": "PNT",
+      "cryptoCompareSymbol": "EDO",
       "totalSupply": "59634176067251733426111713",
       "decimals": 18,
-      "symbol": "EDO",
+      "symbol": "PNT",
       "name": "pNetwork Token"
     }
   }
