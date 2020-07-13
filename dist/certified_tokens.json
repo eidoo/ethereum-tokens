@@ -5596,6 +5596,7 @@
       "name": "LKSCOIN",
       "symbol": "LKSC",
       "totalSupply": "53058399899994999999999",
+      "useFakeCC": true,
       "verified": "0x01"
     },
     "0xfc4b8ed459e00e5400be803a9bb3954234fd50e3": {
