@@ -5,9 +5,7 @@
       "totalSupply": "53058399899994999999999",
       "decimals": 18,
       "symbol": "LKSC",
-      "name": "LKSCOIN",
-      "cryptoCompareSymbol": "LKSC",
-      "useFakeCC": true
+      "name": "LKSCOIN"
     }
   }
 }
