@@ -4641,6 +4641,7 @@
       "name": "Eidoo token (OLD TOKEN)",
       "symbol": "EDO",
       "totalSupply": "100000000000000000000000000",
+      "useFakeCC": true,
       "verified": "0x01"
     },
     "0xcfd6ae8bf13f42de14867351eaff7a8a3b9fbbe7": {
