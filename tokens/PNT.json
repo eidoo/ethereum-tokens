@@ -6,8 +6,7 @@
       "totalSupply": "59634176067251733426111713",
       "decimals": 18,
       "symbol": "PNT",
-      "name": "pNetwork Token",
-      "useFakeCC": true
+      "name": "pNetwork Token"
     }
   }
 }
