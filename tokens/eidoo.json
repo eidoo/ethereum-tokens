@@ -6,7 +6,8 @@
       "totalSupply": "100000000000000000000000000",
       "decimals": 18,
       "symbol": "EDO",
-      "name": "Eidoo token (OLD TOKEN)"
+      "name": "Eidoo token (OLD TOKEN)",
+      "useFakeCC": true
     }
   }
 }
