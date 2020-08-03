@@ -5,7 +5,8 @@
       "totalSupply": "59634176067251733426111713",
       "decimals": 18,
       "symbol": "daoPNT",
-      "name": "pNetwork DAO Stake"
+      "name": "pNetwork DAO Stake",
+      "cryptoCompareSymbol": "PNT"
     }
   }
 }
