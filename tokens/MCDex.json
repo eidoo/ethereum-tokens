@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42": {
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "totalSupply": "50520336974437776605230057",
+      "decimals": 18,
+      "symbol": "MCB",
+      "name": "MCDex"
+    }
+  }
+}
