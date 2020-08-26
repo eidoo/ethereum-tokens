@@ -2,6 +2,7 @@
   "1": {
     "0x7afebbb46fdb47ed17b22ed075cde2447694fb9e": {
       "address": "0x7afebbb46fdb47ed17b22ed075cde2447694fb9e",
+      "cryptoCompareSymbol": "OCEAN",
       "totalSupply": "613099141000000000000000000",
       "decimals": 18,
       "symbol": "OCEAN",
