@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xf9986d445ced31882377b5d6a5f58eaea72288c3": {
+      "address": "0xf9986d445ced31882377b5d6a5f58eaea72288c3",
+      "totalSupply": "7000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "ERD",
+      "name": "Elrond"
+    }
+  }
+}
