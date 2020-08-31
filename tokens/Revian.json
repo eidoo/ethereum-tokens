@@ -1,10 +1,10 @@
 {
   "1": {
-    "0x48f775efbe4f5ece6e0df2f7b5932df56823b990": {
-      "address": "0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
-      "totalSupply": "1000000000",
-      "decimals": 0,
-      "symbol": "R",
+    "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9": {
+      "address": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
+      "totalSupply": "4979271051000000",
+      "decimals": 6,
+      "symbol": "REV",
       "name": "Revain"
     }
   }
