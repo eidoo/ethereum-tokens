@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0xf1290473e210b2108a85237fbcd7b6eb42cc654f": {
+      "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+      "totalSupply": "1000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "HEDG",
+      "name": "HedgeTrade Token"
+    }
+  }
+}
