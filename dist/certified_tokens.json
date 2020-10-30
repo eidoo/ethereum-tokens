@@ -94,6 +94,15 @@
       "totalSupply": "100000000000000000000000000000",
       "verified": "0x01"
     },
+    "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b": {
+      "address": "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b",
+      "decimals": 8,
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMaXZlbGxvXzEiIHg9IjAiIHk9IjAiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDIwMCAyMDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxzdHlsZT4uc3Qwe2ZpbGw6I2I4YWQ4OH0uc3Qxe2ZpbGw6I2JlYjQ5NH0uc3Qye2ZpbGw6I2NjYzVhYX08L3N0eWxlPjxwYXRoIGQ9Ik0xODIuMyA1Mi41TDEwMCA1IDE3LjcgNTIuNSA0NiA2OC44bDU0LTMxLjIgNTQgMzEuMiAyOC4zLTE2LjN6IiBjbGFzcz0ic3QwIi8+PHBhdGggZD0iTTEwMCAxMjkuN2wyNS43LTE0LjlWODUuMkwxMDAgOTd6IiBjbGFzcz0ic3QxIi8+PHBhdGggZD0iTTEwMCAxNjIuM2wtMjUtMTQuNHYzMi43bDI1IDE0LjR6TTE3LjcgNTIuNXY5NWwyOC4yIDE2LjMuMS05NXpNMTAwIDEyOS43bC0yNS43LTE0LjlWODUuMkwxMDAgOTd6IiBjbGFzcz0ic3QyIi8+PHBhdGggZD0iTTc0LjMgODUuMkwxMDAgMTAwbDI1LjctMTQuOEwxMDAgNzAuM3oiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJNMTU0IDY4Ljh2NjIuNGwtNTQgMzEuMVYxOTVsODIuMy00Ny41di05NXoiIGNsYXNzPSJzdDEiLz48L3N2Zz4=",
+      "name": "Pteria",
+      "symbol": "PTE",
+      "totalSupply": "2100000000000000",
+      "verified": "0x01"
+    },
     "0x02f02e0ca8a521ef73daa9c45353b9fbefc5ee10": {
       "address": "0x02f02e0ca8a521ef73daa9c45353b9fbefc5ee10",
       "decimals": 8,
@@ -5137,15 +5146,6 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "totalSupply": "60109502104300",
-      "verified": "0x01"
-    },
-    "0xdb049bb439f71772e7e618b9ad36aabbf8b4287a": {
-      "address": "0xdb049bb439f71772e7e618b9ad36aabbf8b4287a",
-      "decimals": 8,
-      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMaXZlbGxvXzEiIHg9IjAiIHk9IjAiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDIwMCAyMDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxzdHlsZT4uc3Qwe2ZpbGw6I2I4YWQ4OH0uc3Qxe2ZpbGw6I2JlYjQ5NH0uc3Qye2ZpbGw6I2NjYzVhYX08L3N0eWxlPjxwYXRoIGQ9Ik0xODIuMyA1Mi41TDEwMCA1IDE3LjcgNTIuNSA0NiA2OC44bDU0LTMxLjIgNTQgMzEuMiAyOC4zLTE2LjN6IiBjbGFzcz0ic3QwIi8+PHBhdGggZD0iTTEwMCAxMjkuN2wyNS43LTE0LjlWODUuMkwxMDAgOTd6IiBjbGFzcz0ic3QxIi8+PHBhdGggZD0iTTEwMCAxNjIuM2wtMjUtMTQuNHYzMi43bDI1IDE0LjR6TTE3LjcgNTIuNXY5NWwyOC4yIDE2LjMuMS05NXpNMTAwIDEyOS43bC0yNS43LTE0LjlWODUuMkwxMDAgOTd6IiBjbGFzcz0ic3QyIi8+PHBhdGggZD0iTTc0LjMgODUuMkwxMDAgMTAwbDI1LjctMTQuOEwxMDAgNzAuM3oiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJNMTU0IDY4Ljh2NjIuNGwtNTQgMzEuMVYxOTVsODIuMy00Ny41di05NXoiIGNsYXNzPSJzdDEiLz48L3N2Zz4=",
-      "name": "Pteria",
-      "symbol": "PTE",
-      "totalSupply": "2100000000000000",
       "verified": "0x01"
     },
     "0xdb25f211ab05b1c97d595516f45794528a807ad8": {
