@@ -2,8 +2,8 @@
   "1": {
     "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b": {
       "address": "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b",
-      "totalSupply": "2100000000000000",
-      "decimals": 8,
+      "totalSupply": "7200000000000000000000000",
+      "decimals": 18,
       "symbol": "PTE",
       "name": "Pteria"
     }
