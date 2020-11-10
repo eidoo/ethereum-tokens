@@ -4,6 +4,7 @@
       "address": "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b",
       "totalSupply": "7200000000000000000000000",
       "decimals": 18,
+      "useFakeCC": true,
       "symbol": "PTERIA",
       "name": "Pteria"
     }
