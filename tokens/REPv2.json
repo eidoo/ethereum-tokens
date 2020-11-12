@@ -1,0 +1,12 @@
+{
+  "1": {
+    "0x221657776846890989a759ba2973e427dff5c9bb": {
+      "address": "0x221657776846890989a759ba2973e427dff5c9bb",
+      "cryptoCompareSymbol": "REP",
+      "totalSupply": "5311142166022027690220637",
+      "decimals": 18,
+      "symbol": "REPv2",
+      "name": "Reputation"
+    }
+  }
+}
