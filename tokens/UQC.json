@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2": {
+      "address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2",
+      "totalSupply": "40000000000000000000000000",
+      "decimals": 18,
+      "symbol": "UQC",
+      "name": "Uquid Coin"
+    }
+  }
+}
