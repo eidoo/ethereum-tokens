@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x4da27a545c0c5b758a6ba100e3a049001de870f5": {
+      "address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
+      "totalSupply": "2927629307330412991900368",
+      "decimals": 18,
+      "symbol": "stkAAVE",
+      "name": "Staked Aave"
+    }
+  }
+}
