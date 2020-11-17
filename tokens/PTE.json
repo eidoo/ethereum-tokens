@@ -5,6 +5,7 @@
       "totalSupply": "7200000000000000000000000",
       "decimals": 18,
       "useFakeCC": true,
+      "cryptoCompareSymbol": "PTERIA",
       "symbol": "PTERIA",
       "name": "Pteria"
     }
