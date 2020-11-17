@@ -5,7 +5,7 @@
       "totalSupply": "535948720520000000000",
       "decimals": 18,
       "useFakeCC": true,
-      "cryptoCompareSymbol": "PLTC",
+      "cryptoCompareSymbol": "LTC",
       "symbol": "pLTC",
       "name": "pTokens LTC"
     }
