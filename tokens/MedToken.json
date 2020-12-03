@@ -3,6 +3,7 @@
     "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3": {
       "address": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
       "totalSupply": "500000000000000000000000000",
+      "cryptoCompareSymbol": "MTN",
       "decimals": 18,
       "symbol": "MTN",
       "name": "MedToken"

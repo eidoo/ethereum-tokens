@@ -2,7 +2,8 @@
   "1": {
     "0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7": {
       "address": "0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7",
-      "totalSupply": "4997891952",
+      "totalSupply": "4997891952000000000000000000",
+      "cryptoCompareSymbol": "UTNP",
       "decimals": 18,
       "symbol": "UTNP",
       "name": "Universa Token"

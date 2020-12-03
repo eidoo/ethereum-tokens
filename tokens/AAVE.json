@@ -3,6 +3,7 @@
     "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9": {
       "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "totalSupply": "16000000000000000000000000",
+      "cryptoCompareSymbol": "AAVE",
       "decimals": 18,
       "symbol": "AAVE",
       "name": "Aave Token"
