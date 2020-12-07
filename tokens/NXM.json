@@ -3,6 +3,7 @@
     "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b": {
       "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
       "totalSupply": "7361132731329053731382072",
+      "cryptoCompareSymbol": "NXM",
       "decimals": 18,
       "symbol": "NXM",
       "name": "Nexus Mutual Token"

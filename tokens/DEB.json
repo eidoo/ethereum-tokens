@@ -3,6 +3,7 @@
     "0x151202c9c18e495656f372281f493eb7698961d5": {
       "address": "0x151202c9c18e495656f372281f493eb7698961d5",
       "totalSupply": "400000000000000000000000000",
+      "cryptoCompareSymbol": "DEB",
       "decimals": 18,
       "symbol": "DEB",
       "name": "DEBITUM"

@@ -3,6 +3,7 @@
     "0x0c37bcf456bc661c14d596683325623076d7e283": {
       "address": "0x0c37bcf456bc661c14d596683325623076d7e283",
       "totalSupply": "200000000000000000000000000",
+      "cryptoCompareSymbol": "ARNX",
       "decimals": 18,
       "symbol": "ARNX",
       "name": "Aeron"
