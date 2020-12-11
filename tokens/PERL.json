@@ -4,6 +4,7 @@
       "address": "0xeca82185adce47f39c684352b0439f030f860318",
       "totalSupply": "420717863954843075000000000",
       "cryptoCompareSymbol": "PERL",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "PERL",
       "name": "Perlin"

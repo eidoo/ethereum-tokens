@@ -5,6 +5,7 @@
       "totalSupply": "132046997",
       "decimals": 0,
       "cryptoCompareSymbol": "EDG",
+      "useFakeCC": true,
       "symbol": "EDG",
       "name": "Edgeless"
     }

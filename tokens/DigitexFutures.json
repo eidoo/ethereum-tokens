@@ -4,6 +4,7 @@
       "address": "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09",
       "totalSupply": "1000000000000000000000000000",
       "cryptoCompareSymbol": "DGTX",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "DGTX",
       "name": "DigitexFutures"

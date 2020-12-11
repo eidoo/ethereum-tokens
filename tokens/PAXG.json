@@ -3,6 +3,8 @@
     "0x45804880de22913dafe09f4980848ece6ecbaf78": {
       "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
       "totalSupply": "8806627000000000000000",
+      "cryptoCompareSymbol": "PAXG",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "PAXG",
       "name": "Paxos Gold"

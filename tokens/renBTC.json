@@ -4,6 +4,7 @@
       "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
       "totalSupply": "2649161217627",
       "cryptoCompareSymbol": "renBTC",
+      "useFakeCC": true,
       "decimals": 8,
       "symbol": "renBTC",
       "name": "renBTC"

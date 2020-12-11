@@ -4,6 +4,7 @@
       "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
       "totalSupply": "200041000000000000000000",
       "cryptoCompareSymbol": "KP3R",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "KP3R",
       "name": "Keep3rV1"

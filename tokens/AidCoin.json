@@ -4,6 +4,7 @@
       "address": "0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
       "totalSupply": "57000000000000000000000000",
       "cryptoCompareSymbol": "AID",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "AID",
       "name": "AidCoin"

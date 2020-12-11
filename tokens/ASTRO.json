@@ -3,6 +3,8 @@
     "0x7b22938ca841aa392c93dbb7f4c42178e3d65e88": {
       "address": "0x7b22938ca841aa392c93dbb7f4c42178e3d65e88",
       "totalSupply": "69999990000",
+      "cryptoCompareSymbol":"ASTRO",
+      "useFakeCC": true,
       "decimals": 4,
       "symbol": "ASTRO",
       "name": "AstroTokens"

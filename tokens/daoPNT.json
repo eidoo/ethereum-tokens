@@ -6,6 +6,7 @@
       "decimals": 18,
       "symbol": "daoPNT",
       "name": "pNetwork DAO Stake",
+      "useFakeCC": true,
       "cryptoCompareSymbol": "PNT"
     }
   }

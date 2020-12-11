@@ -3,6 +3,8 @@
     "0x27054b13b1b798b345b591a4d22e6562d47ea75a": {
       "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
       "totalSupply": "5000000000000",
+      "cryptoCompareSymbol": "AST",
+      "useFakeCC": true,
       "decimals": 4,
       "symbol": "AST",
       "name": "AirSwap"

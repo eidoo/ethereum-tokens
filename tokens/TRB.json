@@ -3,6 +3,8 @@
     "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5": {
       "address": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5",
       "totalSupply": "964677500000000000000000",
+      "cryptoCompareSymbol": "TRB",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "TRB",
       "name": "Tellor Tributes"

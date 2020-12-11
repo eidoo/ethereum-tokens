@@ -3,6 +3,8 @@
     "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671": {
       "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
       "totalSupply": "10979454346404250232904190",
+      "cryptoCompareSymbol": "NMR",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "NMR",
       "name": "Numeraire"

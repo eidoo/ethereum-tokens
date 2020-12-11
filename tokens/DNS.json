@@ -3,6 +3,8 @@
     "0x17c090f9a17e4e5a8ceb23bbe7E7e28e3c4ca196": {
       "address": "0x17c090f9a17e4e5a8ceb23bbe7E7e28e3c4ca196",
       "totalSupply": "1000000000000000000000000000",
+      "cryptoCompareSymbol": "DNS",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "DNS",
       "name": "BitDNS"

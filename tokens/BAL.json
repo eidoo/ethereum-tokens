@@ -3,6 +3,8 @@
     "0xba100000625a3754423978a60c9317c58a424e3D": {
       "address": "0xba100000625a3754423978a60c9317c58a424e3D",
       "totalSupply": "35580000000000000000000000",
+      "cryptoCompareSymbol":"BAL",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "BAL",
       "name": "Balancer"

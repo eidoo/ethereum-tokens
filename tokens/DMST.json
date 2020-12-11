@@ -3,6 +3,8 @@
     "0xf29992d7b589a0a6bd2de7be29a97a6eb73eaf85": {
       "address": "0xf29992d7b589a0a6bd2de7be29a97a6eb73eaf85",
       "totalSupply": "100000000000000000000000000",
+      "cryptoCompareSymbol": "DMST",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "DMST",
       "name": "DMScript"

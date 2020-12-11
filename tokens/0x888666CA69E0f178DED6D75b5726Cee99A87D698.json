@@ -4,6 +4,7 @@
       "address": "0x888666ca69e0f178ded6d75b5726cee99a87d698",
       "totalSupply": "100000000000000000000000000",
       "cryptoCompareSymbol": "ICN",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "ICN",
       "name": "ICONOMI"

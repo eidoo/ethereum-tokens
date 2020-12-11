@@ -3,6 +3,8 @@
     "0x0ea984e789302b7b612147e4e4144e64f21425eb": {
       "address": "0x0ea984e789302b7b612147e4e4144e64f21425eb",
       "totalSupply": "1991871366678670509",
+      "cryptoCompareSymbol": "WTN",
+      "useFakeCC": true,
       "decimals": 8,
       "symbol": "WTN",
       "name": "WaleTokeN"

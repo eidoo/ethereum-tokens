@@ -3,6 +3,7 @@
     "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85": {
       "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
       "cryptoCompareSymbol": "FET",
+      "useFakeCC": true,
       "totalSupply": "1152997575000000000000000000",
       "decimals": 18,
       "symbol": "FET",

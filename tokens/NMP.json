@@ -4,6 +4,7 @@
       "address": "0x4d6b9f281af31916a0f16d1cea2ec7384851eaab",
       "totalSupply": "10000000000000000000000000",
       "cryptoCompareSymbol": "NMP",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "NMP",
       "name": "Neuromorphic"

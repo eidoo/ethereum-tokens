@@ -4,6 +4,7 @@
       "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
       "totalSupply": "1030000000000000000000000000",
       "cryptoCompareSymbol": "BZRX",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "BZRX",
       "name": "bZx Protocol Token"

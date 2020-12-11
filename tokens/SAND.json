@@ -3,6 +3,8 @@
     "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
       "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
       "totalSupply": "3000000000000000000000000000",
+      "cryptoCompareSymbol":"SAND",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "SAND",
       "name": "Sand Token"

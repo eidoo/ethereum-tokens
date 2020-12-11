@@ -3,6 +3,8 @@
     "0x0cb20b77adbe5cd58fcecc4f4069d04b327862e5": {
       "address": "0x0cb20b77adbe5cd58fcecc4f4069d04b327862e5",
       "totalSupply": "949999999400000000",
+      "cryptoCompareSymbol": "MGT",
+      "useFakeCC": true,
       "decimals": 8,
       "symbol": "MGT",
       "name": "Mystery Ghost Token"

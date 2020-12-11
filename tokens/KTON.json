@@ -4,6 +4,7 @@
       "address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
       "totalSupply": "54349942623487327125428",
       "cryptoCompareSymbol": "KTON",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "KTON",
       "name": "Darwinia Token"

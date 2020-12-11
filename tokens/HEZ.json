@@ -4,6 +4,7 @@
       "address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
       "totalSupply": "100000000000000000000000000",
       "cryptoCompareSymbol": "HEZ",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "HEZ",
       "name": "Hermez Network Token"

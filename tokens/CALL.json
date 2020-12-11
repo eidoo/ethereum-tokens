@@ -3,6 +3,8 @@
     "0xbbe761ea1447a20b75aa485b7bcad4837415d7d7": {
       "address": "0xbbe761ea1447a20b75aa485b7bcad4837415d7d7",
       "totalSupply": "777000000000000000000000000",
+      "cryptoCompareSymbol": "CALL",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "CALL",
       "name": "CALL"

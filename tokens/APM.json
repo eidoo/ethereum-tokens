@@ -3,6 +3,8 @@
     "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c": {
       "address": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
       "totalSupply": "1812500000000000000000000000",
+      "cryptoCompareSymbol":"APM",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "APM",
       "name": "APM Coin"

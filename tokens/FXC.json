@@ -3,6 +3,8 @@
     "0x4a57e687b9126435a9b19e4a802113e266adebde": {
       "address": "0x4a57e687b9126435a9b19e4a802113e266adebde",
       "totalSupply": "100000000000000000000000000000",
+      "cryptoCompareSymbol": "FXC",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "FXC",
       "name": "Flexacoin"

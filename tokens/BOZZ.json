@@ -3,6 +3,8 @@
     "0x35ccbecdfa97ee0c79a57b2e986bdfc0b029abd5": {
       "address": "0x35ccbecdfa97ee0c79a57b2e986bdfc0b029abd5",
       "totalSupply": "5120454550000",
+      "cryptoCompareSymbol": "BOZZ",
+      "useFakeCC": true,
       "decimals": 4,
       "symbol": "BOZZ",
       "name": "Bitozz"

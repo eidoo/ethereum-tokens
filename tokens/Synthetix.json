@@ -2,8 +2,9 @@
   "1": {
     "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f": {
       "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
-      "cryptoCompareSymbol": "SNX",
       "totalSupply": "100000000000000000000000000",
+      "cryptoCompareSymbol": "SNX",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "SNX",
       "name": "Synthetix Network Token"

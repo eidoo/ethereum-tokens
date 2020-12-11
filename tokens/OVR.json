@@ -4,6 +4,7 @@
       "address": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
       "totalSupply": "83801411882837320010601984",
       "cryptoCompareSymbol": "OVR",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "OVR",
       "name": "OVR"

@@ -4,6 +4,7 @@
       "address": "0x13c2fab6354d3790d8ece4f0f1a3280b4a25ad96",
       "totalSupply": "24157817000000000000000000",
       "cryptoCompareSymbol": "PHI",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "PHI",
       "name": "PHI Token"

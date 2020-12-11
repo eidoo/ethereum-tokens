@@ -3,6 +3,8 @@
     "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e": {
       "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
       "totalSupply": "30000000000000000000000",
+      "cryptoCompareSymbol":"YFI",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "YFI",
       "name": "yearn.finance"

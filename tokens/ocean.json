@@ -3,6 +3,7 @@
     "0x967da4048cd07ab37855c090aaf366e4ce1b9f48": {
       "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
       "cryptoCompareSymbol": "OCEAN",
+      "useFakeCC": true,
       "totalSupply": "613099141000000000000000000",
       "decimals": 18,
       "symbol": "OCEAN",

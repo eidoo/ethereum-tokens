@@ -3,6 +3,8 @@
     "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": {
       "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
       "totalSupply": "726165620427938810",
+      "cryptoCompareSymbol": "HEX",
+      "useFakeCC": true,
       "decimals": 8,
       "symbol": "HEX",
       "name": "HEX"

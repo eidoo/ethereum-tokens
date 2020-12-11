@@ -3,6 +3,8 @@
     "0x7D29A64504629172a429e64183D6673b9dAcbFCe": {
       "address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
       "totalSupply": "50000000000000000000000000",
+      "cryptoCompareSymbol": "VXV",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "VXV",
       "name": "VectorspaceAI"

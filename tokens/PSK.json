@@ -3,6 +3,8 @@
     "0x1c5f43710a1776b0ea7191b7ead75d4b98d69858": {
       "address": "0x1c5f43710a1776b0ea7191b7ead75d4b98d69858",
       "totalSupply": "68072143000000000000000000",
+      "cryptoCompareSymbol": "PSK",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "PSK",
       "name": "Pool of Stake Master Token"

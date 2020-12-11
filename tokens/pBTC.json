@@ -5,6 +5,7 @@
       "totalSupply": "710896440000000000",
       "decimals": 18,
       "cryptoCompareSymbol": "BTC",
+      "useFakeCC": true,
       "symbol": "pBTC",
       "name": "pTokens BTC"
     }

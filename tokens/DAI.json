@@ -6,6 +6,7 @@
       "decimals": 18,
       "symbol": "DAI",
       "name": "Dai Stablecoin",
+      "useFakeCC": true,
       "cryptoCompareSymbol": "MCD"
     }
   }

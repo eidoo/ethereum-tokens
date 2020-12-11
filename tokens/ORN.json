@@ -3,6 +3,7 @@
     "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a": {
       "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
       "cryptoCompareSymbol": "ORN",
+      "useFakeCC": true,
       "totalSupply": "10000000000000000",
       "decimals": 8,
       "symbol": "ORN",

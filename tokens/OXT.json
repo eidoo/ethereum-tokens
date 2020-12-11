@@ -4,6 +4,7 @@
       "address": "0x4575f41308ec1483f3d399aa9a2826d74da13deb",
       "totalSupply": "1000000000000000000000000000",
       "cryptoCompareSymbol": "OXT",
+      "useFakeCC": true,
       "decimals": 18,
       "symbol": "OXT",
       "name": "Orchid"
