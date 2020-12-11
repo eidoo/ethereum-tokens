@@ -2,10 +2,11 @@
   "1": {
     "0x705051bbfd9f287869a412cba8bc7d112de48e69": {
       "address": "0x705051bbfd9f287869a412cba8bc7d112de48e69",
-      "totalSupply": "1000000000000000000",
       "decimals": 8,
+      "name": "SAKECOIN",
       "symbol": "SAKE",
-      "name": "SAKECOIN"
+      "totalSupply": "1000000000000000000",
+      "useFakeCC": true
     }
   }
 }

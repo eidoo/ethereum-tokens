@@ -2,10 +2,11 @@
   "1": {
     "0x9D91BE44C06d373a8a226E1f3b146956083803eB": {
       "address": "0x9D91BE44C06d373a8a226E1f3b146956083803eB",
-      "totalSupply": "497716046164812000000000",
       "decimals": 18,
+      "name": "Aave Interest bearing KNC",
       "symbol": "aKNC",
-      "name": "Aave Interest bearing KNC"
+      "totalSupply": "497716046164812000000000",
+      "useFakeCC": true
     }
   }
 }

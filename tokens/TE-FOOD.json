@@ -2,10 +2,11 @@
   "1": {
     "0xe5f166c0d8872b68790061317bb6cca04582c912": {
       "address": "0xe5f166c0d8872b68790061317bb6cca04582c912",
-      "totalSupply": "567917832529341785567974925",
       "decimals": 18,
+      "name": "TE-FOOD",
       "symbol": "TFD",
-      "name": "TE-FOOD"
+      "totalSupply": "567917832529341785567974925",
+      "useFakeCC": true
     }
   }
 }

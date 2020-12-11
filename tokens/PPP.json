@@ -2,10 +2,11 @@
   "1": {
     "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0": {
       "address": "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
-      "totalSupply": "165000000000000000000000000",
       "decimals": 18,
+      "name": "PayPie",
       "symbol": "PPP",
-      "name": "PayPie"
+      "totalSupply": "165000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

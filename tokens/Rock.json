@@ -2,10 +2,11 @@
   "1": {
     "0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c": {
       "address": "0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c",
-      "totalSupply": "900000000000000023790000000",
       "decimals": 18,
+      "name": "Rock",
       "symbol": "RKT",
-      "name": "Rock"
+      "totalSupply": "900000000000000023790000000",
+      "useFakeCC": true
     }
   }
 }

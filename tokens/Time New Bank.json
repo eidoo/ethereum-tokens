@@ -2,10 +2,11 @@
   "1": {
     "0xf7920b0768ecb20a123fac32311d07d193381d6f": {
       "address": "0xf7920b0768ecb20a123fac32311d07d193381d6f",
-      "totalSupply": "5541435804218690616799998000",
       "decimals": 18,
+      "name": "Time New Bank",
       "symbol": "TNB",
-      "name": "Time New Bank"
+      "totalSupply": "5541435804218690616799998000",
+      "useFakeCC": true
     }
   }
 }

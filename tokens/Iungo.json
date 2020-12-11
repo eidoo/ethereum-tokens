@@ -2,10 +2,11 @@
   "1": {
     "0x24dDFf6D8B8a42d835af3b440De91f3386554Aa4": {
       "address": "0x24dDFf6D8B8a42d835af3b440De91f3386554Aa4",
-      "totalSupply": "62000000",
       "decimals": 18,
+      "name": "IUNGO",
       "symbol": "ING",
-      "name": "IUNGO"
+      "totalSupply": "62000000",
+      "useFakeCC": true
     }
   }
 }

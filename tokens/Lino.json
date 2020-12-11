@@ -2,10 +2,11 @@
   "1": {
     "0xba51ff3802aa3170ce7ac7ac001831ca3eb6eeea": {
       "address": "0xba51ff3802aa3170ce7ac7ac001831ca3eb6eeea",
-      "totalSupply": "10000000000000000000000000000",
       "decimals": 18,
+      "name": "Lino",
       "symbol": "LINO",
-      "name": "Lino"
+      "totalSupply": "10000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c": {
       "address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
-      "totalSupply": "30147302768713226000000",
       "decimals": 14,
+      "name": "Berry Token",
       "symbol": "BERRY",
-      "name": "Berry Token"
+      "totalSupply": "30147302768713226000000",
+      "useFakeCC": true
     }
   }
 }

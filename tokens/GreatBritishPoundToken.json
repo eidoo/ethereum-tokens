@@ -2,10 +2,11 @@
   "1": {
     "0xB3742Ca2e6E8E9F707886Fd37BB3ba8159DD85d3": {
       "address": "0xB3742Ca2e6E8E9F707886Fd37BB3ba8159DD85d3",
-      "totalSupply": "22500000000000000000000000000",
       "decimals": 18,
+      "name": "GreatBritishPoundToken",
       "symbol": "GBPT",
-      "name": "GreatBritishPoundToken"
+      "totalSupply": "22500000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

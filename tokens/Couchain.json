@@ -2,10 +2,11 @@
   "1": {
     "0xf091cf09c51811819db705710e9634b8bf18f164": {
       "address": "0xf091cf09c51811819db705710e9634b8bf18f164",
-      "totalSupply": "30000000000000000000000000000",
       "decimals": 18,
+      "name": "Couchain",
       "symbol": "COU",
-      "name": "Couchain"
+      "totalSupply": "30000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

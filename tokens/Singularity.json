@@ -2,10 +2,11 @@
   "1": {
     "0x8eB24319393716668D768dCEC29356ae9CfFe285": {
       "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
-      "totalSupply": "1000000000",
       "decimals": 8,
+      "name": "Singularity",
       "symbol": "AGI",
-      "name": "Singularity"
+      "totalSupply": "1000000000",
+      "useFakeCC": true
     }
   }
 }

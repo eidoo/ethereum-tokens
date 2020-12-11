@@ -2,10 +2,11 @@
   "1": {
     "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359": {
       "address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
-      "totalSupply": "101710840414585487264045702",
       "decimals": 18,
+      "name": "Sai (Dai stablecoin v1.0)",
       "symbol": "SAI",
-      "name": "Sai (Dai stablecoin v1.0)"
+      "totalSupply": "101710840414585487264045702",
+      "useFakeCC": true
     }
   }
 }

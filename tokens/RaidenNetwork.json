@@ -2,10 +2,11 @@
   "1": {
     "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6": {
       "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
-      "totalSupply": "99999999",
       "decimals": 18,
+      "name": "Raiden Network",
       "symbol": "RDN",
-      "name": "Raiden Network"
+      "totalSupply": "99999999",
+      "useFakeCC": true
     }
   }
 }

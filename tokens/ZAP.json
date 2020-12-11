@@ -2,10 +2,11 @@
   "1": {
     "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104": {
       "address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
-      "totalSupply": "520000000000000000000000000",
       "decimals": 18,
+      "name": "ZAP Token",
       "symbol": "ZAP",
-      "name": "ZAP Token"
+      "totalSupply": "520000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

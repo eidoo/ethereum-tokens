@@ -2,10 +2,11 @@
   "1": {
     "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE": {
       "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
-      "totalSupply": "238829453804641000000000",
       "decimals": 18,
+      "name": "Aave Interest bearing SNX",
       "symbol": "aSNX",
-      "name": "Aave Interest bearing SNX"
+      "totalSupply": "238829453804641000000000",
+      "useFakeCC": true
     }
   }
 }

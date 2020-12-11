@@ -2,10 +2,11 @@
   "1": {
     "0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b": {
       "address": "0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b",
-      "totalSupply": "16051589000000000000000000",
       "decimals": 18,
+      "name": "Tokenbox",
       "symbol": "TBX",
-      "name": "Tokenbox"
+      "totalSupply": "16051589000000000000000000",
+      "useFakeCC": true
     }
   }
 }

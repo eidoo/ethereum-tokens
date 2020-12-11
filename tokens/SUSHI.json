@@ -2,12 +2,12 @@
   "1": {
     "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2": {
       "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
-      "totalSupply": "122128816520257799292390342",
       "cryptoCompareSymbol": "SUSHI",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "SushiToken",
       "symbol": "SUSHI",
-      "name": "SushiToken"
+      "totalSupply": "122128816520257799292390342",
+      "useFakeCC": true
     }
   }
 }

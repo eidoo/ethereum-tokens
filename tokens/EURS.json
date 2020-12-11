@@ -2,10 +2,11 @@
   "1": {
     "0xdb25f211ab05b1c97d595516f45794528a807ad8": {
       "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
-      "totalSupply": "3097920700",
       "decimals": 2,
+      "name": "STASIS EURS Token",
       "symbol": "EURS",
-      "name": "STASIS EURS Token"
+      "totalSupply": "3097920700",
+      "useFakeCC": true
     }
   }
 }

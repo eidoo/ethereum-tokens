@@ -2,10 +2,11 @@
   "1": {
     "0x2d4de3c744d43cf77cb12399921faf0d78b7415b": {
       "address": "0x2d4de3c744d43cf77cb12399921faf0d78b7415b",
-      "totalSupply": "886378966000000000000000000",
       "decimals": 18,
+      "name": "Boldman",
       "symbol": "BEE",
-      "name": "Boldman"
+      "totalSupply": "886378966000000000000000000",
+      "useFakeCC": true
     }
   }
 }

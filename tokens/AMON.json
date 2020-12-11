@@ -2,10 +2,11 @@
   "1": {
     "0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c": {
       "address": "0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c",
-      "totalSupply": "1666666667000000000000000000",
       "decimals": 18,
+      "name": "Amon",
       "symbol": "AMN",
-      "name": "Amon"
+      "totalSupply": "1666666667000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -3,10 +3,11 @@
     "0x8e3aEb75392ca824d55479CaE07f7f0B765743DD": {
       "address": "0x8e3aEb75392ca824d55479CaE07f7f0B765743DD",
       "cryptoCompareSymbol": "EURS",
-      "totalSupply": "0",
       "decimals": 2,
+      "name": "Moneyfold EUR",
       "symbol": "EURM",
-      "name": "Moneyfold EUR"
+      "totalSupply": "0",
+      "useFakeCC": true
     }
   }
 }

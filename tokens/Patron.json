@@ -2,10 +2,11 @@
   "1": {
     "0xf3b3cad094b89392fce5fafd40bc03b80f2bc624": {
       "address": "0xf3b3cad094b89392fce5fafd40bc03b80f2bc624",
-      "totalSupply": "400000000000000000000000000",
       "decimals": 18,
+      "name": "Patron",
       "symbol": "PAT",
-      "name": "Patron"
+      "totalSupply": "400000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

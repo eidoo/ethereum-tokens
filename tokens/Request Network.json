@@ -2,10 +2,11 @@
   "1": {
     "0x8f8221afbb33998d8584a2b05749ba73c37a938a": {
       "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
-      "totalSupply": "999990664794564085281732181",
       "decimals": 18,
+      "name": "Request Network",
       "symbol": "REQ",
-      "name": "Request Network"
+      "totalSupply": "999990664794564085281732181",
+      "useFakeCC": true
     }
   }
 }

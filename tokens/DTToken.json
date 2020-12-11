@@ -2,10 +2,11 @@
   "1": {
     "0xf9F7c29CFdf19FCf1f2AA6B84aA367Bcf1bD1676": {
       "address": "0xf9F7c29CFdf19FCf1f2AA6B84aA367Bcf1bD1676",
-      "totalSupply": "350000000000000000000",
       "decimals": 18,
+      "name": "Delphi Technologies Token",
       "symbol": "DTT",
-      "name": "Delphi Technologies Token"
+      "totalSupply": "350000000000000000000",
+      "useFakeCC": true
     }
   }
 }

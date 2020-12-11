@@ -2,10 +2,11 @@
   "1": {
     "0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04": {
       "address": "0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04",
-      "totalSupply": "11847790232608800000000",
       "decimals": 18,
+      "name": "Aave Interest bearing ETH",
       "symbol": "aETH",
-      "name": "Aave Interest bearing ETH"
+      "totalSupply": "11847790232608800000000",
+      "useFakeCC": true
     }
   }
 }

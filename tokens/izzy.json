@@ -2,10 +2,11 @@
   "1": {
     "0xCa472B7CDa9865E80C0897A83baC9c1105d4374E": {
       "address": "0xCa472B7CDa9865E80C0897A83baC9c1105d4374E",
-      "totalSupply": "600000000000000000000000000",
       "decimals": 18,
+      "name": "IZZY",
       "symbol": "IZY",
-      "name": "IZZY"
+      "totalSupply": "600000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

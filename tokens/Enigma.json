@@ -2,10 +2,11 @@
   "1": {
     "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4": {
       "address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
-      "totalSupply": "15000000000000000",
       "decimals": 8,
+      "name": "Enigma",
       "symbol": "ENG",
-      "name": "Enigma"
+      "totalSupply": "15000000000000000",
+      "useFakeCC": true
     }
   }
 }

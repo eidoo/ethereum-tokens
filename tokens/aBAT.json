@@ -2,10 +2,11 @@
   "1": {
     "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00": {
       "address": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
-      "totalSupply": "28754897309609900000000",
       "decimals": 18,
+      "name": "Aave Interest bearing BAT",
       "symbol": "aBAT",
-      "name": "Aave Interest bearing BAT"
+      "totalSupply": "28754897309609900000000",
+      "useFakeCC": true
     }
   }
 }

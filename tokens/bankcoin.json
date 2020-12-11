@@ -2,10 +2,11 @@
   "1": {
     "0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112": {
       "address": "0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112",
-      "totalSupply": "2100000000000000000000000",
       "decimals": 18,
+      "name": "Bankcoin",
       "symbol": "BCASH",
-      "name": "Bankcoin"
+      "totalSupply": "2100000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

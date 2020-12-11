@@ -2,10 +2,11 @@
   "1": {
     "0x30f5919849514be54d11941e90cc529099267f02": {
       "address": "0x30f5919849514be54d11941e90cc529099267f02",
-      "totalSupply": "4000000000000000000000000000",
       "decimals": 19,
+      "name": "ExtremeBTC",
       "symbol": "EBTC",
-      "name": "ExtremeBTC"
+      "totalSupply": "4000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

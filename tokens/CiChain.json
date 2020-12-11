@@ -2,10 +2,11 @@
   "1": {
     "0xad640689e6950b7453729a4686edb3fdfd754616": {
       "address": "0xad640689e6950b7453729a4686edb3fdfd754616",
-      "totalSupply": "3000000000000000000000000000",
       "decimals": 18,
+      "name": "CiChain",
       "symbol": "CIC",
-      "name": "CiChain"
+      "totalSupply": "3000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

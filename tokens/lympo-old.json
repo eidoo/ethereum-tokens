@@ -2,10 +2,11 @@
   "1": {
     "0x57aD67aCf9bF015E4820Fbd66EA1A21BED8852eC": {
       "address": "0x57aD67aCf9bF015E4820Fbd66EA1A21BED8852eC",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "Lympo token OLD",
       "symbol": "OLD LYM",
-      "name": "Lympo token OLD"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

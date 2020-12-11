@@ -2,10 +2,11 @@
   "1": {
     "0xc3e2de0b661cf58f66bde8e896905399ded58af5": {
       "address": "0xc3e2de0b661cf58f66bde8e896905399ded58af5",
-      "totalSupply": "90000000",
       "decimals": 0,
+      "name": "Matrexcoin",
       "symbol": "MAC",
-      "name": "Matrexcoin"
+      "totalSupply": "90000000",
+      "useFakeCC": true
     }
   }
 }

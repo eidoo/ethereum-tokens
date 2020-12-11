@@ -2,10 +2,11 @@
   "1": {
     "0xc90dc1182aa146cbbece39b22cb38f65df6ac960": {
       "address": "0xc90dc1182aa146cbbece39b22cb38f65df6ac960",
-      "totalSupply": "50000000000000000000000000",
       "decimals": 18,
+      "name": "HiVe Token",
       "symbol": "HVT",
-      "name": "HiVe Token"
+      "totalSupply": "50000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

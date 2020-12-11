@@ -2,10 +2,11 @@
   "1": {
     "0x2a093bcf0c98ef744bb6f69d74f2f85605324290": {
       "address": "0x2a093bcf0c98ef744bb6f69d74f2f85605324290",
-      "totalSupply": "39882401216644210",
       "decimals": 8,
+      "name": "FoodCoin",
       "symbol": "FOOD",
-      "name": "FoodCoin"
+      "totalSupply": "39882401216644210",
+      "useFakeCC": true
     }
   }
 }

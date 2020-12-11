@@ -2,12 +2,12 @@
   "1": {
     "0x309627af60f0926daa6041b8279484312f2bf060": {
       "address": "0x309627af60f0926daa6041b8279484312f2bf060",
-      "totalSupply": "98696247810920224622732",
       "cryptoCompareSymbol": "USDB",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "Bancor USD Token",
       "symbol": "USDB",
-      "name": "Bancor USD Token"
+      "totalSupply": "98696247810920224622732",
+      "useFakeCC": true
     }
   }
 }

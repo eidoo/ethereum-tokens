@@ -2,10 +2,11 @@
   "1": {
     "0x26e75307fc0c021472feb8f727839531f112f317": {
       "address": "0x26e75307fc0c021472feb8f727839531f112f317",
-      "totalSupply": "40656081980167189594966596",
       "decimals": 18,
+      "name": "Crypto20",
       "symbol": "C20",
-      "name": "Crypto20"
+      "totalSupply": "40656081980167189594966596",
+      "useFakeCC": true
     }
   }
 }

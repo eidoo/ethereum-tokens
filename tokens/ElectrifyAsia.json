@@ -2,10 +2,11 @@
   "1": {
     "0xd49ff13661451313ca1553fd6954bd1d9b6e02b9": {
       "address": "0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
-      "totalSupply": "750000000000000000000000000",
       "decimals": 18,
+      "name": "ElectrifyAsia",
       "symbol": "ELEC",
-      "name": "ElectrifyAsia"
+      "totalSupply": "750000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

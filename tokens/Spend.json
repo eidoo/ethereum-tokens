@@ -2,10 +2,11 @@
   "1": {
     "0xfa9f699e5273864aace6ba20e1448e41c387aa00": {
       "address": "0xfa9f699e5273864aace6ba20e1448e41c387aa00",
-      "totalSupply": "71567480000000",
       "decimals": 8,
+      "name": "Spend",
       "symbol": "SPEND",
-      "name": "Spend"
+      "totalSupply": "71567480000000",
+      "useFakeCC": true
     }
   }
 }

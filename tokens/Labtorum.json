@@ -2,10 +2,11 @@
   "1": {
     "0x1bD4E709a076Fb71ea1014293a739f2b19CA565D": {
       "address": "0x1bD4E709a076Fb71ea1014293a739f2b19CA565D",
-      "totalSupply": "300000000000000000",
       "decimals": 8,
+      "name": "Labtorum",
       "symbol": "LTR",
-      "name": "Labtorum"
+      "totalSupply": "300000000000000000",
+      "useFakeCC": true
     }
   }
 }

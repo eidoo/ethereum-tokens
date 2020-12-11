@@ -2,12 +2,12 @@
   "1": {
     "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": {
       "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
-      "totalSupply": "4000000000000000000000000000",
       "cryptoCompareSymbol": "AKRO",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "Akropolis",
       "symbol": "AKRO",
-      "name": "Akropolis"
+      "totalSupply": "4000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

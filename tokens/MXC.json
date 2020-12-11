@@ -2,12 +2,12 @@
   "1": {
     "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e": {
       "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
-      "totalSupply": "2664965800000000000000000000",
       "cryptoCompareSymbol": "MXC",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "MXCToken",
       "symbol": "MXC",
-      "name": "MXCToken"
+      "totalSupply": "2664965800000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0xC8a8D2A81cc86b95beb04E5a320D7E53F3c627dd": {
       "address": "0xC8a8D2A81cc86b95beb04E5a320D7E53F3c627dd",
-      "totalSupply": "1000000000",
       "decimals": 8,
+      "name": "PINCOIN",
       "symbol": "PIN",
-      "name": "PINCOIN"
+      "totalSupply": "1000000000",
+      "useFakeCC": true
     }
   }
 }

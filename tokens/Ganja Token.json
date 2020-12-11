@@ -2,10 +2,11 @@
   "1": {
     "0xed0f59d483977b2bde55fecc81e7534fe7e605e7": {
       "address": "0xed0f59d483977b2bde55fecc81e7534fe7e605e7",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "Ganja Token",
       "symbol": "GNJ",
-      "name": "Ganja Token"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

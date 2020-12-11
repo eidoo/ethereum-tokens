@@ -2,10 +2,11 @@
   "1": {
     "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda": {
       "address": "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
-      "totalSupply": "23178000",
       "decimals": 0,
+      "name": "WTT",
       "symbol": "WTT",
-      "name": "WTT"
+      "totalSupply": "23178000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x683e77a8c1f17c6250074b60a700f62be0500878": {
       "address": "0x683e77a8c1f17c6250074b60a700f62be0500878",
-      "totalSupply": "25000000000000000000000000000",
       "decimals": 18,
+      "name": "Mamo Coin",
       "symbol": "MMT",
-      "name": "Mamo Coin"
+      "totalSupply": "25000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

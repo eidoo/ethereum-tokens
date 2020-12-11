@@ -2,10 +2,11 @@
   "1": {
     "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
       "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-      "totalSupply": "134286817100000",
       "decimals": 6,
+      "name": "USD Coin",
       "symbol": "USDC",
-      "name": "USD Coin"
+      "totalSupply": "134286817100000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672": {
       "address": "0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672",
-      "totalSupply": "938641610340000000000000000",
       "decimals": 18,
+      "name": "Faceter",
       "symbol": "FACE",
-      "name": "Faceter"
+      "totalSupply": "938641610340000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x44197a4c44d6a059297caf6be4f7e172bd56caaf": {
       "address": "0x44197a4c44d6a059297caf6be4f7e172bd56caaf",
-      "totalSupply": "10000000000000000",
       "decimals": 8,
+      "name": "ELTCOIN",
       "symbol": "ELTCOIN",
-      "name": "ELTCOIN"
+      "totalSupply": "10000000000000000",
+      "useFakeCC": true
     }
   }
 }

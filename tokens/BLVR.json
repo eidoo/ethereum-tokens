@@ -2,12 +2,12 @@
   "1": {
     "0xd1ef9a7310d0806855c672288ef5a1bab62cef33": {
       "address": "0xd1ef9a7310d0806855c672288ef5a1bab62cef33",
-      "totalSupply": "17500000000000000000000000",
       "cryptoCompareSymbol": "BLVR",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "BELIEVER",
       "symbol": "BLVR",
-      "name": "BELIEVER"
+      "totalSupply": "17500000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

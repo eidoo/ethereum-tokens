@@ -2,12 +2,12 @@
   "1": {
     "0x44744e3e608d1243f55008b328fe1b09bd42e4cc": {
       "address": "0x44744e3e608d1243f55008b328fe1b09bd42e4cc",
-      "totalSupply": "500000000000000000000000000",
-      "cryptoCompareSymbol":"TCJ",
-      "useFakeCC": true,
+      "cryptoCompareSymbol": "TCJ",
       "decimals": 18,
+      "name": "Coinshare",
       "symbol": "TCJ",
-      "name": "Coinshare"
+      "totalSupply": "500000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

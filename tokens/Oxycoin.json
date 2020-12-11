@@ -2,10 +2,11 @@
   "1": {
     "0x869b1F57380aE501d387b19262EFD3C0Eb7501b0": {
       "address": "0x869b1F57380aE501d387b19262EFD3C0Eb7501b0",
-      "totalSupply": "1200000000000000000000000000",
       "decimals": 18,
+      "name": "Oxycoin",
       "symbol": "OXY",
-      "name": "Oxycoin"
+      "totalSupply": "1200000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

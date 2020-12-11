@@ -2,10 +2,11 @@
   "1": {
     "0x130f0054d43d1f849d09e3947bd33d76706232d6": {
       "address": "0x130f0054d43d1f849d09e3947bd33d76706232d6",
-      "totalSupply": "100000000000000",
       "decimals": 8,
+      "name": "INSTAINBLOCKS",
       "symbol": "INST",
-      "name": "INSTAINBLOCKS"
+      "totalSupply": "100000000000000",
+      "useFakeCC": true
     }
   }
 }

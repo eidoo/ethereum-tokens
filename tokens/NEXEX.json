@@ -2,10 +2,11 @@
   "1": {
     "0xdb7ca5dca4b968942076dcdcf6cdecfb2837c605": {
       "address": "0xdb7ca5dca4b968942076dcdcf6cdecfb2837c605",
-      "totalSupply": "200000000000000000000000000",
       "decimals": 18,
+      "name": "NEXEX",
       "symbol": "NEX",
-      "name": "NEXEX"
+      "totalSupply": "200000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

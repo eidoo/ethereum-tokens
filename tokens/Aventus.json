@@ -2,10 +2,11 @@
   "1": {
     "0x0d88ed6e74bbfd96b831231638b66c05571e824f": {
       "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
-      "totalSupply": "10000000000000000000000000",
       "decimals": 18,
+      "name": "Aventus",
       "symbol": "AVT",
-      "name": "Aventus"
+      "totalSupply": "10000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

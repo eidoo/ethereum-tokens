@@ -2,12 +2,12 @@
   "1": {
     "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2": {
       "address": "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
-      "totalSupply": "120000000000000000000000000",
-      "cryptoCompareSymbol":"OM",
-      "useFakeCC": true,
+      "cryptoCompareSymbol": "OM",
       "decimals": 18,
+      "name": "OM Token",
       "symbol": "OM",
-      "name": "OM Token"
+      "totalSupply": "120000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

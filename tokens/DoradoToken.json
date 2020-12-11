@@ -2,10 +2,11 @@
   "1": {
     "0x906b3f8b7845840188Eab53c3f5AD348A787752f": {
       "address": "0x906b3f8b7845840188Eab53c3f5AD348A787752f",
-      "totalSupply": "695583782386499626928218",
       "decimals": 15,
+      "name": "DoradoToken",
       "symbol": "DOR",
-      "name": "DoradoToken"
+      "totalSupply": "695583782386499626928218",
+      "useFakeCC": true
     }
   }
 }

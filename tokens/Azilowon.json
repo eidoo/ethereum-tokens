@@ -2,10 +2,11 @@
   "1": {
     "0x0bd57fc1289c2b8e090e5f2f7d972514e6a494fb": {
       "address": "0x0bd57fc1289c2b8e090e5f2f7d972514e6a494fb",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "Azilowon",
       "symbol": "AWN",
-      "name": "Azilowon"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

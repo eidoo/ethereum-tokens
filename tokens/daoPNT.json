@@ -2,12 +2,12 @@
   "1": {
     "0xe824F81cD136BB7a28480baF8d7E5f0E8E4B693E": {
       "address": "0xe824F81cD136BB7a28480baF8d7E5f0E8E4B693E",
-      "totalSupply": "34942268776728438174023896",
+      "cryptoCompareSymbol": "PNT",
       "decimals": 18,
-      "symbol": "daoPNT",
       "name": "pNetwork DAO Stake",
-      "useFakeCC": true,
-      "cryptoCompareSymbol": "PNT"
+      "symbol": "daoPNT",
+      "totalSupply": "34942268776728438174023896",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x082e13494f12ebb7206fbf67e22a6e1975a1a669": {
       "address": "0x082e13494f12ebb7206fbf67e22a6e1975a1a669",
-      "totalSupply": "35000000000000000",
       "decimals": 8,
+      "name": "ArtisTurba",
       "symbol": "ARTIS",
-      "name": "ArtisTurba"
+      "totalSupply": "35000000000000000",
+      "useFakeCC": true
     }
   }
 }

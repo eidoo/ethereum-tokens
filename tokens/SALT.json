@@ -2,10 +2,11 @@
   "1": {
     "0x4156D3342D5c385a87D264F90653733592000581": {
       "address": "0x4156D3342D5c385a87D264F90653733592000581",
-      "totalSupply": "12000000000000000",
       "decimals": 8,
+      "name": "Salt",
       "symbol": "SALT",
-      "name": "Salt"
+      "totalSupply": "12000000000000000",
+      "useFakeCC": true
     }
   }
 }

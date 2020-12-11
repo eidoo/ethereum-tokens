@@ -2,10 +2,11 @@
   "1": {
     "0x103c3a209da59d3e7c4a89307e66521e081cfdf0": {
       "address": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
-      "totalSupply": "4436643928533333333333331",
       "decimals": 18,
+      "name": "Genesis Vision",
       "symbol": "GVT",
-      "name": "Genesis Vision"
+      "totalSupply": "4436643928533333333333331",
+      "useFakeCC": true
     }
   }
 }

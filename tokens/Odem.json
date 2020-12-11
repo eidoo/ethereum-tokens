@@ -2,10 +2,11 @@
   "1": {
     "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a": {
       "address": "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
-      "totalSupply": "396969697000000000000000000",
       "decimals": 18,
+      "name": "ODEM Token",
       "symbol": "ODEM",
-      "name": "ODEM Token"
+      "totalSupply": "396969697000000000000000000",
+      "useFakeCC": true
     }
   }
 }

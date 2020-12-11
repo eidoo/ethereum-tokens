@@ -2,10 +2,11 @@
   "1": {
     "0x0f72714b35a366285df85886a2ee174601292a17": {
       "address": "0x0f72714b35a366285df85886a2ee174601292a17",
-      "totalSupply": "2227000000000000000000000",
       "decimals": 18,
+      "name": "1SG",
       "symbol": "1SG",
-      "name": "1SG"
+      "totalSupply": "2227000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

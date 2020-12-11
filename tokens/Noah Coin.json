@@ -2,10 +2,11 @@
   "1": {
     "0x58a4884182d9e835597f405e5f258290e46ae7c2": {
       "address": "0x58a4884182d9e835597f405e5f258290e46ae7c2",
-      "totalSupply": "216000000000000000000000000000",
       "decimals": 18,
+      "name": "Noah Coin",
       "symbol": "NOAH",
-      "name": "Noah Coin"
+      "totalSupply": "216000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x40395044Ac3c0C57051906dA938B54BD6557F212": {
       "address": "0x40395044Ac3c0C57051906dA938B54BD6557F212",
-      "totalSupply": "10000000000000000",
       "decimals": 8,
+      "name": "MobileGo",
       "symbol": "MGO",
-      "name": "MobileGo"
+      "totalSupply": "10000000000000000",
+      "useFakeCC": true
     }
   }
 }

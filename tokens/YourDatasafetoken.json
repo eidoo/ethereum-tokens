@@ -2,10 +2,11 @@
   "1": {
     "0x0d1c0fda47a79737154be7cfbbec5ec5aa3c4c15": {
       "address": "0x0d1c0fda47a79737154be7cfbbec5ec5aa3c4c15",
-      "totalSupply": "355836541590225000000000000",
       "decimals": 18,
+      "name": "Your Data Safe Token",
       "symbol": "YDST",
-      "name": "Your Data Safe Token"
+      "totalSupply": "355836541590225000000000000",
+      "useFakeCC": true
     }
   }
 }

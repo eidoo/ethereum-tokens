@@ -2,10 +2,11 @@
   "1": {
     "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6": {
       "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
-      "totalSupply": "1000000000000000",
       "decimals": 6,
+      "name": "QASH",
       "symbol": "QASH",
-      "name": "QASH"
+      "totalSupply": "1000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x0947b0e6d821378805c9598291385ce7c791a6b2": {
       "address": "0x0947b0e6d821378805c9598291385ce7c791a6b2",
-      "totalSupply": "999999999999999999999927890",
       "decimals": 18,
+      "name": "Lendingblock",
       "symbol": "LND",
-      "name": "Lendingblock"
+      "totalSupply": "999999999999999999999927890",
+      "useFakeCC": true
     }
   }
 }

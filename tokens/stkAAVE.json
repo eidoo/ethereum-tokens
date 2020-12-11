@@ -2,12 +2,12 @@
   "1": {
     "0x4da27a545c0c5b758a6ba100e3a049001de870f5": {
       "address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
-      "totalSupply": "2927629307330412991900368",
       "cryptoCompareSymbol": "stkAAVE",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "Staked Aave",
       "symbol": "stkAAVE",
-      "name": "Staked Aave"
+      "totalSupply": "2927629307330412991900368",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0xe7d7b37e72510309db27c460378f957b1b04bd5d": {
       "address": "0xe7d7b37e72510309db27c460378f957b1b04bd5d",
-      "totalSupply": "12000000000000000000000000000000",
       "decimals": 18,
+      "name": "Empowr",
       "symbol": "EMPR",
-      "name": "Empowr"
+      "totalSupply": "12000000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

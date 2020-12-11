@@ -2,10 +2,11 @@
   "1": {
     "0x5c3a228510d246b78a3765c20221cbf3082b44a4": {
       "address": "0x840fe75abfadc0f2d54037829571b2782e919ce4",
-      "totalSupply": "70000000000000000000000000",
       "decimals": 18,
+      "name": "Webcoin",
       "symbol": "WEB",
-      "name": "Webcoin"
+      "totalSupply": "70000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

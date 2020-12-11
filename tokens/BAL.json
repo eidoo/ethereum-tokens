@@ -2,12 +2,12 @@
   "1": {
     "0xba100000625a3754423978a60c9317c58a424e3D": {
       "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-      "totalSupply": "35580000000000000000000000",
-      "cryptoCompareSymbol":"BAL",
-      "useFakeCC": true,
+      "cryptoCompareSymbol": "BAL",
       "decimals": 18,
+      "name": "Balancer",
       "symbol": "BAL",
-      "name": "Balancer"
+      "totalSupply": "35580000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

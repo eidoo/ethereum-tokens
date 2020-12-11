@@ -2,10 +2,11 @@
   "1": {
     "0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d": {
       "address": "0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d",
-      "totalSupply": "218857469237232930000000000",
       "decimals": 18,
+      "name": "Insights Network",
       "symbol": "INSTAR",
-      "name": "Insights Network"
+      "totalSupply": "218857469237232930000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x607F4C5BB672230e8672085532f7e901544a7375": {
       "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
-      "totalSupply": "86999784986845492",
       "decimals": 9,
+      "name": "iEx.ec Network Token",
       "symbol": "RLC",
-      "name": "iEx.ec Network Token"
+      "totalSupply": "86999784986845492",
+      "useFakeCC": true
     }
   }
 }

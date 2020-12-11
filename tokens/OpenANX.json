@@ -2,10 +2,11 @@
   "1": {
     "0x701c244b988a513c945973defa05de933b23fe1d": {
       "address": "0x701c244b988a513c945973defa05de933b23fe1d",
-      "totalSupply": "100000000000000000000000000",
       "decimals": 18,
+      "name": "openANX Token",
       "symbol": "OAX",
-      "name": "openANX Token"
+      "totalSupply": "100000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

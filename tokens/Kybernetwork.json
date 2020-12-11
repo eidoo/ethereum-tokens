@@ -2,12 +2,12 @@
   "1": {
     "0xdd974d5c2e2928dea5f71b9825b8b646686bd200": {
       "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
-      "totalSupply": "215584623946508682215612893",
       "cryptoCompareSymbol": "KNC",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "Kyber Network Crystal",
       "symbol": "KNC",
-      "name": "Kyber Network Crystal"
+      "totalSupply": "215584623946508682215612893",
+      "useFakeCC": true
     }
   }
 }

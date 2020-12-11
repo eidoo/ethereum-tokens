@@ -2,12 +2,12 @@
   "1": {
     "0x2859021ee7f2cb10162e67f33af2d22764b31aff": {
       "address": "0x2859021ee7f2cb10162e67f33af2d22764b31aff",
-      "totalSupply": "10000000000000000",
       "cryptoCompareSymbol": "SNTR",
-      "useFakeCC": true,
       "decimals": 4,
+      "name": "Silent Notary Token",
       "symbol": "SNTR",
-      "name": "Silent Notary Token"
+      "totalSupply": "10000000000000000",
+      "useFakeCC": true
     }
   }
 }

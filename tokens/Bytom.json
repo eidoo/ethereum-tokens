@@ -2,10 +2,11 @@
   "1": {
     "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750": {
       "address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
-      "totalSupply": "140700000000000000",
       "decimals": 8,
+      "name": "Bytom",
       "symbol": "BTM",
-      "name": "Bytom"
+      "totalSupply": "140700000000000000",
+      "useFakeCC": true
     }
   }
 }

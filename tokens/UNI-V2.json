@@ -2,10 +2,11 @@
   "1": {
     "0x9f8d8df26d5ab71b492ddce9799f432e36c289df": {
       "address": "0x9f8d8df26d5ab71b492ddce9799f432e36c289df",
-      "totalSupply": "0",
       "decimals": 18,
+      "name": "Uniswap: pBTC-WBTC Liquidity Pool Token",
       "symbol": "UNI-V2",
-      "name": "Uniswap: pBTC-WBTC Liquidity Pool Token"
+      "totalSupply": "0",
+      "useFakeCC": true
     }
   }
 }

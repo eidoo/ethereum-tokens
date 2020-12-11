@@ -2,10 +2,11 @@
   "1": {
     "0x1829aa045e21e0d59580024a951db48096e01782": {
       "address": "0x1829aa045e21e0d59580024a951db48096e01782",
-      "totalSupply": "1087156610000000000000000000",
       "decimals": 18,
+      "name": "FuzeX",
       "symbol": "FXT",
-      "name": "FuzeX"
+      "totalSupply": "1087156610000000000000000000",
+      "useFakeCC": true
     }
   }
 }

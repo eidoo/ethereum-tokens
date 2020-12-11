@@ -2,10 +2,11 @@
   "1": {
     "0x9195e00402abe385f2d00a32af40b271f2e87925": {
       "address": "0x9195e00402abe385f2d00a32af40b271f2e87925",
-      "totalSupply": "9923790394174200000000000000",
       "decimals": 18,
+      "name": "ETHEERA",
       "symbol": "ETA",
-      "name": "ETHEERA"
+      "totalSupply": "9923790394174200000000000000",
+      "useFakeCC": true
     }
   }
 }

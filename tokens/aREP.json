@@ -2,10 +2,11 @@
   "1": {
     "0x71010a9d003445ac60c4e6a7017c1e89a477b438": {
       "address": "0x71010a9d003445ac60c4e6a7017c1e89a477b438",
-      "totalSupply": "2108962936170750000000",
       "decimals": 18,
+      "name": "Aave Interest bearing REP",
       "symbol": "aREP",
-      "name": "Aave Interest bearing REP"
+      "totalSupply": "2108962936170750000000",
+      "useFakeCC": true
     }
   }
 }

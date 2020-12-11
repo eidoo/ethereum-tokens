@@ -2,10 +2,11 @@
   "1": {
     "0xf1ca9cb74685755965c7458528a36934df52a3ef": {
       "address": "0xf1ca9cb74685755965c7458528a36934df52a3ef",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "Avinoc Token",
       "symbol": "AVINOC",
-      "name": "Avinoc Token"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

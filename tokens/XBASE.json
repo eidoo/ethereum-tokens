@@ -2,10 +2,11 @@
   "1": {
     "0x49a1cbb5d28cdedd55b7daa627f658fbd8cf1d23": {
       "address": "0x49a1cbb5d28cdedd55b7daa627f658fbd8cf1d23",
-      "totalSupply": "500000000000000000000000000",
       "decimals": 18,
+      "name": "ETERBASE",
       "symbol": "XBASE",
-      "name": "ETERBASE"
+      "totalSupply": "500000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

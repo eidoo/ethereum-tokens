@@ -2,12 +2,12 @@
   "1": {
     "0x77df79539083dcd4a8898dba296d899afef20067": {
       "address": "0x77df79539083dcd4a8898dba296d899afef20067",
-      "totalSupply": "4204800000000000000000000",
       "cryptoCompareSymbol": "ARTT",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "Artem",
       "symbol": "ARTT",
-      "name": "Artem"
+      "totalSupply": "4204800000000000000000000",
+      "useFakeCC": true
     }
   }
 }

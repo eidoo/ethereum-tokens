@@ -2,10 +2,11 @@
   "1": {
     "0x6fe355c62c6faf6946ce888ffaba9fd12355ae27": {
       "address": "0x6fe355c62c6faf6946ce888ffaba9fd12355ae27",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "HashBX",
       "symbol": "HBX",
-      "name": "HashBX"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

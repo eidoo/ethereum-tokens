@@ -2,10 +2,11 @@
   "1": {
     "0xf4e8D58b2d7dF2B33A1875e405858278B1Da6618": {
       "address": "0xf4e8D58b2d7dF2B33A1875e405858278B1Da6618",
-      "totalSupply": "1",
       "decimals": 18,
+      "name": "BLS Token",
       "symbol": "BLS",
-      "name": "BLS Token"
+      "totalSupply": "1",
+      "useFakeCC": true
     }
   }
 }

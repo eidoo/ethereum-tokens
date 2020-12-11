@@ -2,10 +2,11 @@
   "1": {
     "0x5c3a228510d246b78a3765c20221cbf3082b44a4": {
       "address": "0x5c3a228510d246b78a3765c20221cbf3082b44a4",
-      "totalSupply": "11287544271562580933661378000",
       "decimals": 18,
+      "name": "Storiqa",
       "symbol": "STQ",
-      "name": "Storiqa"
+      "totalSupply": "11287544271562580933661378000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x27f706edde3aD952EF647Dd67E24e38CD0803DD6": {
       "address": "0x27f706edde3aD952EF647Dd67E24e38CD0803DD6",
-      "totalSupply": "3965716097954617168886694",
       "decimals": 18,
+      "name": "Useless Token",
       "symbol": "UET",
-      "name": "Useless Token"
+      "totalSupply": "3965716097954617168886694",
+      "useFakeCC": true
     }
   }
 }

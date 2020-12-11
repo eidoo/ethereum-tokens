@@ -2,10 +2,11 @@
   "1": {
     "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5": {
       "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
-      "totalSupply": "2191205913210746",
       "decimals": 8,
+      "name": "Compound Ether",
       "symbol": "cETH",
-      "name": "Compound Ether"
+      "totalSupply": "2191205913210746",
+      "useFakeCC": true
     }
   }
 }

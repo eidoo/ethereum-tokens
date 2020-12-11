@@ -2,10 +2,11 @@
   "1": {
     "0xb9e7f8568e08d5659f5d29c4997173d84cdf2607": {
       "address": "0xb9e7f8568e08d5659f5d29c4997173d84cdf2607",
-      "totalSupply": "6.60494104612849200172293e+24",
       "decimals": 18,
+      "name": "Swarm City Token",
       "symbol": "SWT",
-      "name": "Swarm City Token"
+      "totalSupply": "6.60494104612849200172293e+24",
+      "useFakeCC": true
     }
   }
 }

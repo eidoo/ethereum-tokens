@@ -2,10 +2,11 @@
   "1": {
     "0x5e6016ae7d7c49d347dcf834860b9f3ee282812b": {
       "address": "0x5e6016ae7d7c49d347dcf834860b9f3ee282812b",
-      "totalSupply": "5000000000000000",
       "decimals": 8,
+      "name": "EZToken",
       "symbol": "EZT",
-      "name": "EZToken"
+      "totalSupply": "5000000000000000",
+      "useFakeCC": true
     }
   }
 }

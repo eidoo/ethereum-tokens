@@ -2,10 +2,11 @@
   "1": {
     "0x72adadb447784dd7ab1f472467750fc485e4cb2d": {
       "address": "0x72adadb447784dd7ab1f472467750fc485e4cb2d",
-      "totalSupply": "245209299000000",
       "decimals": 6,
+      "name": "Worldcore",
       "symbol": "WRC",
-      "name": "Worldcore"
+      "totalSupply": "245209299000000",
+      "useFakeCC": true
     }
   }
 }

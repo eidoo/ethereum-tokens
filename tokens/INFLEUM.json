@@ -2,10 +2,11 @@
   "1": {
     "0x5278852029f4fdf91eb2d40614ff49b4b4b7c765": {
       "address": "0x5278852029f4fdf91eb2d40614ff49b4b4b7c765",
-      "totalSupply": "300000000000000000",
       "decimals": 8,
+      "name": "INFLEUM Token",
       "symbol": "IFUM",
-      "name": "INFLEUM Token"
+      "totalSupply": "300000000000000000",
+      "useFakeCC": true
     }
   }
 }

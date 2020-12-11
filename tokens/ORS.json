@@ -2,12 +2,12 @@
   "1": {
     "0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA": {
       "address": "0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA",
-      "totalSupply": "833333333000000000000000000",
       "cryptoCompareSymbol": "ORS",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "ORS Token",
       "symbol": "ORS",
-      "name": "ORS Token"
+      "totalSupply": "833333333000000000000000000",
+      "useFakeCC": true
     }
   }
 }

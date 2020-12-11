@@ -2,10 +2,11 @@
   "1": {
     "0x493c57c4763932315a328269e1adad09653b9081": {
       "address": "0x493c57c4763932315a328269e1adad09653b9081",
-      "totalSupply": "681920142568200680449251",
       "decimals": 18,
+      "name": "Fulcrum DAI iToken",
       "symbol": "iDAI",
-      "name": "Fulcrum DAI iToken"
+      "totalSupply": "681920142568200680449251",
+      "useFakeCC": true
     }
   }
 }

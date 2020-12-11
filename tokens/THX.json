@@ -2,10 +2,11 @@
   "1": {
     "0xf08c68bd5f4194d994fd70726746bf529ee5a617": {
       "address": "0xf08c68bd5f4194d994fd70726746bf529ee5a617",
-      "totalSupply": "210000000",
       "decimals": 0,
+      "name": "ThoreNext",
       "symbol": "THX",
-      "name": "ThoreNext"
+      "totalSupply": "210000000",
+      "useFakeCC": true
     }
   }
 }

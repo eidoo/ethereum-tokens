@@ -2,10 +2,11 @@
   "1": {
     "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84": {
       "address": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
-      "totalSupply": "1405194293558300000000000",
       "decimals": 18,
+      "name": "Aave Interest bearing LINK",
       "symbol": "aLINK",
-      "name": "Aave Interest bearing LINK"
+      "totalSupply": "1405194293558300000000000",
+      "useFakeCC": true
     }
   }
 }

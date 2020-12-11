@@ -2,10 +2,11 @@
   "1": {
     "0x1dafde927870f6eece7d5d32b958b4a2fc89953b": {
       "address": "0x1dafde927870f6eece7d5d32b958b4a2fc89953b",
-      "totalSupply": "20000000000000000000000000",
       "decimals": 18,
+      "name": "Boston Trading Company",
       "symbol": "BOS",
-      "name": "Boston Trading Company"
+      "totalSupply": "20000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

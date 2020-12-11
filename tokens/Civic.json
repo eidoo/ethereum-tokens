@@ -2,10 +2,11 @@
   "1": {
     "0x41e5560054824ea6b0732e656e3ad64e20e94e45": {
       "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
-      "totalSupply": "100000000000000000",
       "decimals": 8,
+      "name": "Civic",
       "symbol": "CVC",
-      "name": "Civic"
+      "totalSupply": "100000000000000000",
+      "useFakeCC": true
     }
   }
 }

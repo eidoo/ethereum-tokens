@@ -2,10 +2,11 @@
   "1": {
     "0x3ec03cd2763a729339aff9927be679c76325d1bf": {
       "address": "0x3ec03cd2763a729339aff9927be679c76325d1bf",
-      "totalSupply": "240000000000000000000000000",
       "decimals": 18,
+      "name": "Flowing Hair",
       "symbol": "FGH",
-      "name": "Flowing Hair"
+      "totalSupply": "240000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

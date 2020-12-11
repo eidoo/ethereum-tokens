@@ -2,10 +2,11 @@
   "1": {
     "0x8e870d67f660d95d5be530380d0ec0bd388289e1": {
       "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
-      "totalSupply": "188531467880000000000000000",
       "decimals": 18,
+      "name": "Paxos Standard Token",
       "symbol": "PAX",
-      "name": "Paxos Standard Token"
+      "totalSupply": "188531467880000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x1500205f50bf3fd976466d0662905c9ff254fc9c": {
       "address": "0x1500205f50bf3fd976466d0662905c9ff254fc9c",
-      "totalSupply": "500000000000",
       "decimals": 4,
+      "name": "BitBoost",
       "symbol": "BBT",
-      "name": "BitBoost"
+      "totalSupply": "500000000000",
+      "useFakeCC": true
     }
   }
 }

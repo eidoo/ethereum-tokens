@@ -2,10 +2,11 @@
   "1": {
     "0x6be66252c14915e2a4f7e9621bc17365c4f35244": {
       "address": "0x6be66252c14915e2a4f7e9621bc17365c4f35244",
-      "totalSupply": "100000000000000000000000000",
       "decimals": 18,
+      "name": "ZelaaCoin",
       "symbol": "ZLC",
-      "name": "ZelaaCoin"
+      "totalSupply": "100000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0xb5A5F22694352C15B00323844aD545ABb2B11028": {
       "address": "0xb5A5F22694352C15B00323844aD545ABb2B11028",
-      "totalSupply": "400230000000000000000000000",
       "decimals": 18,
+      "name": "ICON",
       "symbol": "ICX",
-      "name": "ICON"
+      "totalSupply": "400230000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

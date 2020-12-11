@@ -2,12 +2,12 @@
   "1": {
     "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9": {
       "address": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
-      "totalSupply": "4979271051000000",
-      "cryptoCompareSymbol":"REV",
-      "useFakeCC": true,
+      "cryptoCompareSymbol": "REV",
       "decimals": 6,
+      "name": "Revain",
       "symbol": "REV",
-      "name": "Revain"
+      "totalSupply": "4979271051000000",
+      "useFakeCC": true
     }
   }
 }

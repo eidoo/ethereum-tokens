@@ -2,10 +2,11 @@
   "1": {
     "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
       "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "totalSupply": "56921107089",
       "decimals": 8,
+      "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "name": "Wrapped BTC"
+      "totalSupply": "56921107089",
+      "useFakeCC": true
     }
   }
 }

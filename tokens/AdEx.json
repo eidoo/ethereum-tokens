@@ -5,7 +5,8 @@
       "decimals": 4,
       "name": "AdEx",
       "symbol": "ADX",
-      "totalSupply": "0"
+      "totalSupply": "0",
+      "useFakeCC": true
     }
   }
 }

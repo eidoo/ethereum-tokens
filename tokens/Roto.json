@@ -2,10 +2,11 @@
   "1": {
     "0x0e3129b3fde4a458b7910a2602e92ac533b9400e": {
       "address": "0x0e3129b3fde4a458b7910a2602e92ac533b9400e",
-      "totalSupply": "21000000000000000000000000",
       "decimals": 18,
+      "name": "Roto",
       "symbol": "ROTO",
-      "name": "Roto"
+      "totalSupply": "21000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

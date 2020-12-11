@@ -2,10 +2,11 @@
   "1": {
     "0x8c9d3968c6d4ba87b343d8a949238375371c1e9b": {
       "address": "0x8c9d3968c6d4ba87b343d8a949238375371c1e9b",
-      "totalSupply": "50000000000000",
       "decimals": 6,
+      "name": "ExoMinium",
       "symbol": "EXO",
-      "name": "ExoMinium"
+      "totalSupply": "50000000000000",
+      "useFakeCC": true
     }
   }
 }
