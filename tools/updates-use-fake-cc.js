@@ -36,6 +36,6 @@ promisify(glob)(mask, null)
     )
   )
   .then(() => console.log('Finished!'))
-  .catch((err) => {
-    console.error(err)
+  .catch((_err) => {
+    console.error(_err)
   })
