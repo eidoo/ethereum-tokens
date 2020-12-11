@@ -7,6 +7,7 @@ const axios = require('axios')
 const set = require('lodash.set')
 const stringify = require('json-stable-stringify')
 const Web3 = require('web3')
+const promisify = require('./utils/promisfy')
 const toChecksumAddress = Web3.prototype.toChecksumAddress
 
 const argv = require('yargs')
@@ -14,18 +15,6 @@ const argv = require('yargs')
   .alias('t', 'target')
   .alias('v', 'verbose')
   .demandOption('target').argv
-
-const promisify = (fn) => (...args) =>
-  new Promise((resolve, reject) => {
-    try {
-      fn(...args, (err, res) => {
-        if (err) reject(err)
-        else resolve(res)
-      })
-    } catch (err) {
-      reject(err)
-    }
-  })
 
 const readFile = promisify(fs.readFile)
 
