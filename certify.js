@@ -6,7 +6,7 @@ const glob = require('glob')
 const axios = require('axios')
 const merge = require('lodash.merge')
 const set = require('lodash.set')
-const stringify = require('json-stable-stringify');
+const stringify = require('json-stable-stringify')
 const Web3 = require('web3')
 const toChecksumAddress = Web3.prototype.toChecksumAddress
 
@@ -14,61 +14,76 @@ const argv = require('yargs')
   .alias('h', 'help')
   .alias('t', 'target')
   .alias('v', 'verbose')
-  .demandOption('target')
-  .argv
+  .demandOption('target').argv
 
-const promisify = fn => (...args) => new Promise((resolve, reject) => {
-  try {
-   fn(...args, (err, res) => {
-      if (err) reject(err)
-      else resolve(res)
-    })
-  } catch (err) {
-    reject(err)
-  }
-})
+const promisify = (fn) => (...args) =>
+  new Promise((resolve, reject) => {
+    try {
+      fn(...args, (err, res) => {
+        if (err) reject(err)
+        else resolve(res)
+      })
+    } catch (err) {
+      reject(err)
+    }
+  })
 
 const readFile = promisify(fs.readFile)
 
 const base64Img = (address) =>
   readFile(path.join(__dirname, 'img', `${address}.svg`))
-  .catch(() => readFile(path.join(__dirname, 'img', `${toChecksumAddress(address)}.svg`)))
-  .then(svg => `data:image/svg+xml;base64,${svg.toString('base64')}`)
+    .catch(() =>
+      readFile(path.join(__dirname, 'img', `${toChecksumAddress(address)}.svg`))
+    )
+    .then((svg) => `data:image/svg+xml;base64,${svg.toString('base64')}`)
 
 const mapTokens = (tokens, cb) => {
   const res = []
-  Object.keys(tokens).forEach(netid =>
-    Object.keys(tokens[netid]).forEach(address => res.push(cb(tokens[netid][address], netid)))
+  Object.keys(tokens).forEach((netid) =>
+    Object.keys(tokens[netid]).forEach((address) =>
+      res.push(cb(tokens[netid][address], netid))
+    )
   )
   return res
 }
 
 const fetchCoinDataFromCryptoCompare = async () => {
   const response = await axios.get(
-    "https://min-api.cryptocompare.com/data/all/coinlist"
-  );
+    'https://min-api.cryptocompare.com/data/all/coinlist'
+  )
   const mapping = Object.values(response.data.Data).reduce(
     (acc, { SmartContractAddress: address, Symbol: symbol }) =>
       address ? { ...acc, [address.toLowerCase()]: symbol } : acc,
     {}
-  );
-  return mapping;
-};
+  )
+  return mapping
+}
 
-async function buildVerifiedTokensMap (mask) {
-    const verifiedTokens = {}
-    const files = await promisify(glob)(mask, null)
-    const addressSymbolMap = await fetchCoinDataFromCryptoCompare()
-    let allProcessedTokens = 0
-    let cryptoCompareCounter = 0
-    for (let filename of files) {
+async function buildVerifiedTokensMap(mask) {
+  const verifiedTokens = {}
+  const files = await promisify(glob)(mask, null)
+  const addressSymbolMap = await fetchCoinDataFromCryptoCompare()
+  let allProcessedTokens = 0
+  let cryptoCompareCounter = 0
+  for (let filename of files) {
     // await Promise.all(files.map(async filename => {
-      try {
-        const data = await readFile(filename)
-        const tokens = JSON.parse(data)
-        await Promise.all(mapTokens(tokens, async (token, netid) => {
-          if (!token.address || !token.name || !token.symbol || token.decimals == undefined || !token.totalSupply) {
-            console.error(`Skipping ${token.address} on file ${path.basename(filename)} for missing details`)
+    try {
+      const data = await readFile(filename)
+      const tokens = JSON.parse(data)
+      await Promise.all(
+        mapTokens(tokens, async (token, netid) => {
+          if (
+            !token.address ||
+            !token.name ||
+            !token.symbol ||
+            token.decimals == undefined ||
+            !token.totalSupply
+          ) {
+            console.error(
+              `Skipping ${token.address} on file ${path.basename(
+                filename
+              )} for missing details`
+            )
             return
           }
           token.address = token.address.toLowerCase()
@@ -78,15 +93,18 @@ async function buildVerifiedTokensMap (mask) {
             decimals: token.decimals,
             symbol: token.symbol,
             name: token.name,
-            verified: '0x01',   // TODO create signature
-            useFakeCC: token.useFakeCC
+            verified: '0x01', // TODO create signature
+            useFakeCC: token.useFakeCC,
           }
-          const cryptoCompareSymbol = token.cryptoCompareSymbol || addressSymbolMap[token.address]
+          const cryptoCompareSymbol =
+            token.cryptoCompareSymbol || addressSymbolMap[token.address]
           if (cryptoCompareSymbol) {
             tokenData.cryptoCompareSymbol = cryptoCompareSymbol
             cryptoCompareCounter++
             if (argv.verbose) {
-              console.log(`Added CryptoCompareSymbol to ${token.symbol}: ${cryptoCompareSymbol}`)
+              console.log(
+                `Added CryptoCompareSymbol to ${token.symbol}: ${cryptoCompareSymbol}`
+              )
             }
           }
           set(verifiedTokens, `${netid}.${token.address}`, tokenData)
@@ -102,19 +120,27 @@ async function buildVerifiedTokensMap (mask) {
           } catch (err) {
             console.error(`Missing logo for ${token.name} (${token.address})`)
           }
-        }))
-      } catch (err) {
-        console.error(`Error processing ${filename}`)
-        console.error(err)
-        process.exit(1)
-      }
+        })
+      )
+    } catch (err) {
+      console.error(`Error processing ${filename}`)
+      console.error(err)
+      process.exit(1)
     }
-    console.log(`CryptoCompareSymbol added to: ${cryptoCompareCounter}/${allProcessedTokens}`)
-    return verifiedTokens
+  }
+  console.log(
+    `CryptoCompareSymbol added to: ${cryptoCompareCounter}/${allProcessedTokens}`
+  )
+  return verifiedTokens
 }
 
 buildVerifiedTokensMap(path.resolve(__dirname, 'tokens', '*.json'))
-.then((verifiedTokens) => promisify(fs.writeFile)(argv.target, stringify(verifiedTokens, { space: 2 })))
-.catch(err => {
-  console.error(err)
-})
+  .then((verifiedTokens) =>
+    promisify(fs.writeFile)(
+      argv.target,
+      stringify(verifiedTokens, { space: 2 })
+    )
+  )
+  .catch((err) => {
+    console.error(err)
+  })
