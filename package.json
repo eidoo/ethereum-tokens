@@ -7,7 +7,9 @@
     "prepublish": "npm run compile",
     "compile": "[ ! -d dist ] && mkdir dist; ./certify.js -t dist/certified_tokens.json",
     "build": ":",
-    "format": "prettier --config ./.prettierrc --write  \"./**/*.js\""
+    "format": "prettier --config ./.prettierrc --write  \"./**/*.js\"",
+    "useFakeCC:true": "./tools/updates-use-fake-cc.js --useFakeCC true",
+    "useFakeCC:false": "./tools/updates-use-fake-cc.js --useFakeCC false"
   },
   "repository": {
     "type": "git",
