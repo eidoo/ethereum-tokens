@@ -5,11 +5,7 @@ const path = require('path')
 const glob = require('glob')
 const promisify = require('../utils/promisfy')
 const stringify = require('json-stable-stringify')
-const argv = require('yargs')
-  .alias('h', 'help')
-  .alias('t', 'target')
-  .alias('v', 'verbose')
-  .demandOption('useFakeCC').argv
+const argv = require('yargs').alias('h', 'help').demandOption('useFakeCC').argv
 const readFile = promisify(fs.readFile)
 
 const mask = path.resolve(__dirname, '../tokens', '*.json')
