@@ -4,7 +4,7 @@
       "address": "0x44744e3e608d1243f55008b328fe1b09bd42e4cc",
       "totalSupply": "500000000000000000000000000",
       "cryptoCompareSymbol":"TCJ",
-      "useFakeCC": true,
+      "useFakeCC": false,
       "decimals": 18,
       "symbol": "TCJ",
       "name": "Coinshare"

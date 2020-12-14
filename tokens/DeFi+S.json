@@ -4,7 +4,7 @@
       "address": "0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c",
       "totalSupply": "453777075879623000000000",
       "cryptoCompareSymbol": "DEFI+S",
-      "useFakeCC": true,
+      "useFakeCC": false,
       "decimals": 18,
       "symbol": "DEFI+S",
       "name": "PieDAO DEFI Small Cap"
