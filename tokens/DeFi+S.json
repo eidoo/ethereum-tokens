@@ -7,7 +7,7 @@
       "name": "PieDAO DEFI Small Cap",
       "symbol": "DEFI+S",
       "totalSupply": "453777075879623000000000",
-      "useFakeCC": true
+      "useFakeCC": false
     }
   }
 }

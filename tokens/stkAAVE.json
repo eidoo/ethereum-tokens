@@ -7,7 +7,7 @@
       "name": "Staked Aave",
       "symbol": "stkAAVE",
       "totalSupply": "2927629307330412991900368",
-      "useFakeCC": true
+      "useFakeCC": false
     }
   }
 }

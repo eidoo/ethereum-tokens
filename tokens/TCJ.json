@@ -7,7 +7,7 @@
       "name": "Coinshare",
       "symbol": "TCJ",
       "totalSupply": "500000000000000000000000000",
-      "useFakeCC": true
+      "useFakeCC": false
     }
   }
 }
