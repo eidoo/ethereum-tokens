@@ -2491,15 +2491,6 @@
       "useFakeCC": true,
       "verified": "0x01"
     },
-    "0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec": {
-      "address": "0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec",
-      "decimals": 18,
-      "name": "Lympo token OLD",
-      "symbol": "OLD LYM",
-      "totalSupply": "1000000000000000000000000000",
-      "useFakeCC": true,
-      "verified": "0x01"
-    },
     "0x588047365df5ba589f923604aac23d673555c623": {
       "address": "0x588047365df5ba589f923604aac23d673555c623",
       "decimals": 18,
@@ -4156,15 +4147,6 @@
       "useFakeCC": true,
       "verified": "0x01"
     },
-    "0x9a00d6564945681018619fc8957c798c2bc7c9fc": {
-      "address": "0x9a00d6564945681018619fc8957c798c2bc7c9fc",
-      "decimals": 1,
-      "name": "Helex Test Token",
-      "symbol": "HLX",
-      "totalSupply": "50000000",
-      "useFakeCC": true,
-      "verified": "0x01"
-    },
     "0x9a0b6b4fd86d62d8d74b28688a719e8439bb3313": {
       "address": "0x9a0b6b4fd86d62d8d74b28688a719e8439bb3313",
       "decimals": 18,
@@ -4881,15 +4863,6 @@
       "name": "Binance",
       "symbol": "BNB",
       "totalSupply": "197192382000000000000000000 ",
-      "useFakeCC": true,
-      "verified": "0x01"
-    },
-    "0xb8ce3982d9b6757e27527f1f9b79ed5c299fe639": {
-      "address": "0xb8ce3982d9b6757e27527f1f9b79ed5c299fe639",
-      "decimals": 18,
-      "name": "CYBR Token-OLD",
-      "symbol": " CYBR-OLD",
-      "totalSupply": "1000000000000000000000000000",
       "useFakeCC": true,
       "verified": "0x01"
     },
@@ -6020,15 +5993,6 @@
       "name": "Hyperion Token",
       "symbol": "HYN",
       "totalSupply": "10000000000000000000000000000",
-      "useFakeCC": true,
-      "verified": "0x01"
-    },
-    "0xe9a9d1101204b51e8620a28e471f44bb8775e50d": {
-      "address": "0xe9a9d1101204b51e8620a28e471f44bb8775e50d",
-      "decimals": 8,
-      "name": "SWTCoin OLD",
-      "symbol": "SWAT OLD",
-      "totalSupply": "29000000000000000",
       "useFakeCC": true,
       "verified": "0x01"
     },
