@@ -2,10 +2,11 @@
   "1": {
     "0x4e15361fd6b4bb609fa63c81a2be19d873717870": {
       "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
-      "totalSupply": "1987133655189934657006349375",
       "decimals": 18,
+      "name": "Fantom Token",
       "symbol": "FTM",
-      "name": "Fantom Token"
+      "totalSupply": "1987133655189934657006349375",
+      "useFakeCC": true
     }
   }
 }

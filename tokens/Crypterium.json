@@ -2,10 +2,11 @@
   "1": {
     "0x80a7e048f37a50500351c204cb407766fa3bae7f": {
       "address": "0x80a7e048f37a50500351c204cb407766fa3bae7f",
-      "totalSupply": "99983577142857219178956725",
       "decimals": 18,
+      "name": "Crypterium",
       "symbol": "CRPT",
-      "name": "Crypterium"
+      "totalSupply": "99983577142857219178956725",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0xfbe0e9846bd736b84a0a973322ad2a1fc8d7e5ca": {
       "address": "0xfbe0e9846bd736b84a0a973322ad2a1fc8d7e5ca",
-      "totalSupply": "73500000",
       "decimals": 0,
+      "name": "Fuck Trump Coin",
       "symbol": "FTC",
-      "name": "Fuck Trump Coin"
+      "totalSupply": "73500000",
+      "useFakeCC": true
     }
   }
 }

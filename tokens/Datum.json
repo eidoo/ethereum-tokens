@@ -2,10 +2,11 @@
   "1": {
     "0x81c9151de0C8bafCd325a57E3dB5a5dF1CEBf79c": {
       "address": "0x81c9151de0C8bafCd325a57E3dB5a5dF1CEBf79c",
-      "totalSupply": "2653841597",
       "decimals": 18,
+      "name": "Datum",
       "symbol": "DAT",
-      "name": "Datum"
+      "totalSupply": "2653841597",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x94d787cac6bfc4ec509a0f34aa7bc2fb68848c5e": {
       "address": "0x94d787cac6bfc4ec509a0f34aa7bc2fb68848c5e",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "ZeroPlastic",
       "symbol": "ZPC",
-      "name": "ZeroPlastic"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

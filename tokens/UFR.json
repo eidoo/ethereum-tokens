@@ -2,12 +2,12 @@
   "1": {
     "0xea097a2b1db00627b2fa17460ad260c016016977": {
       "address": "0xea097a2b1db00627b2fa17460ad260c016016977",
-      "totalSupply": "815000000138288041404396357",
       "cryptoCompareSymbol": "UFR",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "Upfiring",
       "symbol": "UFR",
-      "name": "Upfiring"
+      "totalSupply": "815000000138288041404396357",
+      "useFakeCC": true
     }
   }
 }

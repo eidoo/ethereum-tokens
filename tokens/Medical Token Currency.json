@@ -2,10 +2,11 @@
   "1": {
     "0x905E337c6c8645263D3521205Aa37bf4d034e745": {
       "address": "0x905E337c6c8645263D3521205Aa37bf4d034e745",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "Medical Token Currency",
       "symbol": "MTC",
-      "name": "Medical Token Currency"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

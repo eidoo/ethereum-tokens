@@ -2,10 +2,11 @@
   "1": {
     "0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433": {
       "address": "0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433",
-      "totalSupply": "10000000000000000000000000000",
       "decimals": 18,
+      "name": "Storm",
       "symbol": "STORM",
-      "name": "Storm"
+      "totalSupply": "10000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

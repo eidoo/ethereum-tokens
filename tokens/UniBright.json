@@ -2,10 +2,11 @@
   "1": {
     "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e": {
       "address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
-      "totalSupply": "15000000000000000",
       "decimals": 8,
+      "name": "UniBright",
       "symbol": "UBT",
-      "name": "UniBright"
+      "totalSupply": "15000000000000000",
+      "useFakeCC": true
     }
   }
 }

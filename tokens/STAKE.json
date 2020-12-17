@@ -2,12 +2,12 @@
   "1": {
     "0x0ae055097c6d159879521c384f1d2123d1f195e6": {
       "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
-      "totalSupply": "8545349192138415516708143",
       "cryptoCompareSymbol": "STAKE",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "STAKE Token",
       "symbol": "STAKE",
-      "name": "STAKE Token"
+      "totalSupply": "8545349192138415516708143",
+      "useFakeCC": true
     }
   }
 }

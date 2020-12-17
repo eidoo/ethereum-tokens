@@ -2,10 +2,11 @@
   "1": {
     "0x14094949152eddbfcd073717200da82fed8dc960": {
       "address": "0x14094949152eddbfcd073717200da82fed8dc960",
-      "totalSupply": "224602601361976328701480",
       "decimals": 18,
+      "name": "Fulcrum SAI iToken",
       "symbol": "iSAI",
-      "name": "Fulcrum SAI iToken"
+      "totalSupply": "224602601361976328701480",
+      "useFakeCC": true
     }
   }
 }

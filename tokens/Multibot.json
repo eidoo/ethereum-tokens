@@ -2,10 +2,11 @@
   "1": {
     "0x33493d18bac3649f00163d3f0e1e2d374a7dd4c6": {
       "address": "0x33493d18bac3649f00163d3f0e1e2d374a7dd4c6",
-      "totalSupply": "76018100000000",
       "decimals": 8,
+      "name": "Multibot",
       "symbol": "MBT",
-      "name": "Multibot"
+      "totalSupply": "76018100000000",
+      "useFakeCC": true
     }
   }
 }

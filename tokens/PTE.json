@@ -2,12 +2,12 @@
   "1": {
     "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b": {
       "address": "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b",
-      "totalSupply": "7200000000000000000000000",
-      "decimals": 18,
-      "useFakeCC": true,
       "cryptoCompareSymbol": "PTERIA",
+      "decimals": 18,
+      "name": "Pteria",
       "symbol": "PTERIA",
-      "name": "Pteria"
+      "totalSupply": "7200000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

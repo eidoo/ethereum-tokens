@@ -2,10 +2,11 @@
   "1": {
     "0xbe428c3867f05dea2a89fc76a102b544eac7f772": {
       "address": "0xbe428c3867f05dea2a89fc76a102b544eac7f772",
-      "totalSupply": "2147483648000000000000000000",
       "decimals": 18,
+      "name": "CyberVeinToken",
       "symbol": "CVT",
-      "name": "CyberVeinToken"
+      "totalSupply": "2147483648000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0xd780Ae2Bf04cD96E577D3D014762f831d97129d0": {
       "address": "0xd780Ae2Bf04cD96E577D3D014762f831d97129d0",
-      "totalSupply": "127618703",
       "decimals": 18,
+      "name": "Envion",
       "symbol": "EVN",
-      "name": "Envion"
+      "totalSupply": "127618703",
+      "useFakeCC": true
     }
   }
 }

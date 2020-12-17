@@ -2,12 +2,12 @@
   "1": {
     "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42": {
       "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
-      "totalSupply": "50520336974437776605230057",
-      "cryptoCompareSymbol":"MCB",
-      "useFakeCC": true,
+      "cryptoCompareSymbol": "MCB",
       "decimals": 18,
+      "name": "MCDex",
       "symbol": "MCB",
-      "name": "MCDex"
+      "totalSupply": "50520336974437776605230057",
+      "useFakeCC": true
     }
   }
 }

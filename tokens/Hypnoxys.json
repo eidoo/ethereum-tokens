@@ -2,10 +2,11 @@
   "1": {
     "0xd35833f9255fb28cc6b91acb8a66ba6429d6ef5a": {
       "address": "0xd35833f9255fb28cc6b91acb8a66ba6429d6ef5a",
-      "totalSupply": "42500000000000000000000000000",
       "decimals": 18,
+      "name": "Hypnoxys",
       "symbol": "HYPX",
-      "name": "Hypnoxys"
+      "totalSupply": "42500000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

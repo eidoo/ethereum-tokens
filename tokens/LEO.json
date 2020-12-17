@@ -2,11 +2,12 @@
   "1": {
     "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3": {
       "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
-      "totalSupply": "659999999000000000000000000",
-      "decimals": 18,
       "cryptoCompareSymbol": "LEO",
+      "decimals": 18,
+      "name": "Bitfinex LEO Token",
       "symbol": "LEO",
-      "name": "Bitfinex LEO Token"
+      "totalSupply": "659999999000000000000000000",
+      "useFakeCC": true
     }
   }
 }

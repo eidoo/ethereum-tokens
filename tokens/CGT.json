@@ -2,12 +2,12 @@
   "1": {
     "0xf5238462e7235c7b62811567e63dd17d12c2eaa0": {
       "address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
-      "totalSupply": "813352578600000000",
-      "cryptoCompareSymbol":"CGT",
-      "useFakeCC": true,
+      "cryptoCompareSymbol": "CGT",
       "decimals": 8,
+      "name": "CACHE Gold",
       "symbol": "CGT",
-      "name": "CACHE Gold"
+      "totalSupply": "813352578600000000",
+      "useFakeCC": true
     }
   }
 }

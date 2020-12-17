@@ -2,10 +2,11 @@
   "1": {
     "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374": {
       "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
-      "totalSupply": "100000000000000000000000000",
       "decimals": 18,
+      "name": "Veritaseum",
       "symbol": "VERI",
-      "name": "Veritaseum"
+      "totalSupply": "100000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

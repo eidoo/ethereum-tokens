@@ -2,12 +2,12 @@
   "1": {
     "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": {
       "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
-      "totalSupply": "1374813985163099033593173637",
       "cryptoCompareSymbol": "LRC",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "Loopring V2",
       "symbol": "LRC",
-      "name": "Loopring V2"
+      "totalSupply": "1374813985163099033593173637",
+      "useFakeCC": true
     }
   }
 }

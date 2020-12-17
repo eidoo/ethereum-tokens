@@ -2,12 +2,12 @@
   "1": {
     "0x5228a22e72ccc52d415ecfd199f99d0665e7733b": {
       "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
-      "totalSupply": "710896440000000000",
-      "decimals": 18,
       "cryptoCompareSymbol": "BTC",
-      "useFakeCC": true,
+      "decimals": 18,
+      "name": "pTokens BTC",
       "symbol": "pBTC",
-      "name": "pTokens BTC"
+      "totalSupply": "710896440000000000",
+      "useFakeCC": true
     }
   }
 }

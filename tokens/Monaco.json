@@ -2,10 +2,11 @@
   "1": {
     "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d": {
       "address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
-      "totalSupply": "3158768236320610",
       "decimals": 8,
+      "name": "Monaco",
       "symbol": "MCO",
-      "name": "Monaco"
+      "totalSupply": "3158768236320610",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3": {
       "address": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3",
-      "totalSupply": "15181707013085449769117250",
       "decimals": 18,
+      "name": "Arcona Distribution Contract",
       "symbol": "ARCONA",
-      "name": "Arcona Distribution Contract"
+      "totalSupply": "15181707013085449769117250",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x010589b7c33034b802f7dba2c88cc9cec0f46673": {
       "address": "0x010589b7c33034b802f7dba2c88cc9cec0f46673",
-      "totalSupply": "122435700000",
       "decimals": 8,
+      "name": "SoundMoneyCoin",
       "symbol": "SOV",
-      "name": "SoundMoneyCoin"
+      "totalSupply": "122435700000",
+      "useFakeCC": true
     }
   }
 }

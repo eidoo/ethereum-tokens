@@ -2,10 +2,11 @@
   "1": {
     "0x4DF812F6064def1e5e029f1ca858777CC98D2D81": {
       "address": "0x4df812f6064def1e5e029f1ca858777cc98d2d81",
-      "totalSupply": "11370445569934608",
       "decimals": 8,
+      "name": "Xaurum",
       "symbol": "XAUR",
-      "name": "Xaurum"
+      "totalSupply": "11370445569934608",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0xe430dce57cb6e3afc6216c710870bed0680d018a": {
       "address": "0xe430dce57cb6e3afc6216c710870bed0680d018a",
-      "totalSupply": "1274240097000000000000000000",
       "decimals": 18,
+      "name": "Golix Token",
       "symbol": "GLX",
-      "name": "Golix Token"
+      "totalSupply": "1274240097000000000000000000",
+      "useFakeCC": true
     }
   }
 }

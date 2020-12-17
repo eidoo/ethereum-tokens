@@ -2,12 +2,12 @@
   "1": {
     "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55": {
       "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
-      "totalSupply": "100000000000000000000000000",
       "cryptoCompareSymbol": "BAND",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "BandToken",
       "symbol": "BAND",
-      "name": "BandToken"
+      "totalSupply": "100000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

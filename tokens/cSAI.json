@@ -2,10 +2,11 @@
   "1": {
     "0xf5dce57282a584d2746faf1593d3121fcac444dc": {
       "address": "0xf5dce57282a584d2746faf1593d3121fcac444dc",
-      "totalSupply": "50000000000000000",
       "decimals": 8,
+      "name": "Compound Sai",
       "symbol": "cSAI",
-      "name": "Compound Sai"
+      "totalSupply": "50000000000000000",
+      "useFakeCC": true
     }
   }
 }

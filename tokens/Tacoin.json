@@ -2,10 +2,11 @@
   "1": {
     "0x0353837b32aa01d335becedc57a329b8ce0619a7": {
       "address": "0x0353837b32aa01d335becedc57a329b8ce0619a7",
-      "totalSupply": "10000000000000000000000000",
       "decimals": 18,
+      "name": "Tacoin",
       "symbol": "TACO",
-      "name": "Tacoin"
+      "totalSupply": "10000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

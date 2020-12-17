@@ -1,11 +1,12 @@
 {
-    "1": {
-      "0x749f35Ff65932E68267dd82F6CD85eeA735d700E": {
-        "address": "0x749f35Ff65932E68267dd82F6CD85eeA735d700E",
-        "totalSupply": "4000000000000000000000000000",
-        "decimals": 18,
-        "symbol": "CCL",
-        "name": "CyClean Token"
-      }
+  "1": {
+    "0x749f35Ff65932E68267dd82F6CD85eeA735d700E": {
+      "address": "0x749f35Ff65932E68267dd82F6CD85eeA735d700E",
+      "decimals": 18,
+      "name": "CyClean Token",
+      "symbol": "CCL",
+      "totalSupply": "4000000000000000000000000000",
+      "useFakeCC": true
     }
   }
+}

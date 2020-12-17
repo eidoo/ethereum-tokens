@@ -2,10 +2,11 @@
   "1": {
     "0xbfe03707adb75b478add9a01978057803f480e44": {
       "address": "0xbfe03707adb75b478add9a01978057803f480e44",
-      "totalSupply": "99999999900000000",
       "decimals": 8,
+      "name": "IMSMART Token",
       "symbol": "IMT",
-      "name": "IMSMART Token"
+      "totalSupply": "99999999900000000",
+      "useFakeCC": true
     }
   }
 }

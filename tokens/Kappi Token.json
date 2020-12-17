@@ -2,10 +2,11 @@
   "1": {
     "0xf39f19565b8d937ec30f1db5bd42f558d1e312a6": {
       "address": "0xf39f19565b8d937ec30f1db5bd42f558d1e312a6",
-      "totalSupply": "10000000000000000000000000000",
       "decimals": 18,
+      "name": "Kappi Token",
       "symbol": "KAPP",
-      "name": "Kappi Token"
+      "totalSupply": "10000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

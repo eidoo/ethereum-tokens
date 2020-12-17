@@ -2,10 +2,11 @@
   "1": {
     "0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2": {
       "address": "0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2",
-      "totalSupply": "167270820687908580232679286",
       "decimals": 18,
+      "name": "Dao.Casino",
       "symbol": "BET",
-      "name": "Dao.Casino"
+      "totalSupply": "167270820687908580232679286",
+      "useFakeCC": true
     }
   }
 }

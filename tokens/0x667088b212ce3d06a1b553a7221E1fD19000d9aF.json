@@ -2,10 +2,11 @@
   "1": {
     "0x667088b212ce3d06a1b553a7221E1fD19000d9aF": {
       "address": "0x667088b212ce3d06a1b553a7221e1fd19000d9af",
-      "totalSupply": "1e+26",
       "decimals": 18,
+      "name": "WINGS",
       "symbol": "WINGS",
-      "name": "WINGS"
+      "totalSupply": "1e+26",
+      "useFakeCC": true
     }
   }
 }

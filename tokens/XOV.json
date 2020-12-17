@@ -2,10 +2,11 @@
   "1": {
     "0x153ed9cc1b792979d2bde0bbf45cc2a7e436a5f9": {
       "address": "0x153ed9cc1b792979d2bde0bbf45cc2a7e436a5f9",
-      "totalSupply": "70000000000000000000000000",
       "decimals": 18,
+      "name": "XOVBank",
       "symbol": "XOV",
-      "name": "XOVBank"
+      "totalSupply": "70000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

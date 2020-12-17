@@ -2,10 +2,11 @@
   "1": {
     "0x66eb65d7ab8e9567ba0fa6e37c305956c5341574": {
       "address": "0x66eb65d7ab8e9567ba0fa6e37c305956c5341574",
-      "totalSupply": "2100000000000",
       "decimals": 5,
+      "name": "Helex",
       "symbol": "HLX",
-      "name": "Helex"
+      "totalSupply": "2100000000000",
+      "useFakeCC": true
     }
   }
 }

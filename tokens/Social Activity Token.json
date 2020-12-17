@@ -2,10 +2,11 @@
   "1": {
     "0xc56b13ebbcffa67cfb7979b900b736b3fb480d78": {
       "address": "0xc56b13ebbcffa67cfb7979b900b736b3fb480d78",
-      "totalSupply": "47076346717520902",
       "decimals": 8,
+      "name": "Social Activity Token",
       "symbol": "SAT",
-      "name": "Social Activity Token"
+      "totalSupply": "47076346717520902",
+      "useFakeCC": true
     }
   }
 }

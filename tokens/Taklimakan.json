@@ -2,10 +2,11 @@
   "1": {
     "0x2c36204a0712a2a50e54a62f7c4f01867e78cb53": {
       "address": "0x2c36204a0712a2a50e54a62f7c4f01867e78cb53",
-      "totalSupply": "786770411000000000000000000",
       "decimals": 18,
+      "name": "Taklimakan",
       "symbol": "TAN",
-      "name": "Taklimakan"
+      "totalSupply": "786770411000000000000000000",
+      "useFakeCC": true
     }
   }
 }

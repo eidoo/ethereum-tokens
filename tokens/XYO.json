@@ -2,10 +2,11 @@
   "1": {
     "0x55296f69f40ea6d20e478533c15a6b08b654e758": {
       "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
-      "totalSupply": "13960974963000000000000000000",
       "decimals": 18,
+      "name": "XY Oracle",
       "symbol": "XYO",
-      "name": "XY Oracle"
+      "totalSupply": "13960974963000000000000000000",
+      "useFakeCC": true
     }
   }
 }

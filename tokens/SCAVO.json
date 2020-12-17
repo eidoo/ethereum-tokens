@@ -2,10 +2,11 @@
   "1": {
     "0xA62cE5F4175bA550440171ef809197eE21002D64": {
       "address": "0xA62cE5F4175bA550440171ef809197eE21002D64",
-      "totalSupply": "100000000000000000000000000",
       "decimals": 18,
+      "name": "SCAVO Token",
       "symbol": "SCAVO",
-      "name": "SCAVO Token"
+      "totalSupply": "100000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

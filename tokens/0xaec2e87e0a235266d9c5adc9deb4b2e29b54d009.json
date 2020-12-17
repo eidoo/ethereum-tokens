@@ -2,10 +2,11 @@
   "1": {
     "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009": {
       "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
-      "totalSupply": "1000000000",
       "decimals": 0,
+      "name": "SingularDTV",
       "symbol": "SNGLS",
-      "name": "SingularDTV"
+      "totalSupply": "1000000000",
+      "useFakeCC": true
     }
   }
 }

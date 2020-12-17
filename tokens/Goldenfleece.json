@@ -2,10 +2,11 @@
   "1": {
     "0x26607f9bf9d62a37b0c78e1d3719fcd1fa32bef9": {
       "address": "0x26607f9bf9d62a37b0c78e1d3719fcd1fa32bef9",
-      "totalSupply": "500000000000000000000000000",
       "decimals": 18,
+      "name": "Golden Fleece",
       "symbol": "GFL",
-      "name": "Golden Fleece"
+      "totalSupply": "500000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

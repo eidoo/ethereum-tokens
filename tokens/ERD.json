@@ -2,12 +2,12 @@
   "1": {
     "0xf9986d445ced31882377b5d6a5f58eaea72288c3": {
       "address": "0xf9986d445ced31882377b5d6a5f58eaea72288c3",
-      "totalSupply": "7000000000000000000000000000",
-      "cryptoCompareSymbol":"ERD",
-      "useFakeCC": true,
+      "cryptoCompareSymbol": "ERD",
       "decimals": 18,
+      "name": "Elrond",
       "symbol": "ERD",
-      "name": "Elrond"
+      "totalSupply": "7000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

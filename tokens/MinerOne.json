@@ -2,10 +2,11 @@
   "1": {
     "0x141044ccc363d6e8d92dd8983422775913e304ec": {
       "address": "0x141044ccc363d6e8d92dd8983422775913e304ec",
-      "totalSupply": "16734685053123935481034875",
       "decimals": 18,
+      "name": "MinerOne",
       "symbol": "MIO",
-      "name": "MinerOne"
+      "totalSupply": "16734685053123935481034875",
+      "useFakeCC": true
     }
   }
 }

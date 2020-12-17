@@ -2,10 +2,11 @@
   "1": {
     "0x9a0b6b4fd86d62d8d74b28688a719e8439bb3313": {
       "address": "0x9a0b6b4fd86d62d8d74b28688a719e8439bb3313",
-      "totalSupply": "5000000000000000000000000",
       "decimals": 18,
+      "name": "LEO IOU",
       "symbol": "LEOIOU",
-      "name": "LEO IOU"
+      "totalSupply": "5000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

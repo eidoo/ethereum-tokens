@@ -2,10 +2,11 @@
   "1": {
     "0x9f452e458b024e82d6e3ff50a07b8de74c988523": {
       "address": "0x9f452e458b024e82d6e3ff50a07b8de74c988523",
-      "totalSupply": "450000000000000000000000000",
       "decimals": 18,
+      "name": "GoatCash",
       "symbol": "GOAT",
-      "name": "GoatCash"
+      "totalSupply": "450000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

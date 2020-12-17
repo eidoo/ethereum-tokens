@@ -2,10 +2,11 @@
   "1": {
     "0x8d9626315e8025b81c3bdb926db4c51dde237f52": {
       "address": "0x8d9626315e8025b81c3bdb926db4c51dde237f52",
-      "totalSupply": "50000000000000000000000000",
       "decimals": 18,
+      "name": "PLAAS",
       "symbol": "PLS",
-      "name": "PLAAS"
+      "totalSupply": "50000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

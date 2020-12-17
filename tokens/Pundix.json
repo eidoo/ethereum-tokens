@@ -2,10 +2,11 @@
   "1": {
     "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3": {
       "address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
-      "totalSupply": "280755194999999996455928087001",
       "decimals": 18,
+      "name": "Pundi X Token",
       "symbol": "NPXS",
-      "name": "Pundi X Token"
+      "totalSupply": "280755194999999996455928087001",
+      "useFakeCC": true
     }
   }
 }

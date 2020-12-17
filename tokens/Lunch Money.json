@@ -2,10 +2,11 @@
   "1": {
     "0x66fd97a78d8854fec445cd1c80a07896b0b4851f": {
       "address": "0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
-      "totalSupply": "250000000000000000000000000",
       "decimals": 18,
+      "name": "Lunch Money",
       "symbol": "LMY",
-      "name": "Lunch Money"
+      "totalSupply": "250000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x86d5b3b108dbc56e9e5ea7d5c56a3e32ccadac35": {
       "address": "0x86d5b3b108dbc56e9e5ea7d5c56a3e32ccadac35",
-      "totalSupply": "35000000000000000000000000000",
       "decimals": 18,
+      "name": " AgaveCoin",
       "symbol": "AGVC",
-      "name": " AgaveCoin"
+      "totalSupply": "35000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f": {
       "address": "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f",
-      "totalSupply": "130271020035721000000000000",
       "decimals": 18,
+      "name": "Delta",
       "symbol": "DLT",
-      "name": "Delta"
+      "totalSupply": "130271020035721000000000000",
+      "useFakeCC": true
     }
   }
 }

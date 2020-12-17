@@ -2,10 +2,11 @@
   "1": {
     "0x83984d6142934bb535793a82adb0a46ef0f66b6d": {
       "address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
-      "totalSupply": "10000000000000",
       "decimals": 4,
+      "name": "REMME",
       "symbol": "REM",
-      "name": "REMME"
+      "totalSupply": "10000000000000",
+      "useFakeCC": true
     }
   }
 }

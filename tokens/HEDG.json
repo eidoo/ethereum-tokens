@@ -2,12 +2,12 @@
   "1": {
     "0xf1290473e210b2108a85237fbcd7b6eb42cc654f": {
       "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
-      "totalSupply": "1000000000000000000000000000",
       "cryptoCompareSymbol": "HEDG",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "HedgeTrade Token",
       "symbol": "HEDG",
-      "name": "HedgeTrade Token"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

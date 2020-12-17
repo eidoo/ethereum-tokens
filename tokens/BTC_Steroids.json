@@ -2,11 +2,11 @@
   "1": {
     "0x7c43ea3bb6921e9b1ac53ba06f196efd296b3fa8": {
       "address": "0x7c43ea3bb6921e9b1ac53ba06f196efd296b3fa8",
-      "totalSupply": "0",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "BTC on Steroids Token",
       "symbol": "Steroids",
-      "name": "BTC on Steroids Token"
+      "totalSupply": "0",
+      "useFakeCC": true
     }
   }
 }

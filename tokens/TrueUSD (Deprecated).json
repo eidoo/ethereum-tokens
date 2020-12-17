@@ -2,10 +2,11 @@
   "1": {
     "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e": {
       "address": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
-      "totalSupply": "204001975470000000000000000",
       "decimals": 18,
+      "name": "TrueUSD (Deprecated)",
       "symbol": "TUSD",
-      "name": "TrueUSD (Deprecated)"
+      "totalSupply": "204001975470000000000000000",
+      "useFakeCC": true
     }
   }
 }

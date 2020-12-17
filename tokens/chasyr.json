@@ -2,10 +2,11 @@
   "1": {
     "0x957a688d23a00f196b2da8e2531702c67de167cf": {
       "address": "0x957a688d23a00f196b2da8e2531702c67de167cf",
-      "totalSupply": "100000000000000000000000000",
       "decimals": 18,
+      "name": "CHASYR",
       "symbol": "MPH",
-      "name": "CHASYR"
+      "totalSupply": "100000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

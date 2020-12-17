@@ -2,10 +2,11 @@
   "1": {
     "0x365fcd974f79cb0e2d9c6f0e37104a009172d3a7": {
       "address": "0x365fcd974f79cb0e2d9c6f0e37104a009172d3a7",
-      "totalSupply": "22800000000000000",
       "decimals": 8,
+      "name": "Owlstand",
       "symbol": "OWD",
-      "name": "Owlstand"
+      "totalSupply": "22800000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x625ae63000f46200499120b906716420bd059240": {
       "address": "0x625ae63000f46200499120b906716420bd059240",
-      "totalSupply": "110933330598699000000000",
       "decimals": 18,
+      "name": "Aave Interest bearing SUSD",
       "symbol": "aSUSD",
-      "name": "Aave Interest bearing SUSD"
+      "totalSupply": "110933330598699000000000",
+      "useFakeCC": true
     }
   }
 }

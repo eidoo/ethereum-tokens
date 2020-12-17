@@ -2,12 +2,12 @@
   "1": {
     "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99": {
       "address": "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
-      "totalSupply": "138888888888000000000000000000",
       "cryptoCompareSymbol": "AZ",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "Azbit",
       "symbol": "AZ",
-      "name": "Azbit"
+      "totalSupply": "138888888888000000000000000000",
+      "useFakeCC": true
     }
   }
 }

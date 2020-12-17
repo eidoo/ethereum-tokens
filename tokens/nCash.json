@@ -2,10 +2,11 @@
   "1": {
     "0x809826cceAb68c387726af962713b64Cb5Cb3CCA": {
       "address": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
-      "totalSupply": "10000000000000000000000000000",
       "decimals": 18,
+      "name": "NucleusVision",
       "symbol": "nCash",
-      "name": "NucleusVision"
+      "totalSupply": "10000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

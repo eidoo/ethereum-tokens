@@ -2,10 +2,11 @@
   "1": {
     "0xa7eb2bc82df18013ecc2a6c533fc29446442edee": {
       "address": "0xa7eb2bc82df18013ecc2a6c533fc29446442edee",
-      "totalSupply": "5325367386145868336456",
       "decimals": 18,
+      "name": "Fulcrum ZRX iToken",
       "symbol": "iZRX",
-      "name": "Fulcrum ZRX iToken"
+      "totalSupply": "5325367386145868336456",
+      "useFakeCC": true
     }
   }
 }

@@ -2,11 +2,11 @@
   "1": {
     "0x6a9b3e36436b7abde8c4e2e2a98ea40455e615cf": {
       "address": "0x6a9b3e36436b7abde8c4e2e2a98ea40455e615cf",
-      "totalSupply": "26997300000000000000000",
-      "decimals": 18,
       "cryptoCompareSymbol": "EKG",
-      "symbol": "EKG",
+      "decimals": 18,
       "name": "Ekon Gold",
+      "symbol": "EKG",
+      "totalSupply": "26997300000000000000000",
       "useFakeCC": true
     }
   }

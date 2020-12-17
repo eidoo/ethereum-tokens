@@ -2,10 +2,11 @@
   "1": {
     "0xcfd6ae8bf13f42de14867351eaff7a8a3b9fbbe7": {
       "address": "0xcfd6ae8bf13f42de14867351eaff7a8a3b9fbbe7",
-      "totalSupply": "2000000000000000",
       "decimals": 8,
+      "name": "SINERGIA Token",
       "symbol": "SNG",
-      "name": "SINERGIA Token"
+      "totalSupply": "2000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x744d70fdbe2ba4cf95131626614a1763df805b9e": {
       "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
-      "totalSupply": "6804870174878168246198837603",
       "decimals": 18,
+      "name": "StatusNetwork",
       "symbol": "SNT",
-      "name": "StatusNetwork"
+      "totalSupply": "6804870174878168246198837603",
+      "useFakeCC": true
     }
   }
 }

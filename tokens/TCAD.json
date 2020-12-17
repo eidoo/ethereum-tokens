@@ -2,10 +2,11 @@
   "1": {
     "0x00000100F2A2bd000715001920eB70D229700085": {
       "address": "0x00000100F2A2bd000715001920eB70D229700085",
-      "totalSupply": "11686620000000000000000",
       "decimals": 18,
+      "name": "TrueCAD",
       "symbol": "TCAD",
-      "name": "TrueCAD"
+      "totalSupply": "11686620000000000000000",
+      "useFakeCC": true
     }
   }
 }

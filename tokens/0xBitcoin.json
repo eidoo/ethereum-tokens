@@ -2,10 +2,11 @@
   "1": {
     "0xb6ed7644c69416d67b522e20bc294a9a9b405b31": {
       "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
-      "totalSupply": "2099998396800000",
       "decimals": 8,
+      "name": "0xBitcoin Token",
       "symbol": "0xBTC",
-      "name": "0xBitcoin Token"
+      "totalSupply": "2099998396800000",
+      "useFakeCC": true
     }
   }
 }

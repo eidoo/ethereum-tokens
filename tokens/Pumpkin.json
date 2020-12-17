@@ -2,10 +2,11 @@
   "1": {
     "0x5ac31cea4170b79ca8e966f9a39b1bcf8512a178": {
       "address": "0x5ac31cea4170b79ca8e966f9a39b1bcf8512a178",
-      "totalSupply": "6666666666000000000000000000",
       "decimals": 18,
+      "name": "Pumpkin",
       "symbol": "PMK",
-      "name": "Pumpkin"
+      "totalSupply": "6666666666000000000000000000",
+      "useFakeCC": true
     }
   }
 }

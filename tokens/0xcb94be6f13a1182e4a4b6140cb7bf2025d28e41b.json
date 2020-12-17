@@ -2,10 +2,11 @@
   "1": {
     "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b": {
       "address": "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b",
-      "totalSupply": "100000000000000",
       "decimals": 6,
+      "name": "Trustcoin",
       "symbol": "TRST",
-      "name": "Trustcoin"
+      "totalSupply": "100000000000000",
+      "useFakeCC": true
     }
   }
 }

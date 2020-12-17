@@ -2,10 +2,11 @@
   "1": {
     "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d": {
       "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
-      "totalSupply": "623087450937671000000000",
       "decimals": 18,
+      "name": "Aave Interest bearing DAI",
       "symbol": "aDAI",
-      "name": "Aave Interest bearing DAI"
+      "totalSupply": "623087450937671000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x444997b7e7fc830e20089afea3078cd518fcf2a2": {
       "address": "0x444997b7e7fc830e20089afea3078cd518fcf2a2",
-      "totalSupply": "99504937000000000000000000",
       "decimals": 18,
+      "name": "EWO Token",
       "symbol": "EWO",
-      "name": "EWO Token"
+      "totalSupply": "99504937000000000000000000",
+      "useFakeCC": true
     }
   }
 }

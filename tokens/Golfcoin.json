@@ -2,10 +2,11 @@
   "1": {
     "0x020C710646e23AB868dbE5B88004892797fE4eFb": {
       "address": "0x020C710646e23AB868dbE5B88004892797fE4eFb",
-      "totalSupply": "100000000000000000000000000000",
       "decimals": 18,
+      "name": "Golfcoin",
       "symbol": "GOLF",
-      "name": "Golfcoin"
+      "totalSupply": "100000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

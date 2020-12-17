@@ -2,10 +2,11 @@
   "1": {
     "0x0dfdd839cde95dabf56f0b5c5698e0159138930d": {
       "address": "0x0dfdd839cde95dabf56f0b5c5698e0159138930d",
-      "totalSupply": "900000000000000000000000000",
       "decimals": 18,
+      "name": "Mifichain",
       "symbol": "myfi",
-      "name": "Mifichain"
+      "totalSupply": "900000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

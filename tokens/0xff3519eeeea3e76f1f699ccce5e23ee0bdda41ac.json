@@ -2,10 +2,11 @@
   "1": {
     "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac": {
       "address": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac",
-      "totalSupply": "10000000",
       "decimals": 0,
+      "name": "Blockchain Capital",
       "symbol": "BCAP",
-      "name": "Blockchain Capital"
+      "totalSupply": "10000000",
+      "useFakeCC": true
     }
   }
 }

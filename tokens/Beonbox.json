@@ -2,10 +2,11 @@
   "1": {
     "0x01e579be97433f861340268521a7a2ab9829082c": {
       "address": "0x01e579be97433f861340268521a7a2ab9829082c",
-      "totalSupply": "8000000000000000000000000",
       "decimals": 18,
+      "name": "Beonbox",
       "symbol": "BOX",
-      "name": "Beonbox"
+      "totalSupply": "8000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

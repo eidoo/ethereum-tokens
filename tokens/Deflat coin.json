@@ -2,10 +2,11 @@
   "1": {
     "0xe1e0db951844e7fb727574d7daca68d1c5d1525b": {
       "address": "0xe1e0db951844e7fb727574d7daca68d1c5d1525b",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "DEFLAT Coin",
       "symbol": "DEFT",
-      "name": "DEFLAT Coin"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

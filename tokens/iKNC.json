@@ -2,10 +2,11 @@
   "1": {
     "0x1cc9567ea2eb740824a45f8026ccf8e46973234d": {
       "address": "0x1cc9567ea2eb740824a45f8026ccf8e46973234d",
-      "totalSupply": "32988852211022067625479",
       "decimals": 18,
+      "name": "Fulcrum KNC iToken",
       "symbol": "iKNC",
-      "name": "Fulcrum KNC iToken"
+      "totalSupply": "32988852211022067625479",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x64a60493d888728cf42616e034a0dfeae38efcf0": {
       "address": "0x64a60493d888728cf42616e034a0dfeae38efcf0",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "OneLedger",
       "symbol": "OLT",
-      "name": "OneLedger"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x9cda8a60dd5afa156c95bd974428d91a0812e054": {
       "address": "0x9cda8a60dd5afa156c95bd974428d91a0812e054",
-      "totalSupply": "10000000000000000000000000000",
       "decimals": 18,
+      "name": "Tatatu",
       "symbol": "TTU",
-      "name": "Tatatu"
+      "totalSupply": "10000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

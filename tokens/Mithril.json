@@ -2,10 +2,11 @@
   "1": {
     "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb": {
       "address": "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "Mithril",
       "symbol": "MITH",
-      "name": "Mithril"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x20e94867794dba030ee287f1406e100d03c84cd3": {
       "address": "0x20e94867794dba030ee287f1406e100d03c84cd3",
-      "totalSupply": "200000000000000000000000000",
       "decimals": 18,
+      "name": "DEW",
       "symbol": "DEW",
-      "name": "DEW"
+      "totalSupply": "200000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

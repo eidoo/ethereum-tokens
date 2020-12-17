@@ -2,10 +2,11 @@
   "1": {
     "0x18361bAEb2aFD717E36e3C9b44aD12d084911aE0": {
       "address": "0x18361bAEb2aFD717E36e3C9b44aD12d084911aE0",
-      "totalSupply": "1421619",
       "decimals": 18,
+      "name": "Gilgamesh",
       "symbol": "GIL",
-      "name": "Gilgamesh"
+      "totalSupply": "1421619",
+      "useFakeCC": true
     }
   }
 }

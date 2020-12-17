@@ -2,12 +2,12 @@
   "1": {
     "0x467Bccd9d29f223BcE8043b84E8C8B282827790F": {
       "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
-      "totalSupply": "10000000000000",
       "cryptoCompareSymbol": "TEL",
-      "useFakeCC": true,
       "decimals": 2,
+      "name": "Telcoin",
       "symbol": "TEL",
-      "name": "Telcoin"
+      "totalSupply": "10000000000000",
+      "useFakeCC": true
     }
   }
 }

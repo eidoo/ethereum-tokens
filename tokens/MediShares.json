@@ -2,10 +2,11 @@
   "1": {
     "0x66186008C1050627F979d464eABb258860563dbE": {
       "address": "0x66186008C1050627F979d464eABb258860563dbE",
-      "totalSupply": "2000000000000000000000000000",
       "decimals": 18,
+      "name": "MediShares",
       "symbol": "MDS",
-      "name": "MediShares"
+      "totalSupply": "2000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

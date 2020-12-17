@@ -2,10 +2,11 @@
   "1": {
     "0x168296bb09e24a88805cb9c33356536b980d3fc5": {
       "address": "0x168296bb09e24a88805cb9c33356536b980d3fc5",
-      "totalSupply": "100000000000000000",
       "decimals": 8,
+      "name": "Rchain",
       "symbol": "RHOC",
-      "name": "Rchain"
+      "totalSupply": "100000000000000000",
+      "useFakeCC": true
     }
   }
 }

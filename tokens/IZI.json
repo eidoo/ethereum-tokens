@@ -2,10 +2,11 @@
   "1": {
     "0xdf59c8ba19b4d1437d80836b45f1319d9a429eed": {
       "address": "0xdf59c8ba19b4d1437d80836b45f1319d9a429eed",
-      "totalSupply": "12500000000000",
       "decimals": 4,
+      "name": "IZIChain",
       "symbol": "IZI",
-      "name": "IZIChain"
+      "totalSupply": "12500000000000",
+      "useFakeCC": true
     }
   }
 }

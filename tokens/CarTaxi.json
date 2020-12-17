@@ -2,10 +2,11 @@
   "1": {
     "0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66": {
       "address": "0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66",
-      "totalSupply": "1",
       "decimals": 18,
+      "name": "CTX",
       "symbol": "CarTaxi",
-      "name": "CTX"
+      "totalSupply": "1",
+      "useFakeCC": true
     }
   }
 }

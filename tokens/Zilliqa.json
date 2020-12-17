@@ -2,10 +2,11 @@
   "1": {
     "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27": {
       "address": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
-      "totalSupply": "12600000000000000000000",
       "decimals": 12,
+      "name": "Zilliqa",
       "symbol": "ZIL",
-      "name": "Zilliqa"
+      "totalSupply": "12600000000000000000000",
+      "useFakeCC": true
     }
   }
 }

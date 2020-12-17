@@ -2,10 +2,11 @@
   "1": {
     "0x08ceed1e8db59acbb687a5752f0a7db815cfda5e": {
       "address": "0x08ceed1e8db59acbb687a5752f0a7db815cfda5e",
-      "totalSupply": "131636363000000000000000000",
       "decimals": 18,
+      "name": "Electronic Energy Coin",
       "symbol": "E2C",
-      "name": "Electronic Energy Coin"
+      "totalSupply": "131636363000000000000000000",
+      "useFakeCC": true
     }
   }
 }

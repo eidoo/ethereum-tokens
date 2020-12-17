@@ -2,10 +2,11 @@
   "1": {
     "0xdf2c7238198ad8b389666574f2d8bc411a4b7428": {
       "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
-      "totalSupply": "10000000000000000000000000000",
       "decimals": 18,
+      "name": "Mainframe Token",
       "symbol": "MFT",
-      "name": "Mainframe Token"
+      "totalSupply": "10000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x0775C81A273B355e6a5b76e240BF708701F00279": {
       "address": "0x0775C81A273B355e6a5b76e240BF708701F00279",
-      "totalSupply": "7970000000000000000000000",
       "decimals": 18,
+      "name": "Bulleon",
       "symbol": "BUL",
-      "name": "Bulleon"
+      "totalSupply": "7970000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

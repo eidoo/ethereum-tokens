@@ -2,10 +2,11 @@
   "1": {
     "0x8D75959f1E61EC2571aa72798237101F084DE63a": {
       "address": "0x8D75959f1E61EC2571aa72798237101F084DE63a",
-      "totalSupply": "472000000000000000000000000",
       "decimals": 18,
+      "name": "Substratum",
       "symbol": "SUB",
-      "name": "Substratum"
+      "totalSupply": "472000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

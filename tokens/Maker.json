@@ -2,10 +2,11 @@
   "1": {
     "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2": {
       "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-      "totalSupply": "1000000000000000000000000",
       "decimals": 18,
+      "name": "Maker",
       "symbol": "MKR",
-      "name": "Maker"
+      "totalSupply": "1000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

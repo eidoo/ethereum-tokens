@@ -2,10 +2,11 @@
   "1": {
     "0x1e49ff77c355a3e38d6651ce8404af0e48c5395f": {
       "address": "0x1e49ff77c355a3e38d6651ce8404af0e48c5395f",
-      "totalSupply": "78125410752134714382369468",
       "decimals": 18,
+      "name": "ModulTrade Token",
       "symbol": "MTRc",
-      "name": "ModulTrade Token"
+      "totalSupply": "78125410752134714382369468",
+      "useFakeCC": true
     }
   }
 }

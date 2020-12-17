@@ -2,10 +2,11 @@
   "1": {
     "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74": {
       "address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
-      "totalSupply": "7000000000000000000000000",
       "decimals": 18,
+      "name": "Walton",
       "symbol": "WTC",
-      "name": "Walton"
+      "totalSupply": "7000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

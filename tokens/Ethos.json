@@ -2,10 +2,11 @@
   "1": {
     "0x5af2be193a6abca9c8817001f45744777db30756": {
       "address": "0x5af2be193a6abca9c8817001f45744777db30756",
-      "totalSupply": "22229520823845323",
       "decimals": 8,
+      "name": "Ethos",
       "symbol": "ETHOS",
-      "name": "Ethos"
+      "totalSupply": "22229520823845323",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0x082280b4ae1a9e552555c256124de96fab63159b": {
       "address": "0x082280b4ae1a9e552555c256124de96fab63159b",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "Meterqubes",
       "symbol": "MEQ",
-      "name": "Meterqubes"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

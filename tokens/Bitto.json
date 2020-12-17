@@ -2,10 +2,11 @@
   "1": {
     "0xa101e27f06a97985b925e244111b61560ecd97db": {
       "address": "0xa101e27f06a97985b925e244111b61560ecd97db",
-      "totalSupply": "17301016785205479452054793",
       "decimals": 18,
+      "name": "Bitto",
       "symbol": "BITTO",
-      "name": "Bitto"
+      "totalSupply": "17301016785205479452054793",
+      "useFakeCC": true
     }
   }
 }

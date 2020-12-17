@@ -2,10 +2,11 @@
   "1": {
     "0x4b521ead25dc82b6d7efaf9904b455b29a5e1b2b": {
       "address": "0x4b521ead25dc82b6d7efaf9904b455b29a5e1b2b",
-      "totalSupply": "10000000000000000000",
       "decimals": 8,
+      "name": "KINWA Token",
       "symbol": "KINWA",
-      "name": "KINWA Token"
+      "totalSupply": "10000000000000000000",
+      "useFakeCC": true
     }
   }
 }

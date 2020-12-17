@@ -2,10 +2,11 @@
   "1": {
     "0x158079ee67fce2f58472a96584a73c7ab9ac95c1": {
       "address": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
-      "totalSupply": "3618075072814405",
       "decimals": 8,
+      "name": "Compound Augur",
       "symbol": "cREP",
-      "name": "Compound Augur"
+      "totalSupply": "3618075072814405",
+      "useFakeCC": true
     }
   }
 }

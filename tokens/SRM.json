@@ -2,12 +2,12 @@
   "1": {
     "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff": {
       "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
-      "totalSupply": "161000001000000",
       "cryptoCompareSymbol": "SRM",
-      "useFakeCC": true,
       "decimals": 6,
+      "name": "Serum",
       "symbol": "SRM",
-      "name": "Serum"
+      "totalSupply": "161000001000000",
+      "useFakeCC": true
     }
   }
 }

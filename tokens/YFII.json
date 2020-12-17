@@ -2,12 +2,12 @@
   "1": {
     "0x4be40bc9681d0a7c24a99b4c92f85b9053fc2a45": {
       "address": "0x4be40bc9681d0a7c24a99b4c92f85b9053fc2a45",
-      "totalSupply": "30000000000000000000000",
       "cryptoCompareSymbol": "YFII",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "DiFy.Finance",
       "symbol": "YFII",
-      "name": "DiFy.Finance"
+      "totalSupply": "30000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

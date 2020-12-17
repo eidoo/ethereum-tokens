@@ -2,10 +2,11 @@
   "1": {
     "0x46b9ad944d1059450da1163511069c718f699d31": {
       "address": "0x46b9ad944d1059450da1163511069c718f699d31",
-      "totalSupply": "249471071209990",
       "decimals": 6,
+      "name": "Credits",
       "symbol": "CS",
-      "name": "Credits"
+      "totalSupply": "249471071209990",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0xE3E4b982fb423f4aA837540CB364b8C0564D706A": {
       "address": "0xE3E4b982fb423f4aA837540CB364b8C0564D706A",
-      "totalSupply": "30000000000000000000000000",
       "decimals": 18,
+      "name": "Home360view",
       "symbol": "H3V",
-      "name": "Home360view"
+      "totalSupply": "30000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0xf3e014fe81267870624132ef3a646b8e83853a96": {
       "address": "0xf3e014fe81267870624132ef3a646b8e83853a96",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "VIN",
       "symbol": "VIN",
-      "name": "VIN"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

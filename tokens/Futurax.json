@@ -2,10 +2,11 @@
   "1": {
     "0x41875c2332b0877cdfaa699b641402b7d4642c32": {
       "address": "0x41875c2332b0877cdfaa699b641402b7d4642c32",
-      "totalSupply": "707640071803101565",
       "decimals": 8,
+      "name": "FUTURAX",
       "symbol": "FTXT",
-      "name": "FUTURAX"
+      "totalSupply": "707640071803101565",
+      "useFakeCC": true
     }
   }
 }

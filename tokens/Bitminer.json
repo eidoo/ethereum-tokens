@@ -2,10 +2,11 @@
   "1": {
     "0x256d9fe172f276823774020e15a27bda9b46f099": {
       "address": "0x256d9fe172f276823774020e15a27bda9b46f099",
-      "totalSupply": "18453712340071164830000",
       "decimals": 18,
+      "name": "Bitminer Factory Token",
       "symbol": "BMF",
-      "name": "Bitminer Factory Token"
+      "totalSupply": "18453712340071164830000",
+      "useFakeCC": true
     }
   }
 }

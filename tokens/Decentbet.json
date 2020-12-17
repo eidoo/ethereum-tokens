@@ -2,10 +2,11 @@
   "1": {
     "0x9b68bfae21df5a510931a262cecf63f41338f264": {
       "address": "0x9b68bfae21df5a510931a262cecf63f41338f264",
-      "totalSupply": "188218949674071196897993611",
       "decimals": 18,
+      "name": "Decent Bet",
       "symbol": "DBET",
-      "name": "Decent Bet"
+      "totalSupply": "188218949674071196897993611",
+      "useFakeCC": true
     }
   }
 }

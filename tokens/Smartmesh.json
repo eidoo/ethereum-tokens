@@ -2,10 +2,11 @@
   "1": {
     "0x55f93985431fc9304077687a35a1ba103dc1e081": {
       "address": "0x55f93985431fc9304077687a35a1ba103dc1e081",
-      "totalSupply": "3141592653000000000000000000",
       "decimals": 18,
+      "name": "SmartMesh",
       "symbol": "SMT",
-      "name": "SmartMesh"
+      "totalSupply": "3141592653000000000000000000",
+      "useFakeCC": true
     }
   }
 }

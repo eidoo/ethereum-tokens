@@ -2,10 +2,11 @@
   "1": {
     "0x3d7c5223825cc58bfa07b9484935ad76e1741a2b": {
       "address": "0x3d7c5223825cc58bfa07b9484935ad76e1741a2b",
-      "totalSupply": "100000000000000000000000000",
       "decimals": 18,
+      "name": "Joshua Coin",
       "symbol": "JSHCN",
-      "name": "Joshua Coin"
+      "totalSupply": "100000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

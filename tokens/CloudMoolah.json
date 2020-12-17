@@ -2,10 +2,11 @@
   "1": {
     "0x8f207f9b97cf0afc292a384d6c19a2a084acde5e": {
       "address": "0x8f207f9b97cf0afc292a384d6c19a2a084acde5e",
-      "totalSupply": "300000000000000000000000000",
       "decimals": 18,
+      "name": "CloudMoolah",
       "symbol": "MOO",
-      "name": "CloudMoolah"
+      "totalSupply": "300000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

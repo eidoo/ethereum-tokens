@@ -2,10 +2,11 @@
   "1": {
     "0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069": {
       "address": "0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069",
-      "totalSupply": "267941449000000000000000000",
       "decimals": 18,
+      "name": "BIBOX Token",
       "symbol": "BIX",
-      "name": "BIBOX Token"
+      "totalSupply": "267941449000000000000000000",
+      "useFakeCC": true
     }
   }
 }

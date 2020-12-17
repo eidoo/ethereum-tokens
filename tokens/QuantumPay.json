@@ -2,10 +2,11 @@
   "1": {
     "0xcd607FDD69931675F50eA43D3488785367322B4e": {
       "address": "0xcd607FDD69931675F50eA43D3488785367322B4e",
-      "totalSupply": "1149999975000000000",
       "decimals": 8,
+      "name": "QuantumPay",
       "symbol": "QPAY",
-      "name": "QuantumPay"
+      "totalSupply": "1149999975000000000",
+      "useFakeCC": true
     }
   }
 }

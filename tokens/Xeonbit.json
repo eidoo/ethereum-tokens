@@ -2,10 +2,11 @@
   "1": {
     "0x79c71d3436f39ce382d0f58f1b011d88100b9d91": {
       "address": "0x79c71d3436f39ce382d0f58f1b011d88100b9d91",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "Xeonbit Token",
       "symbol": "XNS",
-      "name": "Xeonbit Token"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

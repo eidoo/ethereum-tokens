@@ -2,10 +2,11 @@
   "1": {
     "0xbb49a51ee5a66ca3a8cbe529379ba44ba67e6771": {
       "address": "0xbb49a51ee5a66ca3a8cbe529379ba44ba67e6771",
-      "totalSupply": "1124463120866261648297659123",
       "decimals": 18,
+      "name": "Cryptosolartech",
       "symbol": "CST",
-      "name": "Cryptosolartech"
+      "totalSupply": "1124463120866261648297659123",
+      "useFakeCC": true
     }
   }
 }

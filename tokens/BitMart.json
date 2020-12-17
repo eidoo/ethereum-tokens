@@ -2,10 +2,11 @@
   "1": {
     "0x986ee2b944c42d017f52af21c4c69b84dbea35d8": {
       "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
-      "totalSupply": "998591530400000000000000000",
       "decimals": 18,
+      "name": "BitMartToken",
       "symbol": "BMC",
-      "name": "BitMartToken"
+      "totalSupply": "998591530400000000000000000",
+      "useFakeCC": true
     }
   }
 }

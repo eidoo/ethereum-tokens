@@ -2,10 +2,11 @@
   "1": {
     "0xf62baa1997f04f165edd100d78241e07617f6ce6": {
       "address": "0xf62baa1997f04f165edd100d78241e07617f6ce6",
-      "totalSupply": "108236351599902936000000000",
       "decimals": 18,
+      "name": "Uservice",
       "symbol": "UST",
-      "name": "Uservice"
+      "totalSupply": "108236351599902936000000000",
+      "useFakeCC": true
     }
   }
 }

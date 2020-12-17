@@ -2,12 +2,12 @@
   "1": {
     "0xeb9951021698b42e4399f9cbb6267aa35f82d59d": {
       "address": "0xeb9951021698b42e4399f9cbb6267aa35f82d59d",
-      "totalSupply": "24976439451356366343919930",
       "cryptoCompareSymbol": "LIF",
-      "useFakeCC": true,
       "decimals": 18,
+      "name": "Lif",
       "symbol": "LIF",
-      "name": "Lif"
+      "totalSupply": "24976439451356366343919930",
+      "useFakeCC": true
     }
   }
 }

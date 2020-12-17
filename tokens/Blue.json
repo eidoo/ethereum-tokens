@@ -2,10 +2,11 @@
   "1": {
     "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b": {
       "address": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
-      "totalSupply": "42000000",
       "decimals": 8,
+      "name": "Blue",
       "symbol": "BLUE",
-      "name": "Blue"
+      "totalSupply": "42000000",
+      "useFakeCC": true
     }
   }
 }

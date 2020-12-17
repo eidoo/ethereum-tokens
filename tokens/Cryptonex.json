@@ -2,10 +2,11 @@
   "1": {
     "0x94d6b4fb35fb08cb34aa716ab40049ec88002079": {
       "address": "0x94d6b4fb35fb08cb34aa716ab40049ec88002079",
-      "totalSupply": "100000001000000000",
       "decimals": 8,
+      "name": "Cryptonex",
       "symbol": "CNX",
-      "name": "Cryptonex"
+      "totalSupply": "100000001000000000",
+      "useFakeCC": true
     }
   }
 }

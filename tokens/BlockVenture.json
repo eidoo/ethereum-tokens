@@ -2,10 +2,11 @@
   "1": {
     "0xf4467cae19c5a53b9fdcd4ded678826805aa1927": {
       "address": "0xf4467cae19c5a53b9fdcd4ded678826805aa1927",
-      "totalSupply": "10000000000000000",
       "decimals": 8,
+      "name": "Block Venture Coin",
       "symbol": "XBV",
-      "name": "Block Venture Coin"
+      "totalSupply": "10000000000000000",
+      "useFakeCC": true
     }
   }
 }

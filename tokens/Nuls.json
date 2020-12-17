@@ -2,10 +2,11 @@
   "1": {
     "0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c": {
       "address": "0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c",
-      "totalSupply": "40000000000000000000000000",
       "decimals": 18,
+      "name": "Nuls",
       "symbol": "NULS",
-      "name": "Nuls"
+      "totalSupply": "40000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

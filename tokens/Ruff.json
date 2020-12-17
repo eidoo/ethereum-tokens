@@ -2,10 +2,11 @@
   "1": {
     "0xf278c1ca969095ffddded020290cf8b5c424ace2": {
       "address": "0xf278c1ca969095ffddded020290cf8b5c424ace2",
-      "totalSupply": "1840000000000000000000000000",
       "decimals": 18,
+      "name": "RUFF",
       "symbol": "RUFF",
-      "name": "RUFF"
+      "totalSupply": "1840000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

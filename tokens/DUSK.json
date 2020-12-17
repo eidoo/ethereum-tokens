@@ -2,10 +2,11 @@
   "1": {
     "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551": {
       "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
-      "totalSupply": "500000000000000000000000000",
       "decimals": 18,
+      "name": "Dusk Network",
       "symbol": "DUSK",
-      "name": "Dusk Network"
+      "totalSupply": "500000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

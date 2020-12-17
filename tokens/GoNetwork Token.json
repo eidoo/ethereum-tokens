@@ -1,11 +1,12 @@
 {
-    "1": {
-      "0x423b5f62b328d0d6d44870f4eee316befa0b2df5": {
-        "address": "0x423b5f62b328d0d6d44870f4eee316befa0b2df5",
-        "totalSupply": "100000000000000000000000000",
-        "decimals": 18,
-        "symbol": "GOT",
-        "name": "GoNetwork Token"
-      }
+  "1": {
+    "0x423b5f62b328d0d6d44870f4eee316befa0b2df5": {
+      "address": "0x423b5f62b328d0d6d44870f4eee316befa0b2df5",
+      "decimals": 18,
+      "name": "GoNetwork Token",
+      "symbol": "GOT",
+      "totalSupply": "100000000000000000000000000",
+      "useFakeCC": true
     }
   }
+}

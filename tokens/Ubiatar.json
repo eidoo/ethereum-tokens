@@ -2,10 +2,11 @@
   "1": {
     "0x4297a285db467eB779FCc45F69A169bd8dCCd0e9": {
       "address": "0x4297a285db467eB779FCc45F69A169bd8dCCd0e9",
-      "totalSupply": "85000000000000000000000000",
       "decimals": 18,
+      "name": "Ubiatar Coin",
       "symbol": "UAC",
-      "name": "Ubiatar Coin"
+      "totalSupply": "85000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

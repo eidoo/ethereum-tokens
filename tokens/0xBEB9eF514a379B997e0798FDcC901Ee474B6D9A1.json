@@ -2,10 +2,11 @@
   "1": {
     "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
       "address": "0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1",
-      "totalSupply": "7.494e+23",
       "decimals": 18,
+      "name": "Melon Token",
       "symbol": "MLN",
-      "name": "Melon Token"
+      "totalSupply": "7.494e+23",
+      "useFakeCC": true
     }
   }
 }

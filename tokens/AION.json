@@ -2,10 +2,11 @@
   "1": {
     "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
       "address": "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466",
-      "totalSupply": "46593458666000000",
       "decimals": 8,
+      "name": "AION",
       "symbol": "AION",
-      "name": "AION"
+      "totalSupply": "46593458666000000",
+      "useFakeCC": true
     }
   }
 }

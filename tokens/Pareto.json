@@ -2,10 +2,11 @@
   "1": {
     "0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc": {
       "address": "0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc",
-      "totalSupply": "500000000000000000000000000",
       "decimals": 18,
+      "name": "Pareto Network Token",
       "symbol": "PARETO",
-      "name": "Pareto Network Token"
+      "totalSupply": "500000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

@@ -2,10 +2,11 @@
   "1": {
     "0xe7d3e4413e29ae35b0893140f4500965c74365e5": {
       "address": "0xe7d3e4413e29ae35b0893140f4500965c74365e5",
-      "totalSupply": "1000000000000000000000000000",
       "decimals": 18,
+      "name": "B2BCoin",
       "symbol": "BBC",
-      "name": "B2BCoin"
+      "totalSupply": "1000000000000000000000000000",
+      "useFakeCC": true
     }
   }
 }

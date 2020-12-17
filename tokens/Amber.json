@@ -2,10 +2,11 @@
   "1": {
     "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce": {
       "address": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
-      "totalSupply": "361477437535701402159030000",
       "decimals": 18,
+      "name": "Amber",
       "symbol": "AMB",
-      "name": "Amber"
+      "totalSupply": "361477437535701402159030000",
+      "useFakeCC": true
     }
   }
 }
