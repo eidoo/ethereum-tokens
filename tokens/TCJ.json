@@ -2,7 +2,7 @@
   "1": {
     "0x44744e3e608d1243f55008b328fe1b09bd42e4cc": {
       "address": "0x44744e3e608d1243f55008b328fe1b09bd42e4cc",
-      "cryptoCompareSymbol": "TCJ",
+      "cryptoCompareSymbol":"TCJ",
       "decimals": 18,
       "name": "Coinshare",
       "symbol": "TCJ",
