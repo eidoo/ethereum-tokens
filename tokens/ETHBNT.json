@@ -2,12 +2,12 @@
   "1": {
     "0xb1cd6e4153b2a390cf00a6556b0fc1458c4a5533": {
       "address": "0xb1cd6e4153b2a390cf00a6556b0fc1458c4a5533",
-      "cryptoCompareSymbol": "ETHBNT",
+      "cryptoCompareSymbol": "BNT",
       "decimals": 18,
       "name": "BNT Smart Token Relay",
       "symbol": "ETHBNT",
       "totalSupply": "0",
-      "useFakeCC": true
+      "useFakeCC": false
     }
   }
 }
