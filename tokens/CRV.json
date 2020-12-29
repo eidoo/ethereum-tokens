@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0xd533a949740bb3306d119cc777fa900ba034cd52": {
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "totalSupply": "1398195767105723794352417045",
+      "cryptoCompareSymbol": "CRV",
+      "decimals": 18,
+      "symbol": "CRV",
+      "name": "Curve DAO Token",
+      "useFakeCC": true
+    }
+  }
+}
