@@ -2,7 +2,7 @@
   "1": {
     "0x5979F50f1D4c08f9A53863C2f39A7B0492C38d0f": {
       "address": "0x5979F50f1D4c08f9A53863C2f39A7B0492C38d0f",
-      "cryptoCompareSymbol": "LTC",
+      "cryptoCompareSymbol": "pLTC",
       "decimals": 18,
       "name": "pTokens LTC",
       "symbol": "pLTC",
