@@ -2,7 +2,7 @@
   "1": {
     "0x5228a22e72ccc52d415ecfd199f99d0665e7733b": {
       "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
-      "cryptoCompareSymbol": "BTC",
+      "cryptoCompareSymbol": "pBTC",
       "decimals": 18,
       "name": "pTokens BTC",
       "symbol": "pBTC",
