@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0x4fe83213d56308330ec302a8bd641f1d0113a4cc": {
+      "address": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc",
+      "cryptoCompareSymbol": "NU",
+      "decimals": 18,
+      "name": "NuCypher",
+      "symbol": "NU",
+      "totalSupply": "3885390081748248632541961138",
+      "useFakeCC": true
+    }
+  }
+}
