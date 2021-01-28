@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0xe3fb646fC31Ca12657B17070bC31a52E323b8543": {
+      "address": "0xe3fb646fC31Ca12657B17070bC31a52E323b8543",
+      "cryptoCompareSymbol": "eGLD",
+      "decimals": 18,
+      "name": "Elrond Gold",
+      "symbol": "eGLD",
+      "totalSupply": "10000000000000000000000",
+      "useFakeCC": true
+    }
+  }
+}
