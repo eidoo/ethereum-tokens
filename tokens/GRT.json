@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0xc944e90c64b2c07662a292be6244bdf05cda44a7": {
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "cryptoCompareSymbol": "GRT",
+      "decimals": 18,
+      "name": "Graph Token",
+      "symbol": "GRT",
+      "totalSupply": "10024157516991095428947196922",
+      "useFakeCC": true
+    }
+  }
+}
