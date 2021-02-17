@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0xd055b033b2d72e4b2c26048c5d412026c1823015": {
+      "address": "0xd055b033b2d72e4b2c26048c5d412026c1823015",
+      "cryptoCompareSymbol": "DOGE",
+      "decimals": 18,
+      "name": "pTokens DOGE",
+      "symbol": "pDOGE",
+      "totalSupply": "638115989571753922067976",
+      "useFakeCC": true
+    }
+  }
+}
