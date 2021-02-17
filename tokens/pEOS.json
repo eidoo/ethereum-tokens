@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0x8e220b9d3f09c56dc306cab1d7644b846066cc43": {
+      "address": "0x8e220b9d3f09c56dc306cab1d7644b846066cc43",
+      "cryptoCompareSymbol": "EOS",
+      "decimals": 18,
+      "name": "pTokens EOS",
+      "symbol": "pEOS",
+      "totalSupply": "0",
+      "useFakeCC": true
+    }
+  }
+}
