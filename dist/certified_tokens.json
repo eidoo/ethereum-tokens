@@ -4176,6 +4176,7 @@
     },
     "0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d": {
       "address": "0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d",
+      "cryptoCompareSymbol": "SKI",
       "decimals": 18,
       "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMaXZlbGxvXzEiIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48c3R5bGU+LnN0MHtmaWxsOiMwMDFhNzF9PC9zdHlsZT48cGF0aCBkPSJNNTguOSA3Ni4ybDIwLjUgMTEuOUwxMDAgNzYuMmw2MS43IDM1Ljd2MjMuN0wxMDAgMTcxLjNsLTgyLjMtNDcuNnYyMy44TDEwMCAxOTVsODIuMy00Ny41Vjk5LjhMMTAwIDUyLjV6IiBjbGFzcz0ic3QwIi8+PHBhdGggZD0iTTEwMCA1TDE3LjcgNTIuNVY5OS45bDgyLjMgNDcuNiA0MS4xLTIzLjctMjAuNS0xMS45LTIwLjYgMTEuOS02MS43LTM1LjdWNjQuNEwxMDAgMjguN2w4Mi4zIDQ3LjRWNTIuNXoiIGNsYXNzPSJzdDAiLz48L3N2Zz4=",
       "name": "SkillChain",
