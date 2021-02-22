@@ -2,6 +2,7 @@
   "1": {
     "0x996Dc5dfc819408Dd98Cd92c9a76f64b0738Dc3D": {
       "address": "0x996Dc5dfc819408Dd98Cd92c9a76f64b0738Dc3D",
+      "cryptoCompareSymbol": "SKI",
       "decimals": 18,
       "name": "SkillChain",
       "symbol": "SKI",
