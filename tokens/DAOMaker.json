@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0x0f51bb10119727a7e5ea3538074fb341f56b09ad": {
+      "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+      "cryptoCompareSymbol": "DAO",
+      "decimals": 18,
+      "name": "DAO Maker",
+      "symbol": "DAO",
+      "totalSupply": "308777934511780000000000000",
+      "useFakeCC": true
+    }
+  }
+}
