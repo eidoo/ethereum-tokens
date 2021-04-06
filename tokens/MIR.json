@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0x09a3EcAFa817268f77BE1283176B946C4ff2E608": {
+      "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+      "cryptoCompareSymbol": "MIRROR",
+      "decimals": 18,
+      "name": "Wrapped MIR Token",
+      "symbol": "MIR",
+      "totalSupply": "116689450789652712743403795",
+      "useFakeCC": true
+    }
+  }
+}
