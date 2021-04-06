@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0xfca59cd816ab1ead66534d82bc21e7515ce441cf": {
+      "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+      "cryptoCompareSymbol": "RARI",
+      "decimals": 18,
+      "name": "Rarible",
+      "symbol": "RARI",
+      "totalSupply": "25000000000000000000000000",
+      "useFakeCC": true
+    }
+  }
+}
