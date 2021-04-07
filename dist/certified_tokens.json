@@ -2009,16 +2009,6 @@
       "useFakeCC": true,
       "verified": "0x01"
     },
-    "0x46ae264bf6d9dc6dd84c31064551f961c67a755c": {
-      "address": "0x46ae264bf6d9dc6dd84c31064551f961c67a755c",
-      "decimals": 18,
-      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNMTg3LjQgOTMuOXYtMThoLTE3VjVoLTM4Ljh2NzAuOUg2OC4zVjVIMjkuNnY3MC45aC0xN3YxOGgxN3YxMC40aC0xN3YxOGgxN1YxOTVoMzguOHYtNzIuOGg2My4zVjE5NWgzOC44di03Mi44aDE3di0xOGgtMTdWOTMuOWgxNi45em0tNTUuNyAxMC40SDY4LjNWOTMuOWg2My4zdjEwLjR6Ii8+PC9zdmc+",
-      "name": "HOT",
-      "symbol": "HTX",
-      "totalSupply": "10000000000000000000000000",
-      "useFakeCC": true,
-      "verified": "0x01"
-    },
     "0x46b9ad944d1059450da1163511069c718f699d31": {
       "address": "0x46b9ad944d1059450da1163511069c718f699d31",
       "cryptoCompareSymbol": "CRDTS",
