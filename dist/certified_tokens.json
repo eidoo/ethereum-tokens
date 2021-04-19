@@ -3190,16 +3190,6 @@
       "useFakeCC": true,
       "verified": "0x01"
     },
-    "0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38": {
-      "address": "0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38",
-      "decimals": 18,
-      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBmaWxsPSIjNjkzMmQ0IiBkPSJNMTU4LjMgMzkuMlY1SDg3LjZMNDYgMzkuMmgxMTIuM3YxMzEuN2gtMTEzVjM5LjdMMTAuNyA2Ny40QzcgNzcuNiA1IDg4LjUgNSAxMDBjMCA1Mi41IDQyLjUgOTUgOTUgOTVzOTUtNDIuNSA5NS05NVYzOS4yaC0zNi43eiIvPjwvc3ZnPg==",
-      "name": "Utrust",
-      "symbol": "UTK",
-      "totalSupply": "500000000000000000000000000",
-      "useFakeCC": true,
-      "verified": "0x01"
-    },
     "0x71010a9d003445ac60c4e6a7017c1e89a477b438": {
       "address": "0x71010a9d003445ac60c4e6a7017c1e89a477b438",
       "decimals": 18,
@@ -5799,6 +5789,17 @@
       "name": "BitCoin Token",
       "symbol": "BTK",
       "totalSupply": "10000000000000000000000000000",
+      "useFakeCC": true,
+      "verified": "0x01"
+    },
+    "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c": {
+      "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
+      "cryptoCompareSymbol": "UTK",
+      "decimals": 18,
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBmaWxsPSIjNjkzMmQ0IiBkPSJNMTU4LjMgMzkuMlY1SDg3LjZMNDYgMzkuMmgxMTIuM3YxMzEuN2gtMTEzVjM5LjdMMTAuNyA2Ny40QzcgNzcuNiA1IDg4LjUgNSAxMDBjMCA1Mi41IDQyLjUgOTUgOTUgOTVzOTUtNDIuNSA5NS05NVYzOS4yaC0zNi43eiIvPjwvc3ZnPg==",
+      "name": "Utrust",
+      "symbol": "UTK",
+      "totalSupply": "500000000000000000000000000",
       "useFakeCC": true,
       "verified": "0x01"
     },
