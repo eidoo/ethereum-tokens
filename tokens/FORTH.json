@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0x77fba179c79de5b7653f68b5039af940ada60ce0": {
+      "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+      "cryptoCompareSymbol": "FORTH",
+      "decimals": 18,
+      "name": "Ampleforth Governance Token",
+      "symbol": "FORTH",
+      "totalSupply": "14998897144559330607623017",
+      "useFakeCC": true
+    }
+  }
+}
