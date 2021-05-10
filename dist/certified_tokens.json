@@ -3242,6 +3242,7 @@
     },
     "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131": {
       "address": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+      "cryptoCompareSymbol": "NGC",
       "decimals": 18,
       "img": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGl2ZWxsb18xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDIwMCAyMDAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIwMCAyMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiNFRDFCMkY7fQ0KCS5zdDF7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+DQo8Y2lyY2xlIGNsYXNzPSJzdDAiIGN4PSI5OS45IiBjeT0iMTAwLjEiIHI9Ijk1Ii8+DQo8cG9seWdvbiBjbGFzcz0ic3QxIiBwb2ludHM9Ijg1LjYsMTY0LjUgODcuMSwxMTYuMSA3OC4zLDExNi4xIDgyLjcsNzMuOCAxMjIuNyw2OC4zIDEwOS44LDEwNS41IDEyNC43LDEwNC45ICIvPg0KPHBhdGggY2xhc3M9InN0MSIgZD0iTTgzLjMsNjkuNmwzOC43LTVMMTA0LjMsNTRjMCwwLDEtMTUuNC0xMi40LTE5LjZsLTEuMSw0LjhjMCwwLDguNCwxLjgsNy42LDE1LjJMODMuMyw2OS42eiIvPg0KPC9zdmc+DQo=",
       "name": "NAGA Coin",
@@ -3309,6 +3310,17 @@
       "name": "Fulcrum ETH iToken",
       "symbol": "iETH",
       "totalSupply": "1581667063145456049566",
+      "useFakeCC": true,
+      "verified": "0x01"
+    },
+    "0x77fba179c79de5b7653f68b5039af940ada60ce0": {
+      "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+      "cryptoCompareSymbol": "FORTH",
+      "decimals": 18,
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNMjguNyAxOTVjNS00LjEgMTEuNy0xNC4yIDExLjctMjhWMzQuOGMwLTE0LjYgMS4xLTIyLjctMTIuOC0yOS44aDEzMi4xYzEwLjcgMCAxMi43IDcuMyAxMi43IDEyLjJWNDRjLTEwLjMtMzEuOS02NC41LTM1LjItODktMjUuMy00LjQgMS44LTguMSA1LjktOC4xIDE2LjEgMCA0My43LTEuMSA4OC41IDAgMTMyLjIuMiA5LjYgMy44IDE5LjcgMTAuMiAyOEgyOC43eiIvPjwvc3ZnPg==",
+      "name": "Ampleforth Governance Token",
+      "symbol": "FORTH",
+      "totalSupply": "14998897144559330607623017",
       "useFakeCC": true,
       "verified": "0x01"
     },
@@ -4037,6 +4049,17 @@
       "name": "DAPSTOKEN",
       "symbol": "DAPS",
       "totalSupply": "60000000000000000000000000000",
+      "useFakeCC": true,
+      "verified": "0x01"
+    },
+    "0x9355372396e3f6daf13359b7b607a3374cc638e0": {
+      "address": "0x9355372396e3f6daf13359b7b607a3374cc638e0",
+      "cryptoCompareSymbol": "WHALE",
+      "decimals": 4,
+      "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMaXZlbGxvXzEiIHg9IjAiIHk9IjAiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDIwMCAyMDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxzdHlsZT4uc3Qxe2ZpbGw6IzAxMDIwMn08L3N0eWxlPjxjaXJjbGUgY3g9IjEwMCIgY3k9IjEwMCIgcj0iOTUiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTAwIDcuOWMtMy4yIDAtNi4zLjItOS40LjV2MTcuNGMzLjEtLjQgNi4yLS42IDkuNC0uNiAzMy42IDAgNjIuMSAyMi4zIDcxLjYgNTIuOUgxMC41Yy0xLjcgNy0yLjYgMTQuNC0yLjYgMjIgMCA1MC45IDQxLjMgOTIuMSA5Mi4xIDkyLjEgNTAuOSAwIDkyLjEtNDEuMyA5Mi4xLTkyLjEgMC01MS00MS4yLTkyLjItOTIuMS05Mi4yem0wIDE2Ni45Yy00MS4zIDAtNzQuOC0zMy42LTc0LjgtNzQuOCAwLTEuNi4xLTMuMS4yLTQuN2gxNi4zYzAgMzUgMjguNCA2My4zIDYzLjMgNjMuM3YtMTEuOWMtMjguNCAwLTUxLjUtMjMuMS01MS41LTUxLjVoMTIxLjJjLjEgMS42LjIgMy4xLjIgNC43LS4xIDQxLjQtMzMuNiA3NC45LTc0LjkgNzQuOXoiIGNsYXNzPSJzdDEiLz48Y2lyY2xlIGN4PSIxMDAuNyIgY3k9IjExOS44IiByPSI4LjYiIGNsYXNzPSJzdDEiLz48L3N2Zz4=",
+      "name": "WHALE",
+      "symbol": "WHALE",
+      "totalSupply": "100000000000",
       "useFakeCC": true,
       "verified": "0x01"
     },
