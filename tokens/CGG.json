@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43": {
+      "address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+      "cryptoCompareSymbol": "CGG",
+      "decimals": 18,
+      "name": "ChainGuardians Governance Token",
+      "symbol": "CGG",
+      "totalSupply": "120000000000000000000000000",
+      "useFakeCC": true
+    }
+  }
+}
