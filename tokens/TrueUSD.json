@@ -2,10 +2,11 @@
   "1": {
     "0x0000000000085d4780b73119b644ae5ecd22b376": {
       "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+      "cryptoCompareSymbol": "TUSD",
       "decimals": 18,
       "name": "TrueUSD",
       "symbol": "TUSD",
-      "totalSupply": "204001975470000000000000000",
+      "totalSupply": "994465749460000000000000000",
       "useFakeCC": true
     }
   }
