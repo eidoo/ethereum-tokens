@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9": {
+      "address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+      "cryptoCompareSymbol": "LUNA",
+      "decimals": 18,
+      "name": "Wrapped LUNA Token",
+      "symbol": "LUNA",
+      "totalSupply": "2993216434548503000663359",
+      "useFakeCC": true
+    }
+  }
+}
