@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8": {
+      "address": "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
+      "cryptoCompareSymbol": "SNTVT",
+      "decimals": 18,
+      "name": "Sentivate",
+      "symbol": "SNTVT",
+      "totalSupply": "4200000000000000000000000000",
+      "useFakeCC": true
+    }
+  }
+}
