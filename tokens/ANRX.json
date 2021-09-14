@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0": {
+      "address": "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+      "cryptoCompareSymbol": "$ANRX",
+      "decimals": 18,
+      "name": "AnRKey X",
+      "symbol": "$ANRX",
+      "totalSupply": "200000000000000000000000000",
+      "useFakeCC": true
+    }
+  }
+}
