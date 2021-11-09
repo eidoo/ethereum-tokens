@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3": {
+      "address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+      "cryptoCompareSymbol": "MIM",
+      "decimals": 18,
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "totalSupply": "2544752207249970277727532745",
+      "useFakeCC": true
+    }
+  }
+}
