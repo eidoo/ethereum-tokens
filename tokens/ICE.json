@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0xf16e81dce15b08f326220742020379b855b87df9": {
+      "address": "0xf16e81dce15b08f326220742020379b855b87df9",
+      "cryptoCompareSymbol": "ICE",
+      "decimals": 18,
+      "name": "IceToken",
+      "symbol": "ICE",
+      "totalSupply": "64638422852380952466615466",
+      "useFakeCC": true
+    }
+  }
+}
