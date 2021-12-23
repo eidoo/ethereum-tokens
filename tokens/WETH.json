@@ -1,0 +1,13 @@
+{
+  "1": {
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "cryptoCompareSymbol": "WETH",
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "totalSupply": "7353686772523206692513233",
+      "useFakeCC": true
+    }
+  }
+}
