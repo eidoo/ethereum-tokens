@@ -1,12 +1,12 @@
 {
   "1": {
-    "0x4922a015c4407f87432b179bb209e125432e4a2a": {
-      "address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
+    "0x68749665ff8d2d112fa859aa293f07a622782f38": {
+      "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
       "cryptoCompareSymbol": "XAUt",
       "decimals": 6,
-      "name": "Gold Tether",
+      "name": "Tether Gold",
       "symbol": "XAUt",
-      "totalSupply": "15959038000",
+      "totalSupply": "165834759000",
       "useFakeCC": true
     }
   }
